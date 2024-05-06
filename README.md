@@ -1,17 +1,17 @@
-# Titulo de la Solución: Prueba de concepto X
->Este documento presenta la decripción de la solución, la arquitectura y las principales consideraciones y pasos requeridos para realizar el despliegue e instalación del X.
+# Modelo de Scoring de Crédito con Machine Learning
+>Este documento presenta la decripción de la solución, la arquitectura y las principales consideraciones y pasos requeridos para realizar el despliegue e instalación del Modelo de Scoring de Crédito con Machine Learning.
 
-Tambien, en el siguientes links se encuentran la informacion documental asociada al proyecto:
+Tambien, en los siguientes links se encuentra la informacion documental asociada al proyecto:
 
-[Carpeta Asociada asociada a Protocolo de Informacion de Equipo](**Se debe habilitar enlace de OneDrive en donde tenga la informacion**)
+Carpeta Asociada asociada a Protocolo de Informacion de Equipo:[https://livejaverianaedu.sharepoint.com/:f:/r/sites/PruebasdeconceptoacadmicasCAOBA-poc-069-lumon-riesgo-crediticio-fase1/Shared%20Documents/poc-069-lumon-riesgo-crediticio-fase1/1_Proyecto%20y%20seguimiento?csf=1&web=1&e=ZG3kVP]
 
-[Informe Proyecto](**Se debe habilitar enlace en donde tenga la informacion**)
+Informe Proyecto: [https://livejaverianaedu.sharepoint.com/:w:/r/sites/PruebasdeconceptoacadmicasCAOBA-poc-069-lumon-riesgo-crediticio-fase1/Shared%20Documents/poc-069-lumon-riesgo-crediticio-fase1/1_Proyecto%20y%20seguimiento/Informe%20proyecto/1_Propuesta%20de%20proyecto.docx?d=w7026f59589424f289fa3cc23861e7881&csf=1&web=1&e=FYgOyc]
 
-[Manual de Usuario](**Se debe habilitar enlace en donde tenga la informacion**)
+Manual de Usuario: (**Pendiente**)
 
-[Video Demo](**Se debe habilitar enlace en donde esta el demo establecido*)
+Video Demo: (**Pediente**)
 
-[Hacer copia y llenar plantilla de Comunicaciones](https://docs.google.com/document/d/1Lc-vkdru-VcBhAuCe9aKOgc99HhGIM9m/edit#heading=h.30j0zll)
+Plantilla de Comunicaciones:[(https://livejaverianaedu.sharepoint.com/:w:/r/sites/PruebasdeconceptoacadmicasCAOBA-poc-069-lumon-riesgo-crediticio-fase1/Shared%20Documents/poc-069-lumon-riesgo-crediticio-fase1/1_Proyecto%20y%20seguimiento/Plantillas%20Caoba/PLANTILLA%20DE%20INSUMOS%20_CAOBA_PoC%20069.docx?d=w7c1b8ef32d9f480f996d6934cf14d5ea&csf=1&web=1&e=DNyObh)] 
 
 ## Tabla de Contenidos
 * [Descripción de la solución](#descripción-de-la-solución)
@@ -23,72 +23,72 @@ Tambien, en el siguientes links se encuentran la informacion documental asociada
 * [Autores](#autores)
 
 ## Descripción de la solución
-**Nota:** Obligatorio: Minimo debe tener una descripcion de la solucion con los objetivos establecidos con el negocio y los entregables esperados.
+ En Lumon SAS para continuar con su línea de negocio de Fintech se requiere una herramienta para el análisis de riesgo financiero de los clientes a los que se adjudica los créditos, por lo tanto, se quiere aprovechar la bases de datos que hoy se tiene de los numerosos prestamos desembolsados a los usuarios para desarrollar un algoritmo predictivo de machine learning que genere la probabilidad de impago del cliente, generando así una adjudicación optima de los créditos, garantizando los flujos de caja desembolsados de los créditos y reduciendo los costos en casas de cobranza
 
 ### Reto del cliente
-**Nota:** Puede poner cual es el reto que el cliente tiene y se quiere resolver con analitica
+LUMON desarrolla software para el control de riesgo financiero. En el funcionamiento de esta línea de negocio se ha evidenciado la continua presencia del riesgo financiero para nuestros clientes, en temas de impagos de los créditos, incurriendo en costos de cobranza para recuperar la cartera vencida.
+Por tanto, se plantea la pregunta: ¿Cuál es la probabilidad que el usuario no pague el crédito recibido?
 ### Solución Alianza CAOBA
-**Nota:** Puede poner la solucion propuesta desde el equipo
+En la primera reunión sostenida con la empresa se aclaró la expectativa y alcance del proyecto, definiendo como entregable final un modelo de Machine Learning desarrollado en Python para predecir la probabilidad de impago del cliente.
 ### Impacto potencial esperado en el Negocio
-**Nota:** Puede poner el impacto que espera el negocio
+1. Reducir la incidencia de incumplimientos de préstamos entre los usuarios de nuestra plataforma fintech.
+2. Reducir los costos de cobranza identificando de forma preventiva los préstamos en riesgo.
+3. Mejorar la retención de clientes ofreciendo intervenciones oportunas para los usuarios en riesgo.
+4. Integrar insights predictivos en los procesos de aprobación y monitoreo de préstamos de los clientes
+5. Tener una cartera más sana, conformada por clientes con buenos puntajes crediticios y una baja posibilidad de default
 
-**Ejemplos: Como debe estar la descripción de la solución**
-![](structure_example/docs/readme/ejemplo_descripcion_proyecto.png)
+**Descripción de la solución**
+(**Pediente imagen**)
 
 ### Screenshots / Demo
-**Nota:** Obligatorio: Debe poner una imagen, .gif o otros de la solucion entregada desplegada para el negocio
-![screenshot](https://www.eclipsemediasolutions.com/sites/default/files/Audience-web-traffic-fluctuations1.jpg)
+(**Pediente demo**)
 
 ## Arquitectura logica de la solución
-**Nota:** Obligatorio: Minimo debe haber una descripcion y una imagen con un diagrama que represente la organizacion de los procesos que se realizaron en la solucion
 
-**Ejemplo: Se espera un diagrama como la siguiente figura:** 
-![](structure_example/docs/readme/docs_Arquitectura.png)
+**Preprocesamiento:**
+El proceso inicia con el dataset entregado por Lumon SAS, el cual contiene información socioeconómica e información crediticia de los usuarios con créditos, donde se realiza un análisis exploratorio y descriptivo de cada una de las columnas con el objetivo de entender las variables entregadas. Posteriormente se implementa un proceso de limpieza y selección de características del dataset donde se decide eliminar ciertas variables de la base de datos de acuerdo con la conversación con el equipo Lumon y los resultados de los análisis exploratorios donde se visualizan columnas repetidas, columnas sin varianza (datos con valor único), columnas linealmente dependendientes, columnas altamente relacionadas o columnas con datos no agregan valor al módelo. 
+
+Este proceso genera como resultado dos dataset: 
+* [DB sin valores nulos:] Esta base de datos tiene los datos socioeconómicos e información de crédito de los usuarios. El porcentaje total de usuarios que diligenciaron la información socioeconómica es del 3% por ello se decidió separar esta información para modelarla por separado.
+* [DB sin información de usuarios:] Este dataset comprende solo las columnas con información asociada a los créditos incluyendo la totalidad de los registros.
+
+Esta decisión de toma para aprovechar la data entregada y no eliminar el 97% de la información al no tener datos de la información de usuarios.
+
+A la base de datos con información de los usuarios se le implementaran procesos de NLP para estandarizar valores de las columnas y reducir la dispersión del dataset. Luego se hará un proceso de balanceo de datos con la base de datos obtenida del proceso de estandarización de texto y el dataset sin información de usuarios, todo esto con el fin implementar dos modelos con cada base de datos y luego hacer la integración de estos. 
+ 
+ **Modelamiento:**
+
+**Diagrama** 
+![](structure_example/docs/readme/docs_DiagramaArquitectura.png)
 
 
 
 ## Estructura del proyecto
-
-**Ejemplo: Forma de poner estructura en Markdown**
-
--- Se recomiendo uso del comanddo y su uso dependera de su Sistema Operativo:
-[tree](https://www.geeksforgeeks.org/tree-command-unixlinux/) 
 
 ```
 .
 ├── README.md
 ├── data/
 │   ├── raw/
-│   │   ├── data.txt
-│   │   └── data_ignorar.txt
+│   │   ├── db_v0.xlsx
 │   └── stage/
-│       └── todo.txt
+│       └── db_stage_infousers.cvs
+│       └── db_stage_reducida.cvs
 │   ├── analytics/
-│   │   └── todo.txt
 ├── datalab/
-│   └── todo.txt
+    ├──EDA.ipynb
+    ├──Cleannig.ipynb
+    ├──basicdescriptives_mod.py
 ├── src/
-│   └── todo.txt
 ├── conf/
-│   └── todo.txt
 ├── docs/
 │   └── readme/
-│       ├── docs_Arquitectura.png
-│       ├── docs_modeloDatosPowerBI.png
-│       ├── ejemplo_descripcion_proyecto.png
-│       └── ejemplo_estructura_proyecto.png
+│       ├── docs_DiagramaArquitectura.png
 ├── dashboard/
-│   └── todo.txt
 ├── deploy/
-│   └── todo.txt
 └── temp/
-    ├── 00Standard_Ref_to_make_Experiments.ipynb
-    └── root.py
+    ├──basicdescriptives.py
 ```
-
-**Ejemplo:Se espera un diagrama como la siguiente figura: ** 
-![](structure_example/docs/readme/ejemplo_estructura_proyecto.png)
-
 
 
 ## Proceso de ejecucion y despliegue
@@ -149,3 +149,5 @@ If you have run out of energy or time for your project, put a note at the top of
 |----------|-------------|-------------|
 | PUJ-Bogota |  Persona 1: Cientific@ de Datos | ejemplo@XXXX |
 | Organizacion  |  Persona 2:Lider del negocio  | ejemplo@XXXX |
+
+
