@@ -72,8 +72,8 @@ A la base de datos con información de los usuarios se le implementaran procesos
 │   ├── raw/
 │   │   ├── db_v0.xlsx
 │   └── stage/
-│       └── db_stage_infousers.cvs
-│       └── db_stage_reducida.cvs
+│       └── db_stage_infousers.csv
+│       └── db_stage_reducida.csv
 │   ├── analytics/
 ├── datalab/
     ├──EDA.ipynb
