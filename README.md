@@ -59,7 +59,7 @@ A la base de datos con información de los usuarios se le implementaran procesos
  **Modelamiento:**
 
 **Diagrama** 
-![](structure_example/docs/readme/docs_DiagramaArquitectura.png)
+![](docs/readme/docs_DiagramaArquitectura.png)
 
 
 
