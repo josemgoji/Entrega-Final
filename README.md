@@ -149,7 +149,21 @@ Utilizando los conjuntos de test se procede a evaluar los modelos y se generar l
 ## Requerimientos
 **Nota:** Obligatorio: Minimo debe escribir los requerimientos por cada lenguaje de programacion usado tanto en el back-end (Ej: Python, R) como en el front-end, si aplica. Tambien, es importante que ponga las versiones correspondientes 
 ### Librerias Empleadas 
-Para llenar
+
+fuzzywuzzy==0.18.0
+gensim==4.3.2
+matplotlib==3.9.0
+missingno==0.5.2
+nltk==3.8.1
+numpy==1.26.4
+pandas==2.2.2
+scikit_learn==1.5.0
+scipy==1.13.1
+seaborn==0.13.2
+spacy==3.7.4
+statsmodels==0.14.2
+Unidecode==1.3.8
+
 ### Requerimientos Hardware
 Para llenar
 ### Requerimientos Software
