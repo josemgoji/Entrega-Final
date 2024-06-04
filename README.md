@@ -28,9 +28,9 @@ Video Demo: (**Pediente**)
 Plantear una solución basada en algoritmos de machine learning la cual permita analizar la informacion de la linea de negocio de prestamos de la empresa Lumon SAS, con el fin de saber si estos son elegibles o no para un prestamo, para ello se elaborará una herramienta basada en las caracteristicas socioeconomicas e información de crédito del individuo la cual estimara la probabilidad de impago de cliente, permitiendo tener una cartera más sana, mitigar el riesgo de credito y tener una selección adeuada de los riesgos. 
 
 ### Objetivos especificos
-  -Analizar la base de datos de la empresa para encontrar características y relaciones importantes que brinden información relevante al modelo.
-  -Caracterizar la base datos para la correcta implementación del modelo.
-  -Aplicar un modelo de machine learning con una metricas adecuadas el cual sirva como una punto de partida para toma de decisiones, y a su vez adjudicar los prestamos de manera eficiente.
+  - Analizar la base de datos de la empresa para encontrar características y relaciones importantes que brinden información relevante al modelo.
+  - Caracterizar la base datos para la correcta implementación del modelo.
+  - Aplicar un modelo de machine learning con una metricas adecuadas el cual sirva como una punto de partida para toma de decisiones, y a su vez adjudicar los prestamos de manera eficiente.
 
 ## Descripción de la solución
 En Lumon SAS para continuar con su línea de negocio de Fintech se requiere una herramienta para el análisis de riesgo financiero de los clientes a los que se adjudica los créditos, por lo tanto, se quiere aprovechar la bases de datos que hoy se tiene de los numerosos prestamos desembolsados a los usuarios para desarrollar un algoritmo predictivo de machine learning que genere la probabilidad de impago del cliente, generando así una adjudicación optima de los créditos, garantizando los flujos de caja desembolsados de los créditos y reduciendo los costos en casas de cobranza
@@ -57,10 +57,10 @@ En la primera reunión sostenida con la empresa se aclaró la expectativa y alca
 
 ### Preprocesamiento
 
-**Analisis exploratorio** 
+**Analisis exploratorio** <br>
 El proceso inicia con el dataset entregado por Lumon SAS, el cual contiene información socioeconómica e información crediticia de los usuarios con créditos, donde se realiza un análisis exploratorio y descriptivo de cada una de las columnas con el objetivo de entender las variables entregadas.
 
-**Limpieza y feature seleciton 1** 
+**Limpieza y feature seleciton 1** <br>
 Posteriormente se implementa un proceso de limpieza y selección de características del dataset donde se decide eliminar ciertas variables de la base de datos de acuerdo con la conversación con el equipo Lumon y los resultados de los análisis exploratorios donde se visualizan columnas repetidas, columnas sin varianza (datos con valor único), columnas linealmente dependientes y/o columnas con datos no agregan valor al módelo. 
 
 Este proceso genera como resultado dos dataset: 
@@ -69,28 +69,28 @@ Este proceso genera como resultado dos dataset:
 
 *Esta decisión se toma para aprovechar la data entregada y no eliminar el 97% de la información al no tener datos de la socioeconomicos de los usuarios.*
 
-**Procesamiento de variables categóricas** 
+**Procesamiento de variables categóricas** <br>
 A la base de datos con información de los usuarios se le implementaran procesos de NLP para estandarizar valores de las columnas y reducir la dispersión del dataset, enfocados principalmente en la ciudad de residencia. Para esto se utilizó la distancia de Levenshtein para asociar las ciudades que estan mal digitadas con las que no y poder estandarizarlas, además  se utilizo un dataset que contiene 900 municipios de Colombia para hacer asociación de cada ciudad con su longitud y latitud.
 Adicionalmente se procesaron todas las variables de fecha (Ponerlas en formato datatime) y la columna 'tiempo trabajo' (para convertirla en número de meses).
 
-**Manejo de outliers, imputación y codificación** 
+**Manejo de outliers, imputación y codificación** <br>
 Posterior al procesamiento de las variables categóricas se procede a analizar la distribución de datos nulos para proceder con su imputación, las variables categóricas se imputaron con la moda. Para las para numéricas se inicio eliminando los datos atípicos con distancia de Mahalanobis, luego de esto se imputan los datos con la mediana, exceptuando las variables de 'Ingresos mensuales' la cual se estimó mediante regresión utilizando el resto de datos numericos. 
 Luego de tener todos los datos imputados se procede a realizar el One Hot Encoding para las variables categóricas y se extrae del campo 'Fecha desembolso' el mes y se trabaja con esta nuevo columna.
 
-**Train test split, balanceo y feature selection2** 
+**Train test split, balanceo y feature selection2** <br>
 Antes de pasar la etapa de entrenamiento se hará un split del conjunto de datos en dos subconjuntos con los siguientes porcentajes del dataset original: entrenamiento-80% y prueba 20%. Luego de esto se usaron los siguientes métodos utilizando el conjunto de entrenamiento para eliminar categorías no releventes: Matriz de correlaciones para las variables numéricas, y así determinar cuáles de estas están altamente correlacionadas y para las categóricas se evalúa la dependencia con variable objetivo mediante el test chi-cuadrado. 
 
 Previo a la etapa de modelación se balanceará el subconjunto de entrenamiento con el objetivo de que al entrenar el modelo se puedan obtener mejores resultados y tener una distribución de clases en el dataset de 50-50.
 
 ### Modelamiento
 
-**Model training y cross validation** 
+**Model training y cross validation** <br>
 Partiendo del dataset de entrenamiento balanceado se procede con la implementación de los modelos NaiveBayes, Regresión Logistica y LDA Lineal. La idea es aplicar estos tres modelos para ambos conjuntos de datos (Información usuarios, Información crediticia) y elegir el mejor modelo a partir de cross validation.
 
-**Feature selection con backward** 
+**Feature selection con backward** <br>
 Luego de seleccionar el mejor modelo se busca de manera iterativa ir eliminando columnas mediante backward selection utilizando la metrica F1-Score.
 
-**Evaluación en test y reporte de metricas**
+**Evaluación en test y reporte de metricas** <br>
 Utilizando los conjuntos de test se procede a evaluar los modelos y se generar las graficas de desempeño final. 
 
 
@@ -110,16 +110,16 @@ Utilizando los conjuntos de test se procede a evaluar los modelos y se generar l
 │   │   ├── db_raw_reducida.csv
 │   │   ├── db_v0.xlsx
 │   └── stage/
-│       └── df_pross_info_users.csv
-│       └── df_categorico_imputado.csv
-│       └── df_imputado_final.csv
-│       └── df_imputado.csv
-│       └── df_numerico_imputado.csv
-│       └── df_numerico1_imputado.csv
-│       └── train_creditinfo.csv
-│       └── train_infousers.csv
-│       └── test_creditinfo.csv
-│       └── test_infousers.csv
+│   |   └── df_pross_info_users.csv
+│   |   └── df_categorico_imputado.csv
+│   |   └── df_imputado_final.csv
+│   |   └── df_imputado.csv
+│   |   └── df_numerico_imputado.csv
+│   |   └── df_numerico1_imputado.csv
+│   |   └── train_creditinfo.csv
+│   |   └── train_infousers.csv
+│   |   └── test_creditinfo.csv
+│   |   └── test_infousers.csv
 │   ├── analytics/
 ├── datalab/
 |    ├──basicdescriptives_mod.py
