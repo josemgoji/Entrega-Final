@@ -226,10 +226,17 @@ python 4_FS2_train_test_split.py
 ```
 
 ### Paso 8: 
-- Entenamiento del modelo, seleccion con cross validation y evaluacion del modelo seleccionado , para esto debe ejecutar el siguiente archivo
+- Entrenamiento del modelo y seleccion con cross validation, para esto debe ejecutar el siguiente archivo
   
 ```
-python 5_model_training_CV_evaluacion.py
+python 5_model_training_CV.py
+
+```
+### Paso 9: 
+- Evaluacion del modelo seleccionado , para esto debe ejecutar el siguiente archivo
+  
+```
+python 6_model_evaluation.py
 
 ```
 
