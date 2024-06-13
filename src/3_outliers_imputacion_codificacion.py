@@ -9,6 +9,7 @@ import missingno as msno
 import seaborn as sns
 # librerias Imputacion y evaluacion
 from sklearn.linear_model import LinearRegression 
+from sklearn.experimental import enable_iterative_imputer
 from sklearn.impute import IterativeImputer, SimpleImputer
 #libreria para codificacion
 # cargar los datos
