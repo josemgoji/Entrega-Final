@@ -242,19 +242,17 @@ python 5_model_training_CV_evaluacion.py
 
 ### Librerias Empleadas 
 
-fuzzywuzzy==0.18.0 <br>
-gensim==4.3.2<br>
-matplotlib==3.9.0<br>
-missingno==0.5.2<br>
-nltk==3.8.1<br>
-numpy==1.26.4<br>
-pandas==2.2.2<br>
-scikit_learn==1.5.0<br>
-scipy==1.13.1<br>
-seaborn==0.13.2<br>
-spacy==3.7.4<br>
-statsmodels==0.14.2<br>
-Unidecode==1.3.8<br>
+fuzzywuzzy<br>
+imblearn<br>
+joblib<br>
+matplotlib<br>
+missingno<br>
+numpy<br>
+pandas<br>
+scikit_learn<br>
+scipy<br>
+seaborn<br>
+Unidecode<br>
 
 ### Requerimientos Hardware
 
