@@ -12,7 +12,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,150000,2815.5,2015-07-24,2842,1,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,quincenal,nan,nan,0.0,2.0,ninguno,1,0,10.39972,-75.51444,24.0
 30,100000,1877.0,2015-07-24,2842,1,independiente,nan,2.0,entre uno y cinco anos,,,,nan,nan,nan,nan,2.0,2.0,ninguno,1,0,2.19593,-75.62777,
 30,100000,1877.0,2015-07-25,2841,1,empleado,nan,3.0,entre uno y cinco anos,,,,termino fijo,quincenal,nan,nan,0.0,0.0,ninguno,1,0,4.60971,-74.08175,1.0
-30,150000,2815.5,2015-07-26,2840,1,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,2.0,1.0,ninguno,1,0,6.67169,-73.17421,48.0
+30,150000,2815.5,2015-07-26,2840,1,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,2.0,1.0,ninguno,1,0,4.60971,-74.08175,48.0
 30,100000,1877.0,2015-07-27,2839,1,empleado,nan,2.0,menos de un ano,,,,indefinido,quincenal,nan,nan,2.0,2.0,ninguno,1,0,6.33732,-75.55795,36.0
 30,100000,1877.0,2015-07-31,2835,1,empleado,nan,3.0,entre uno y cinco anos,,,,termino fijo,mensual,nan,nan,0.0,0.0,ninguno,1,0,6.33732,-75.55795,24.0
 30,100000,1877.0,2015-08-01,2834,1,desempleado,nan,3.0,mas de 5 anos,,,,nan,nan,nan,nan,0.0,0.0,ninguno,1,0,4.60971,-74.08175,
@@ -20,7 +20,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,200000,3754.0,2015-08-02,2833,1,empleado,nan,6.0,entre uno y cinco anos,,,,indefinido,quincenal,nan,nan,0.0,0.0,ninguno,1,0,4.60971,-74.08175,6.0
 30,100000,1877.0,2015-08-02,2833,1,empleado,nan,2.0,menos de un ano,950000.0,500000.0,,indefinido,quincenal,nan,nan,1.0,1.0,ninguno,1,0,4.60971,-74.08175,
 30,100000,1877.0,2015-08-12,2823,1,empleado,nan,3.0,mas de 5 anos,,,,indefinido,mensual,nan,nan,0.0,0.0,ninguno,1,0,10.96854,-74.78132,48.0
-29,150000,2721.65,2015-08-12,2823,1,independiente,nan,2.0,mas de 5 anos,850000.0,600000.0,200000.0,nan,nan,nan,nan,0.0,0.0,ninguno,1,0,8.51064,-73.44776,
+29,150000,2721.65,2015-08-12,2823,1,independiente,nan,2.0,mas de 5 anos,850000.0,600000.0,200000.0,nan,nan,nan,nan,0.0,0.0,ninguno,1,0,9.7174,-75.12023,
 30,100000,1877.0,2015-08-13,2822,1,empleado,nan,2.0,mas de 5 anos,,,,indefinido,mensual,nan,nan,1.0,1.0,moto,1,0,-4.21528,-69.94056,36.0
 20,100000,1251.333333,2015-08-13,2822,1,empleado,nan,3.0,mas de 5 anos,,,,termino fijo,quincenal,nan,nan,0.0,0.0,ninguno,1,0,4.60971,-74.08175,6.0
 30,350000,6569.5,2015-08-16,2819,1,independiente,nan,2.0,mas de 5 anos,,,,nan,nan,nan,nan,1.0,1.0,ninguno,1,0,4.43889,-75.23222,
@@ -77,7 +77,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 26,150000,2440.1,2016-03-16,2606,1,empleado,nan,2.0,mas de 5 anos,,,,indefinido,quincenal,nan,nan,1.0,1.0,ninguno,1,0,4.73245,-74.26419,12.0
 30,200000,3754.0,2016-03-20,2602,1,empleado,nan,2.0,mas de 5 anos,,,,termino fijo,quincenal,nan,nan,1.0,1.0,carro,1,0,3.43722,-76.5225,
 30,100000,1877.0,2016-03-23,2599,1,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,quincenal,nan,nan,1.0,1.0,ninguno,1,0,5.74601,-75.97765,
-30,100000,1877.0,2015-07-30,2589,0,empleado,nan,3.0,entre uno y cinco anos,1500000.0,500000.0,1300000.0,termino fijo,mensual,nan,nan,3.0,0.0,ninguno,1,0,10.37808,-74.88356,
+30,100000,1877.0,2015-07-30,2589,0,empleado,nan,3.0,entre uno y cinco anos,1500000.0,500000.0,1300000.0,termino fijo,mensual,nan,nan,3.0,0.0,ninguno,1,0,4.60971,-74.08175,
 30,100000,1877.0,2015-08-14,2579,0,empleado,nan,4.0,mas de 5 anos,,,,indefinido,mensual,nan,nan,2.0,1.0,moto,1,0,10.46314,-73.25322,
 30,330000,6194.1,2016-04-17,2574,1,empleado,nan,2.0,mas de 5 anos,,,,termino fijo,mensual,nan,nan,1.0,1.0,ninguno,1,0,10.75773,-74.75451,84.0
 30,100000,1877.0,2015-08-16,2572,0,empleado,nan,4.0,mas de 5 anos,,,,indefinido,quincenal,nan,nan,2.0,2.0,ninguno,1,0,4.60971,-74.08175,120.0
@@ -93,7 +93,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,400000,7508.0,2016-02-05,2516,0,independiente,nan,3.0,entre uno y cinco anos,,,,nan,nan,nan,nan,2.0,2.0,ninguno,1,0,10.96854,-74.78132,
 30,250000,4692.5,2015-07-16,2489,0,empleado,nan,3.0,mas de 5 anos,,,,indefinido,quincenal,nan,nan,0.0,0.0,ninguno,1,0,10.03672,-73.23558,12.0
 29,250000,4536.083333,2015-07-09,2476,0,empleado,nan,1.0,mas de 5 anos,,,,termino fijo,mensual,nan,nan,0.0,0.0,carro,1,0,4.60971,-74.08175,25.492772667542706
-30,200000,3754.0,2016-07-28,2472,1,empleado,nan,1.0,entre uno y cinco anos,,,,termino fijo,quincenal,nan,nan,3.0,4.0,ninguno,1,0,4.60971,-74.08175,15.0
+30,200000,3754.0,2016-07-28,2472,1,empleado,nan,1.0,entre uno y cinco anos,,,,termino fijo,quincenal,nan,nan,3.0,4.0,ninguno,1,0,2.93833,-73.20833,15.0
 30,150000,2815.5,2015-10-23,2472,0,empleado,nan,3.0,mas de 5 anos,,,,indefinido,mensual,nan,nan,0.0,0.0,ninguno,1,0,3.43722,-76.5225,23.0
 30,300000,5631.0,2016-07-30,2470,1,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,quincenal,nan,nan,0.0,0.0,ninguno,1,0,10.96854,-74.78132,24.0
 24,250000,3754.0,2016-08-04,2465,1,empleado,familiar,3.0,mas de 5 anos,2220000.0,600000.0,,indefinido,quincenal,soltero/a,profesional,,,moto,1,0,4.60971,-74.08175,
@@ -115,12 +115,12 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,350000,6569.5,2016-11-12,2365,1,empleado,nan,3.0,mas de 5 anos,,,,indefinido,mensual,nan,nan,2.0,2.0,ninguno,1,0,3.23114,-76.41668,
 30,250000,4692.5,2016-11-12,2365,1,empleado,familiar,3.0,mas de 5 anos,1650000.0,550000.0,100000.0,indefinido,mensual,union libre,tecnologo,2.0,1.0,ninguno,1,0,4.60971,-74.08175,5.091984231274639
 30,300000,5631.0,2016-11-17,2360,1,empleado,familiar,2.0,mas de 5 anos,737000.0,400000.0,450000.0,termino fijo,quincenal,union libre,secundaria,3.0,3.0,ninguno,1,0,4.60971,-74.08175,5.0
-30,300000,5631.0,2016-11-19,2358,1,empleado,arrendada,3.0,entre uno y cinco anos,1000000.0,600000.0,200000.0,indefinido,quincenal,soltero/a,secundaria,1.0,1.0,ninguno,1,0,4.73245,-74.26419,12.45072273324573
+30,300000,5631.0,2016-11-19,2358,1,empleado,arrendada,3.0,entre uno y cinco anos,1000000.0,600000.0,200000.0,indefinido,quincenal,soltero/a,secundaria,1.0,1.0,ninguno,1,0,4.60971,-74.08175,12.45072273324573
 30,200000,3754.0,2016-11-19,2358,1,empleado,nan,3.0,menos de un ano,,,,indefinido,quincenal,nan,nan,0.0,0.0,ninguno,1,0,6.25184,-75.56359,12.0
 30,500000,9385.0,2016-11-19,2358,1,empleado,nan,2.0,mas de 5 anos,,,,indefinido,mensual,nan,nan,1.0,1.0,ninguno,1,0,4.60971,-74.08175,72.0
 26,300000,4880.2,2016-11-21,2356,1,empleado,nan,3.0,entre uno y cinco anos,1200000.0,600000.0,390000.0,indefinido,mensual,nan,nan,1.0,1.0,ninguno,1,0,4.81333,-75.69611,
 30,250000,4692.5,2016-11-23,2354,1,empleado,propia,3.0,entre uno y cinco anos,,,,indefinido,mensual,soltero/a,no tengo,1.0,2.0,ninguno,1,0,4.60971,-74.08175,
-30,300000,5631.0,2016-11-24,2353,1,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,1.0,1.0,ninguno,1,0,5.45948,-74.33823,144.0
+30,300000,5631.0,2016-11-24,2353,1,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,1.0,1.0,ninguno,1,0,4.60971,-74.08175,144.0
 30,200000,3754.0,2016-12-03,2344,1,empleado,arrendada,3.0,entre uno y cinco anos,1600000.0,800000.0,300000.0,indefinido,quincenal,soltero/a,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,24.0
 30,300000,5631.0,2016-12-08,2339,1,empleado,familiar,2.0,mas de 5 anos,3000000.0,1800000.0,100000.0,indefinido,quincenal,union libre,tecnico,5.0,4.0,ninguno,1,0,10.15031,-73.9614,61.59658344283837
 30,400000,7508.0,2016-12-09,2338,1,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,3.0,2.0,ninguno,1,0,7.12539,-73.1198,108.0
@@ -154,7 +154,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,500000,9385.0,2017-02-01,2284,1,independiente,nan,4.0,menos de un ano,,,,nan,nan,nan,nan,0.0,4.0,carro,1,0,6.25184,-75.56359,
 30,300000,5631.0,2017-02-01,2284,1,empleado,nan,2.0,mas de 5 anos,,,,termino fijo,mensual,nan,nan,3.0,0.0,ninguno,1,0,4.60971,-74.08175,12.0
 9,200000,1126.2,2017-01-13,2283,0,empleado,nan,2.0,entre uno y cinco anos,,,,indefinido,nan,nan,nan,0.0,0.0,ninguno,1,0,4.43889,-75.23222,0.0
-30,300000,5631.0,2016-12-16,2282,0,empleado,nan,2.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,1.0,0.0,ninguno,1,0,8.4115,-75.58508,48.0
+30,300000,5631.0,2016-12-16,2282,0,empleado,nan,2.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,1.0,0.0,ninguno,1,0,4.60971,-74.08175,48.0
 29,120000,2177.32,2017-02-08,2277,1,empleado,nan,1.0,mas de 5 anos,1000000.0,550000.0,200000.0,termino fijo,quincenal,nan,nan,1.0,1.0,ninguno,1,0,3.8801,-77.03116,22.733245729303547
 30,250000,4692.5,2017-02-09,2276,1,empleado,nan,2.0,mas de 5 anos,,,,indefinido,mensual,nan,nan,2.0,0.0,ninguno,1,0,4.60971,-74.08175,36.0
 30,300000,5631.0,2017-02-10,2275,1,independiente,nan,4.0,entre uno y cinco anos,,,,nan,nan,nan,nan,0.0,0.0,ninguno,1,0,4.60971,-74.08175,
@@ -230,11 +230,11 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,250000,4692.5,2017-03-19,2238,1,independiente,nan,3.0,mas de 5 anos,,,,nan,nan,nan,nan,1.0,3.0,ninguno,1,0,7.53941,-72.77238,
 14,250000,2189.833333,2017-03-20,2237,1,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,quincenal,nan,nan,0.0,0.0,ninguno,1,0,4.60971,-74.08175,12.0
 30,250000,4692.5,2017-03-22,2235,1,empleado,nan,3.0,mas de 5 anos,,,,indefinido,quincenal,nan,nan,1.0,1.0,ninguno,1,0,1.79861,-78.81556,60.0
-30,270000,5067.9,2017-01-22,2234,0,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,0.0,0.0,ninguno,1,0,0.88283,-77.70103,39.0
+30,270000,5067.9,2017-01-22,2234,0,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,0.0,0.0,ninguno,1,0,4.60971,-74.08175,39.0
 30,240000,4504.8,2017-03-23,2234,1,empleado,nan,2.0,mas de 5 anos,,,,indefinido,quincenal,nan,nan,1.0,1.0,ninguno,1,0,4.43889,-75.23222,15.0
-30,300000,5631.0,2017-03-24,2233,1,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,1.0,1.0,ninguno,1,0,5.06667,-74.56667,120.0
+30,300000,5631.0,2017-03-24,2233,1,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,1.0,1.0,ninguno,1,0,4.60971,-74.08175,120.0
 30,300000,5631.0,2017-03-24,2233,1,empleado,propia,3.0,entre uno y cinco anos,1352000.0,480000.0,,indefinido,mensual,soltero/a,no tengo,2.0,3.0,ninguno,1,0,4.60971,-74.08175,
-30,300000,5631.0,2017-03-24,2233,1,pensionado,nan,3.0,mas de 5 anos,,,,nan,nan,nan,nan,0.0,2.0,ninguno,1,0,4.60971,-74.08175,
+30,300000,5631.0,2017-03-24,2233,1,pensionado,nan,3.0,mas de 5 anos,,,,nan,nan,nan,nan,0.0,2.0,ninguno,1,0,6.09106,-75.63569,
 30,200000,3754.0,2017-03-24,2233,1,empleado,nan,3.0,menos de un ano,,,,indefinido,quincenal,nan,nan,0.0,0.0,ninguno,1,0,1.85371,-76.05071,3.0
 30,400000,7508.0,2017-03-25,2232,1,empleado,nan,1.0,mas de 5 anos,2200000.0,600000.0,800000.0,indefinido,quincenal,nan,nan,2.0,3.0,ninguno,1,0,4.60971,-74.08175,54.7634691195795
 30,250000,4692.5,2017-03-25,2232,1,independiente,nan,2.0,menos de un ano,,,,nan,nan,nan,nan,4.0,4.0,carro,1,0,4.60971,-74.08175,
@@ -243,7 +243,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,250000,4692.5,2017-03-25,2232,1,pensionado,nan,3.0,mas de 5 anos,,,,nan,nan,nan,nan,0.0,1.0,ninguno,1,0,6.18461,-75.59913,
 29,200000,3628.866667,2017-03-25,2232,1,independiente,nan,3.0,mas de 5 anos,,,,nan,nan,nan,nan,0.0,0.0,ninguno,1,0,8.23773,-73.35604,
 30,300000,5631.0,2017-03-26,2231,1,empleado,nan,2.0,entre uno y cinco anos,,,,indefinido,quincenal,nan,nan,0.0,0.0,ninguno,1,0,6.25184,-75.56359,22.0
-30,300000,5631.0,2017-03-26,2231,1,empleado,nan,3.0,menos de un ano,1800000.0,900000.0,,indefinido,quincenal,nan,nan,1.0,1.0,ninguno,1,0,8.94617,-75.44275,
+30,300000,5631.0,2017-03-26,2231,1,empleado,nan,3.0,menos de un ano,1800000.0,900000.0,,indefinido,quincenal,nan,nan,1.0,1.0,ninguno,1,0,4.60971,-74.08175,
 30,250000,4692.5,2017-03-26,2231,1,empleado,nan,2.0,menos de un ano,,,,indefinido,quincenal,nan,nan,1.0,1.0,ninguno,1,0,10.39972,-75.51444,24.0
 30,100000,1877.0,2017-03-26,2231,1,independiente,nan,3.0,menos de un ano,950000.0,1300000.0,100000.0,nan,nan,nan,nan,0.0,0.0,ninguno,1,0,10.96854,-74.78132,
 30,300000,5631.0,2017-03-29,2228,1,empleado,familiar,2.0,mas de 5 anos,1300000.0,200000.0,200000.0,termino fijo,mensual,union libre,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,24.0
@@ -314,7 +314,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,250000,4692.5,2017-04-16,2210,1,empleado,nan,3.0,mas de 5 anos,,,,termino fijo,mensual,nan,nan,0.0,0.0,ninguno,1,0,10.96854,-74.78132,6.0
 30,200000,3754.0,2017-04-16,2210,1,independiente,nan,3.0,entre uno y cinco anos,,,,nan,nan,nan,nan,3.0,3.0,ninguno,1,0,10.79115,-74.76059,
 11,250000,1720.583333,2017-04-16,2210,1,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,quincenal,nan,nan,0.0,0.0,ninguno,1,0,6.33732,-75.55795,9.0
-20,170000,2127.266667,2017-04-17,2209,1,independiente,nan,3.0,mas de 5 anos,,,,nan,nan,nan,nan,2.0,2.0,moto,1,0,8.09263,-76.72822,
+20,170000,2127.266667,2017-04-17,2209,1,independiente,nan,3.0,mas de 5 anos,,,,nan,nan,nan,nan,2.0,2.0,moto,1,0,4.60971,-74.08175,
 18,350000,3941.7,2017-04-17,2209,1,empleado,nan,3.0,mas de 5 anos,,,,indefinido,quincenal,nan,nan,0.0,0.0,ninguno,1,0,4.60971,-74.08175,48.0
 28,200000,3503.733333,2017-04-18,2208,1,empleado,nan,2.0,mas de 5 anos,,,,termino fijo,mensual,nan,nan,1.0,2.0,carro,1,0,6.15515,-75.37371,
 29,250000,4536.083333,2017-04-19,2207,1,empleado,nan,2.0,mas de 5 anos,1300000.0,800000.0,300000.0,termino fijo,quincenal,nan,nan,1.0,1.0,ninguno,1,0,4.60971,-74.08175,0.0
@@ -332,8 +332,8 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,250000,4692.5,2017-04-22,2204,1,independiente,nan,3.0,mas de 5 anos,,,,nan,nan,nan,nan,0.0,1.0,ninguno,1,0,3.8801,-77.03116,
 30,300000,5631.0,2017-04-22,2204,1,independiente,nan,5.0,entre uno y cinco anos,,,,nan,nan,nan,nan,1.0,0.0,ninguno,1,0,5.06889,-75.51738,
 30,300000,5631.0,2017-04-23,2203,1,independiente,nan,2.0,mas de 5 anos,,,,nan,nan,nan,nan,1.0,1.0,ninguno,1,0,4.60971,-74.08175,
-28,200000,3503.733333,2017-04-24,2202,1,empleado,nan,2.0,mas de 5 anos,,,,termino fijo,quincenal,nan,nan,3.0,2.0,ninguno,1,0,8.94617,-75.44275,12.0
-28,300000,5255.6,2017-02-17,2201,0,empleado,nan,2.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,1.0,0.0,ninguno,2,1,8.4115,-75.58508,48.0
+28,200000,3503.733333,2017-04-24,2202,1,empleado,nan,2.0,mas de 5 anos,,,,termino fijo,quincenal,nan,nan,3.0,2.0,ninguno,1,0,4.60971,-74.08175,12.0
+28,300000,5255.6,2017-02-17,2201,0,empleado,nan,2.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,1.0,0.0,ninguno,2,1,4.60971,-74.08175,48.0
 30,150000,2815.5,2017-04-26,2200,1,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,2.0,2.0,ninguno,1,0,6.25184,-75.56359,1.0
 30,500000,9385.0,2017-04-26,2200,1,pensionado,nan,3.0,mas de 5 anos,,,,nan,nan,nan,nan,1.0,2.0,carro,1,0,8.21639,-73.24139,
 30,100000,1877.0,2017-04-26,2200,1,empleado,nan,2.0,entre uno y cinco anos,,,,indefinido,quincenal,nan,nan,1.0,1.0,ninguno,2,1,4.60971,-74.08175,144.0
@@ -361,7 +361,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,250000,4692.5,2017-04-29,2197,1,independiente,nan,3.0,mas de 5 anos,,,,nan,nan,nan,nan,1.0,1.0,ninguno,1,0,4.60971,-74.08175,
 30,200000,3754.0,2017-04-30,2196,1,independiente,nan,3.0,mas de 5 anos,,,,nan,nan,nan,nan,2.0,1.0,ninguno,1,0,3.53944,-76.30361,
 30,200000,3754.0,2017-04-30,2196,1,independiente,nan,2.0,mas de 5 anos,,,,nan,nan,nan,nan,0.0,0.0,carro,1,0,4.43889,-75.23222,
-30,150000,2815.5,2017-04-30,2196,1,empleado,propia,2.0,entre uno y cinco anos,1400000.0,600000.0,250000.0,indefinido,quincenal,soltero/a,no tengo,3.0,4.0,ninguno,1,0,3.53944,-76.30361,1.5111695137976346
+30,150000,2815.5,2017-04-30,2196,1,empleado,propia,2.0,entre uno y cinco anos,1400000.0,600000.0,250000.0,indefinido,quincenal,soltero/a,no tengo,3.0,4.0,ninguno,1,0,4.60971,-74.08175,1.5111695137976346
 30,100000,1877.0,2017-04-30,2196,1,empleado,nan,3.0,entre uno y cinco anos,1200000.0,350000.0,100000.0,indefinido,quincenal,nan,nan,1.0,1.0,ninguno,1,0,6.18461,-75.59913,67.27989487516426
 30,200000,3754.0,2017-04-30,2196,1,empleado,nan,2.0,entre uno y cinco anos,,,,indefinido,quincenal,nan,nan,0.0,1.0,ninguno,1,0,6.25184,-75.56359,144.0
 30,200000,3754.0,2017-04-30,2196,1,empleado,propia,3.0,mas de 5 anos,2700000.0,1200000.0,300000.0,indefinido,quincenal,casado/a,profesional,1.0,1.0,carro,1,0,4.60971,-74.08175,60.0
@@ -376,7 +376,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,250000,4692.5,2017-05-04,2192,1,empleado,familiar,2.0,mas de 5 anos,1300000.0,450000.0,250000.0,indefinido,quincenal,soltero/a,profesional,1.0,,ninguno,1,0,10.46314,-73.25322,24.11300919842313
 30,200000,3754.0,2017-05-04,2192,1,empleado,arrendada,3.0,entre uno y cinco anos,1260000.0,700000.0,100000.0,termino fijo,mensual,soltero/a,tecnologo,,,ninguno,1,0,6.04001,-75.70315,
 30,180000,3378.6,2017-05-04,2192,1,independiente,nan,4.0,entre uno y cinco anos,,,,nan,nan,nan,nan,2.0,3.0,moto,1,0,7.06222,-73.08644,
-30,150000,2815.5,2017-05-04,2192,1,independiente,nan,2.0,entre uno y cinco anos,,,,nan,nan,nan,nan,1.0,1.0,ninguno,1,0,6.15515,-75.37371,
+30,150000,2815.5,2017-05-04,2192,1,independiente,nan,2.0,entre uno y cinco anos,,,,nan,nan,nan,nan,1.0,1.0,ninguno,1,0,4.60971,-74.08175,
 30,160000,3003.2,2017-05-05,2191,1,empleado,nan,2.0,entre uno y cinco anos,,,,termino fijo,mensual,nan,nan,1.0,1.0,ninguno,1,0,6.33732,-75.55795,24.0
 30,160000,3003.2,2017-05-05,2191,1,empleado,nan,2.0,entre uno y cinco anos,,,,indefinido,quincenal,nan,nan,2.0,1.0,ninguno,1,0,6.68306,-75.98917,216.0
 30,200000,3754.0,2017-05-05,2191,1,empleado,nan,4.0,entre uno y cinco anos,,,,termino fijo,mensual,nan,nan,1.0,1.0,carro,2,1,2.43823,-76.61316,72.0
@@ -398,7 +398,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 24,170000,2552.72,2017-05-13,2183,1,empleado,propia,3.0,mas de 5 anos,,,,indefinido,quincenal,soltero/a,no tengo,0.0,0.0,ninguno,1,0,4.60971,-74.08175,24.0
 25,150000,2346.25,2017-05-14,2182,1,empleado,nan,2.0,entre uno y cinco anos,,,,indefinido,quincenal,nan,nan,1.0,0.0,ninguno,1,0,4.60971,-74.08175,5.0
 30,150000,2815.5,2017-05-17,2179,1,empleado,nan,1.0,entre uno y cinco anos,,,,indefinido,quincenal,nan,nan,2.0,1.0,ninguno,1,0,4.06004,-74.69212,
-30,100000,1877.0,2017-05-17,2179,1,independiente,propia,1.0,mas de 5 anos,,,,nan,nan,soltero/a,no tengo,1.0,1.0,ninguno,1,0,2.9273,-75.28189,
+30,100000,1877.0,2017-05-17,2179,1,independiente,propia,1.0,mas de 5 anos,,,,nan,nan,soltero/a,no tengo,1.0,1.0,ninguno,1,0,4.60971,-74.08175,
 30,250000,4692.5,2017-05-17,2179,1,empleado,nan,2.0,mas de 5 anos,,,,indefinido,quincenal,nan,nan,0.0,0.0,ninguno,1,0,4.60971,-74.08175,24.0
 30,150000,2815.5,2017-05-17,2179,1,empleado,nan,2.0,mas de 5 anos,,,,termino fijo,mensual,nan,nan,1.0,1.0,ninguno,1,0,7.53941,-72.77238,36.0
 30,250000,4692.5,2017-05-17,2179,1,empleado,nan,2.0,mas de 5 anos,,,,indefinido,quincenal,nan,nan,0.0,0.0,ninguno,1,0,6.25184,-75.56359,24.0
@@ -448,7 +448,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,300000,5631.0,2017-06-04,2161,1,independiente,propia,4.0,entre uno y cinco anos,,,,nan,nan,soltero/a,no tengo,,,ninguno,1,0,4.60971,-74.08175,
 20,300000,3754.0,2017-06-07,2158,1,empleado,propia,3.0,mas de 5 anos,2400000.0,800.0,,termino fijo,mensual,soltero/a,no tengo,0.0,0.0,ninguno,2,1,4.57937,-74.21682,24.0
 30,300000,5631.0,2017-06-08,2157,1,empleado,nan,3.0,mas de 5 anos,,,,indefinido,quincenal,nan,nan,1.0,1.0,moto,1,0,6.15153,-75.61657,168.0
-30,450000,8446.5,2017-06-09,2156,1,empleado,nan,2.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,0.0,0.0,moto,1,0,4.67472,-75.65833,24.0
+30,450000,8446.5,2017-06-09,2156,1,empleado,nan,2.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,0.0,0.0,moto,1,0,4.60971,-74.08175,24.0
 30,250000,4692.5,2017-06-10,2155,1,empleado,nan,3.0,menos de un ano,,,,indefinido,mensual,nan,nan,1.0,1.0,ninguno,1,0,6.33732,-75.55795,5.0
 30,150000,2815.5,2017-06-10,2155,1,empleado,propia,2.0,entre uno y cinco anos,1100777.0,450000.0,20000.0,indefinido,mensual,casado/a,secundaria,2.0,1.0,ninguno,1,0,4.60971,-74.08175,24.0
 30,350000,6569.5,2017-06-10,2155,1,empleado,nan,3.0,mas de 5 anos,,,,indefinido,quincenal,nan,nan,3.0,2.0,ninguno,1,0,4.60971,-74.08175,31.0
@@ -528,7 +528,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,200000,3754.0,2017-07-30,2105,1,empleado,propia,2.0,entre uno y cinco anos,2900000.0,2000000.0,1100000.0,indefinido,mensual,soltero/a,no tengo,1.0,2.0,carro,1,0,4.60971,-74.08175,84.0
 13,170000,1382.723333,2017-08-01,2103,1,empleado,arrendada,3.0,mas de 5 anos,2500000.0,750000.0,,indefinido,quincenal,soltero/a,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,61.563731931668855
 6,150000,563.1,2017-08-02,2102,1,empleado,familiar,2.0,mas de 5 anos,1200000.0,500000.0,400000.0,indefinido,quincenal,soltero/a,no tengo,1.0,1.0,ninguno,2,1,4.60971,-74.08175,12.0
-30,450000,8446.5,2017-08-05,2099,1,empleado,propia,2.0,mas de 5 anos,1430000.0,500.0,,indefinido,mensual,soltero/a,no tengo,1.0,1.0,ninguno,1,0,3.43722,-76.5225,18.0
+30,450000,8446.5,2017-08-05,2099,1,empleado,propia,2.0,mas de 5 anos,1430000.0,500.0,,indefinido,mensual,soltero/a,no tengo,1.0,1.0,ninguno,1,0,4.60971,-74.08175,18.0
 30,500000,9385.0,2017-08-06,2098,1,empleado,nan,4.0,mas de 5 anos,,,,indefinido,mensual,nan,nan,0.0,0.0,ninguno,1,0,1.21361,-77.28111,216.0
 30,180000,3378.6,2017-08-09,2095,1,independiente,familiar,4.0,mas de 5 anos,2800000.0,1500000.0,100000.0,indefinido,nan,union libre,profesional,2.0,1.0,carro,2,1,6.25184,-75.56359,
 30,140000,2627.8,2017-08-10,2094,1,empleado,familiar,2.0,entre uno y cinco anos,1300000.0,400000.0,290000.0,termino fijo,mensual,soltero/a,secundaria,0.0,0.0,moto,1,0,4.60971,-74.08175,1.314060446780552
@@ -555,7 +555,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,250000,4692.5,2017-08-23,2081,1,empleado,propia,3.0,entre uno y cinco anos,850.0,350.0,60.0,indefinido,quincenal,soltero/a,no tengo,0.0,0.0,ninguno,1,0,3.43722,-76.5225,36.0
 30,160000,3003.2,2017-08-24,2080,1,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,quincenal,nan,nan,1.0,2.0,ninguno,1,0,4.60971,-74.08175,36.0
 30,220000,4129.4,2017-08-24,2080,1,empleado,nan,2.0,mas de 5 anos,2000000.0,800000.0,200000.0,indefinido,mensual,nan,nan,,2.0,moto,1,0,6.25184,-75.56359,21.38633377135348
-24,100000,1501.6,2017-08-24,2080,1,empleado,familiar,2.0,mas de 5 anos,955000.0,375000.0,770000.0,indefinido,mensual,soltero/a,tecnologo,0.0,0.0,ninguno,1,0,4.67472,-75.7825,18.0
+24,100000,1501.6,2017-08-24,2080,1,empleado,familiar,2.0,mas de 5 anos,955000.0,375000.0,770000.0,indefinido,mensual,soltero/a,tecnologo,0.0,0.0,ninguno,1,0,4.60971,-74.08175,18.0
 30,200000,3754.0,2017-08-26,2078,1,empleado,nan,3.0,menos de un ano,,,,indefinido,quincenal,nan,nan,0.0,0.0,ninguno,1,0,7.12539,-73.1198,
 30,200000,3754.0,2017-08-26,2078,1,independiente,arrendada,3.0,entre uno y cinco anos,1500000.0,850000.0,,nan,nan,union libre,tecnico,2.0,2.0,ninguno,1,0,4.60971,-74.08175,209.9868593955322
 30,100000,1877.0,2017-08-27,2077,1,empleado,propia,3.0,entre uno y cinco anos,1500000.0,550000.0,0.0,nan,nan,soltero/a,tecnico,2.0,2.0,ninguno,1,0,4.60971,-74.08175,300.0
@@ -573,7 +573,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,170000,3190.9,2017-09-10,2063,1,empleado,propia,2.0,menos de un ano,1075000.0,400.0,180.0,indefinido,mensual,soltero/a,no tengo,0.0,0.0,moto,2,1,10.96854,-74.78132,24.0
 30,200000,3754.0,2017-09-10,2063,1,independiente,propia,2.0,mas de 5 anos,6000000.0,3000000.0,1500000.0,nan,nan,soltero/a,secundaria,0.0,2.0,ninguno,1,0,4.60971,-74.08175,
 30,350000,6569.5,2017-09-10,2063,1,empleado,propia,2.0,entre uno y cinco anos,3500000.0,1000000.0,,indefinido,quincenal,casado/a,profesional,,,moto,1,0,4.60971,-74.08175,
-30,180000,3378.6,2017-09-13,2060,1,empleado,familiar,2.0,entre uno y cinco anos,1500000.0,1200000.0,350000.0,indefinido,quincenal,union libre,tecnologo,1.0,1.0,moto,1,0,6.67169,-73.17421,60.0
+30,180000,3378.6,2017-09-13,2060,1,empleado,familiar,2.0,entre uno y cinco anos,1500000.0,1200000.0,350000.0,indefinido,quincenal,union libre,tecnologo,1.0,1.0,moto,1,0,4.60971,-74.08175,60.0
 30,170000,3190.9,2017-09-13,2060,1,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,1.0,1.0,ninguno,1,0,4.60971,-74.08175,144.0
 30,120000,2252.4,2017-09-14,2059,1,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,0.0,1.0,ninguno,1,0,4.60971,-74.08175,10.0
 30,200000,3754.0,2017-09-14,2059,1,empleado,arrendada,3.0,menos de un ano,2100000.0,1500000.0,100000.0,indefinido,quincenal,union libre,tecnologo,1.0,1.0,ninguno,1,0,4.60971,-74.08175,12.0
@@ -628,7 +628,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,300000,5631.0,2017-03-10,2030,0,empleado,nan,3.0,mas de 5 anos,,,,indefinido,quincenal,nan,nan,0.0,0.0,ninguno,1,0,4.60971,-74.08175,13.0
 30,210000,3941.7,2017-10-14,2029,1,empleado,propia,3.0,mas de 5 anos,800000.0,300000.0,250000.0,indefinido,quincenal,union libre,secundaria,1.0,1.0,moto,1,0,6.25184,-75.56359,18.0
 30,180000,3378.6,2017-10-14,2029,1,empleado,arrendada,3.0,entre uno y cinco anos,800000.0,300000.0,100000.0,termino fijo,quincenal,divorciado/a,secundaria,1.0,3.0,ninguno,1,0,4.60971,-74.08175,
-30,190000,3566.3,2017-10-14,2029,1,empleado,familiar,2.0,mas de 5 anos,955000.0,375000.0,770000.0,indefinido,mensual,soltero/a,tecnologo,0.0,0.0,ninguno,2,1,4.67472,-75.7825,18.0
+30,190000,3566.3,2017-10-14,2029,1,empleado,familiar,2.0,mas de 5 anos,955000.0,375000.0,770000.0,indefinido,mensual,soltero/a,tecnologo,0.0,0.0,ninguno,2,1,4.60971,-74.08175,18.0
 30,200000,3754.0,2017-10-14,2029,1,empleado,propia,3.0,entre uno y cinco anos,,,,indefinido,quincenal,soltero/a,no tengo,,,ninguno,1,0,4.60971,-74.08175,
 30,160000,3003.2,2017-10-15,2028,1,empleado,familiar,2.0,entre uno y cinco anos,1325000.0,500000.0,,indefinido,quincenal,soltero/a,secundaria,1.0,1.0,ninguno,1,0,4.60971,-74.08175,
 11,120000,825.88,2017-10-17,2026,1,empleado,propia,1.0,mas de 5 anos,1700000.0,1000000.0,900000.0,indefinido,mensual,soltero/a,profesional,2.0,3.0,moto,1,0,8.09419,-74.77573,
@@ -640,7 +640,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,160000,3003.2,2017-10-20,2023,1,empleado,familiar,2.0,mas de 5 anos,1200000.0,300000.0,1000000.0,indefinido,quincenal,soltero/a,tecnologo,0.0,0.0,ninguno,1,0,4.60971,-74.08175,4.0
 30,350000,6569.5,2016-12-31,2023,0,empleado,nan,4.0,entre uno y cinco anos,3000000.0,1200000.0,,indefinido,quincenal,nan,nan,0.0,0.0,ninguno,1,0,6.25184,-75.56359,123.78449408672799
 30,180000,3378.6,2017-10-21,2022,1,empleado,nan,2.0,mas de 5 anos,,,,indefinido,mensual,nan,nan,3.0,3.0,ninguno,1,0,4.60971,-74.08175,6.0
-30,160000,3003.2,2017-10-21,2022,1,independiente,familiar,1.0,entre uno y cinco anos,1200000.0,500000.0,,nan,nan,union libre,tecnico,1.0,2.0,ninguno,1,0,1.87884,-76.26722,
+30,160000,3003.2,2017-10-21,2022,1,independiente,familiar,1.0,entre uno y cinco anos,1200000.0,500000.0,,nan,nan,union libre,tecnico,1.0,2.0,ninguno,1,0,4.60971,-74.08175,
 30,340000,6381.8,2017-10-21,2022,1,empleado,propia,3.0,mas de 5 anos,1488780.0,300.0,,indefinido,quincenal,soltero/a,no tengo,1.0,0.0,ninguno,1,0,10.96854,-74.78132,48.0
 30,200000,3754.0,2017-10-21,2022,1,empleado,familiar,3.0,mas de 5 anos,2300000.0,1000000.0,100000.0,termino fijo,mensual,soltero/a,profesional,1.0,1.0,ninguno,1,0,4.60971,-74.08175,5.0
 30,160000,3003.2,2017-10-21,2022,1,empleado,familiar,3.0,mas de 5 anos,1000000.0,400000.0,300000.0,indefinido,quincenal,soltero/a,tecnico,,1.0,ninguno,1,0,5.06889,-75.51738,
@@ -661,7 +661,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,200000,3754.0,2017-10-27,2016,1,empleado,propia,3.0,entre uno y cinco anos,1600000.0,600000.0,,indefinido,mensual,divorciado/a,tecnico,1.0,1.0,ninguno,1,0,6.25184,-75.56359,
 30,200000,3754.0,2017-10-27,2016,1,empleado,arrendada,3.0,entre uno y cinco anos,1475304.0,500000.0,100000.0,indefinido,quincenal,soltero/a,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,
 30,100000,1877.0,2017-10-27,2016,1,empleado,familiar,2.0,mas de 5 anos,858000.0,200000.0,100000.0,indefinido,quincenal,soltero/a,tecnologo,1.0,1.0,ninguno,1,0,3.43722,-76.5225,
-30,250000,4692.5,2017-10-27,2016,1,empleado,familiar,2.0,mas de 5 anos,1600000.0,700000.0,300000.0,indefinido,mensual,casado/a,tecnico,1.0,1.0,ninguno,1,0,5.20856,-74.73584,
+30,250000,4692.5,2017-10-27,2016,1,empleado,familiar,2.0,mas de 5 anos,1600000.0,700000.0,300000.0,indefinido,mensual,casado/a,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,
 30,150000,2815.5,2015-07-17,2016,0,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,quincenal,nan,nan,0.0,0.0,ninguno,1,0,6.33732,-75.55795,6.0
 30,180000,3378.6,2017-10-28,2015,1,empleado,arrendada,4.0,entre uno y cinco anos,1200000.0,550000.0,200000.0,indefinido,quincenal,soltero/a,tecnico,0.0,0.0,ninguno,2,1,6.15515,-75.37371,
 30,180000,3378.6,2017-10-28,2015,1,empleado,familiar,3.0,entre uno y cinco anos,150000000.0,250000.0,140000.0,indefinido,mensual,union libre,secundaria,1.0,1.0,ninguno,1,0,4.60971,-74.08175,24.0
@@ -764,7 +764,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,170000,3190.9,2017-11-23,1989,1,empleado,familiar,2.0,mas de 5 anos,2000000.0,1500000.0,,indefinido,quincenal,soltero/a,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,
 30,170000,3190.9,2017-11-23,1989,1,empleado,familiar,2.0,mas de 5 anos,1050000.0,650000.0,737000.0,indefinido,mensual,union libre,secundaria,2.0,2.0,ninguno,1,0,4.60971,-74.08175,4.0
 30,200000,3754.0,2017-11-23,1989,1,empleado,arrendada,2.0,menos de un ano,1365000.0,350000.0,,indefinido,quincenal,soltero/a,secundaria,,,moto,1,0,4.43889,-75.23222,
-30,172000,3228.44,2017-11-23,1989,1,empleado,arrendada,2.0,entre uno y cinco anos,1000000.0,440000.0,,termino fijo,mensual,soltero/a,tecnico,1.0,,ninguno,1,0,4.60971,-74.08175,
+30,172000,3228.44,2017-11-23,1989,1,empleado,arrendada,2.0,entre uno y cinco anos,1000000.0,440000.0,,termino fijo,mensual,soltero/a,tecnico,1.0,,ninguno,1,0,4.40569,-73.94683,
 30,160000,3003.2,2017-11-23,1989,1,empleado,nan,2.0,entre uno y cinco anos,,,,termino fijo,quincenal,nan,nan,1.0,1.0,ninguno,1,0,4.60971,-74.08175,36.0
 30,150000,2815.5,2017-11-23,1989,1,empleado,propia,1.0,mas de 5 anos,1160000.0,500000.0,,indefinido,quincenal,soltero/a,no tengo,2.0,2.0,ninguno,1,0,6.18461,-75.59913,
 30,250000,4692.5,2017-11-23,1989,1,empleado,arrendada,5.0,mas de 5 anos,800.0,400.0,300.0,indefinido,quincenal,soltero/a,profesional,0.0,0.0,ninguno,1,0,6.17591,-75.59174,36.0
@@ -785,7 +785,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,160000,3003.2,2017-11-26,1986,1,desempleado,nan,1.0,entre uno y cinco anos,2400000.0,1000000.0,300000.0,termino fijo,quincenal,nan,nan,2.0,1.0,ninguno,1,0,8.42627,-76.78926,
 5,170000,531.8166667,2017-11-26,1986,1,empleado,arrendada,2.0,menos de un ano,950000.0,500000.0,100000.0,indefinido,quincenal,union libre,secundaria,1.0,1.0,moto,1,0,6.18461,-75.59913,
 20,500000,6256.666667,2016-12-22,1986,0,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,2.0,1.0,ninguno,1,0,4.60971,-74.08175,180.0
-30,200000,3754.0,2017-11-26,1986,1,prestador de servicios,familiar,3.0,mas de 5 anos,2000000.0,800000.0,200000.0,nan,nan,soltero/a,tecnologo,1.0,,moto,1,0,2.33022,-72.62765,
+30,200000,3754.0,2017-11-26,1986,1,prestador de servicios,familiar,3.0,mas de 5 anos,2000000.0,800000.0,200000.0,nan,nan,soltero/a,tecnologo,1.0,,moto,1,0,4.60971,-74.08175,
 30,200000,3754.0,2015-07-16,1986,0,empleado,nan,2.0,entre uno y cinco anos,1000000.0,400000.0,,indefinido,quincenal,nan,nan,0.0,0.0,ninguno,1,0,6.25184,-75.56359,
 30,250000,4692.5,2017-03-01,1985,0,independiente,nan,3.0,mas de 5 anos,,,,nan,nan,nan,nan,0.0,0.0,ninguno,1,0,6.84893,-75.81711,
 30,300000,5631.0,2017-02-17,1984,0,empleado,nan,3.0,mas de 5 anos,,,,indefinido,mensual,nan,nan,3.0,3.0,carro,1,0,4.60971,-74.08175,7.0
@@ -848,7 +848,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,180000,3378.6,2017-12-10,1972,1,empleado,familiar,3.0,mas de 5 anos,1000000.0,600000.0,800000.0,indefinido,mensual,casado/a,tecnico,3.0,2.0,ninguno,1,0,4.60971,-74.08175,12.0
 30,200000,3754.0,2017-12-10,1972,1,empleado,familiar,2.0,mas de 5 anos,1000000.0,300000.0,100000.0,indefinido,quincenal,soltero/a,secundaria,2.0,,ninguno,1,0,10.96854,-74.78132,14.71747700394218
 30,190000,3566.3,2017-12-10,1972,1,empleado,arrendada,2.0,entre uno y cinco anos,3500000.0,600000.0,200.0,indefinido,mensual,union libre,secundaria,2.0,2.0,moto,1,0,4.60971,-74.08175,12.0
-30,310000,5818.7,2017-12-10,1972,1,desempleado,familiar,3.0,entre uno y cinco anos,1200000.0,350000.0,200000.0,nan,nan,soltero/a,secundaria,,,ninguno,1,0,4.60971,-74.08175,
+30,310000,5818.7,2017-12-10,1972,1,desempleado,familiar,3.0,entre uno y cinco anos,1200000.0,350000.0,200000.0,nan,nan,soltero/a,secundaria,,,ninguno,1,0,2.93833,-73.20833,
 30,200000,3754.0,2017-10-27,1972,0,empleado,nan,3.0,mas de 5 anos,,,,indefinido,mensual,nan,nan,3.0,0.0,carro,1,0,4.60971,-74.08175,96.0
 20,150000,1877.0,2017-12-11,1971,1,empleado,familiar,3.0,entre uno y cinco anos,1900000.0,900000.0,200000.0,termino fijo,quincenal,soltero/a,profesional,,,moto,1,0,11.24079,-74.19904,
 12,150000,1126.2,2017-12-11,1971,1,empleado,familiar,3.0,menos de un ano,950000.0,219000.0,0.0,indefinido,mensual,soltero/a,tecnico,,,ninguno,1,0,1.79861,-78.81556,12.0
@@ -869,7 +869,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,300000,5631.0,2016-09-16,1967,0,empleado,nan,2.0,mas de 5 anos,2000000.0,1000000.0,,indefinido,mensual,nan,nan,1.0,1.0,ninguno,1,0,4.60971,-74.08175,
 29,200000,3628.866667,2017-12-15,1967,1,empleado,familiar,3.0,mas de 5 anos,1100000.0,300000.0,,termino fijo,quincenal,soltero/a,tecnico,1.0,1.0,ninguno,1,0,6.33732,-75.55795,
 28,250000,4379.666667,2017-12-15,1967,1,prestador de servicios,propia,2.0,mas de 5 anos,2000000.0,800000.0,300000.0,nan,nan,casado/a,secundaria,3.0,4.0,ninguno,1,0,4.60971,-74.08175,115.30880420499344
-30,170000,3190.9,2017-12-16,1966,1,empleado,propia,3.0,menos de un ano,,,,termino fijo,mensual,soltero/a,no tengo,2.0,,ninguno,1,0,3.62057,-75.09415,
+30,170000,3190.9,2017-12-16,1966,1,empleado,propia,3.0,menos de un ano,,,,termino fijo,mensual,soltero/a,no tengo,2.0,,ninguno,1,0,4.60971,-74.08175,
 30,200000,3754.0,2017-12-16,1966,1,prestador de servicios,arrendada,1.0,entre uno y cinco anos,1300000.0,500000.0,,nan,nan,union libre,tecnico,,,ninguno,1,0,3.43722,-76.5225,
 30,100000,1877.0,2017-12-16,1966,1,empleado,familiar,3.0,mas de 5 anos,1200000.0,200000.0,100000.0,termino fijo,mensual,soltero/a,tecnico,,,ninguno,1,0,4.60971,-74.08175,8.869908015768726
 30,200000,3754.0,2017-12-16,1966,1,empleado,familiar,3.0,entre uno y cinco anos,980000.0,280000.0,320000.0,termino fijo,quincenal,union libre,secundaria,1.0,2.0,ninguno,1,0,5.53528,-73.36778,
@@ -917,7 +917,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,500000,9385.0,2017-12-24,1958,1,prestador de servicios,familiar,2.0,mas de 5 anos,1772000.0,1200000.0,,nan,nan,union libre,profesional,2.0,3.0,ninguno,1,0,4.60971,-74.08175,
 30,300000,5631.0,2017-03-16,1958,0,pensionado,nan,2.0,mas de 5 anos,,,,nan,nan,nan,nan,0.0,3.0,ninguno,1,0,6.25184,-75.56359,
 30,180000,3378.6,2017-12-27,1955,1,empleado,familiar,3.0,entre uno y cinco anos,1600000.0,800000.0,400000.0,termino fijo,mensual,soltero/a,secundaria,1.0,1.0,ninguno,1,0,11.24079,-74.19904,
-30,140000,2627.8,2017-12-27,1955,1,empleado,familiar,2.0,entre uno y cinco anos,1800000.0,500000.0,200000.0,indefinido,mensual,casado/a,secundaria,2.0,2.0,ninguno,1,0,6.55952,-73.13637,
+30,140000,2627.8,2017-12-27,1955,1,empleado,familiar,2.0,entre uno y cinco anos,1800000.0,500000.0,200000.0,indefinido,mensual,casado/a,secundaria,2.0,2.0,ninguno,1,0,4.60971,-74.08175,
 30,200000,3754.0,2017-12-27,1955,1,empleado,arrendada,4.0,entre uno y cinco anos,2500000.0,700000.0,300000.0,indefinido,mensual,soltero/a,secundaria,,,ninguno,1,0,4.60971,-74.08175,
 30,200000,3754.0,2017-12-28,1954,1,empleado,familiar,2.0,mas de 5 anos,1500000.0,600000.0,,termino fijo,quincenal,soltero/a,tecnico,,,ninguno,1,0,4.83916,-75.66727,528.0
 30,200000,3754.0,2017-12-28,1954,1,empleado,arrendada,3.0,mas de 5 anos,2400000.0,1600000.0,,termino fijo,quincenal,casado/a,tecnico,2.0,,ninguno,1,0,4.60971,-74.08175,432.0
@@ -954,7 +954,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 7,500000,2189.833333,2016-12-21,1946,1,empleado,arrendada,1.0,menos de un ano,,,,nan,nan,union libre,no tengo,,,ninguno,6,1,4.60971,-74.08175,
 30,200000,3754.0,2018-01-05,1946,1,independiente,familiar,3.0,mas de 5 anos,1000000.0,300000.0,,nan,nan,soltero/a,secundaria,1.0,1.0,ninguno,1,0,4.60971,-74.08175,
 30,200000,3754.0,2018-01-05,1946,1,empleado,familiar,3.0,entre uno y cinco anos,1800000.0,600000.0,600000.0,indefinido,mensual,soltero/a,profesional,,,ninguno,2,1,4.60971,-74.08175,4.0
-30,150000,2815.5,2018-01-06,1945,1,empleado,familiar,3.0,entre uno y cinco anos,950000.0,460000.0,400000.0,termino fijo,mensual,union libre,profesional,2.0,2.0,ninguno,1,0,4.73245,-74.26419,36.0
+30,150000,2815.5,2018-01-06,1945,1,empleado,familiar,3.0,entre uno y cinco anos,950000.0,460000.0,400000.0,termino fijo,mensual,union libre,profesional,2.0,2.0,ninguno,1,0,4.60971,-74.08175,36.0
 30,500000,9385.0,2018-01-06,1945,1,empleado,nan,3.0,mas de 5 anos,,,,indefinido,quincenal,nan,nan,0.0,0.0,carro,1,0,6.25184,-75.56359,24.0
 30,200000,3754.0,2018-01-06,1945,1,empleado,familiar,1.0,mas de 5 anos,1700000.0,800000.0,100000.0,indefinido,quincenal,soltero/a,secundaria,1.0,1.0,moto,1,0,4.60971,-74.08175,432.0
 16,200000,2002.133333,2018-01-06,1945,1,empleado,familiar,5.0,mas de 5 anos,1900000.0,700000.0,2000000.0,indefinido,quincenal,soltero/a,postgrado,,,ninguno,1,0,7.12539,-73.1198,120.0
@@ -978,7 +978,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,200000,3754.0,2018-01-11,1940,1,empleado,arrendada,2.0,entre uno y cinco anos,900000.0,500000.0,200000.0,termino fijo,quincenal,soltero/a,tecnologo,,,moto,1,0,4.60971,-74.08175,
 30,200000,3754.0,2018-01-11,1940,1,empleado,arrendada,3.0,entre uno y cinco anos,1200000.0,700000.0,100000.0,indefinido,quincenal,casado/a,secundaria,1.0,1.0,ninguno,1,0,3.43722,-76.5225,12.0
 30,220000,4129.4,2018-01-11,1940,1,empleado,propia,2.0,mas de 5 anos,7380000.0,500000.0,,termino fijo,quincenal,soltero/a,tecnologo,,,ninguno,1,0,10.96854,-74.78132,60.0
-30,350000,6569.5,2018-01-11,1940,1,empleado,familiar,2.0,mas de 5 anos,2800000.0,600000.0,90000.0,indefinido,mensual,union libre,profesional,2.0,2.0,moto,1,0,3.43722,-76.5225,2.0039421813403417
+30,350000,6569.5,2018-01-11,1940,1,empleado,familiar,2.0,mas de 5 anos,2800000.0,600000.0,90000.0,indefinido,mensual,union libre,profesional,2.0,2.0,moto,1,0,4.60971,-74.08175,2.0039421813403417
 30,150000,2815.5,2018-01-11,1940,1,empleado,arrendada,2.0,entre uno y cinco anos,737717.0,450000.0,200000.0,termino fijo,mensual,union libre,tecnologo,1.0,1.0,ninguno,1,0,4.60971,-74.08175,23.258869908015768
 30,140000,2627.8,2018-01-11,1940,1,empleado,familiar,5.0,mas de 5 anos,2310000.0,1300000.0,300000.0,indefinido,mensual,soltero/a,postgrado,,,ninguno,1,0,2.9273,-75.28189,
 30,150000,2815.5,2018-01-12,1939,1,empleado,arrendada,2.0,entre uno y cinco anos,900.0,350.0,300.0,indefinido,quincenal,soltero/a,secundaria,,,ninguno,1,0,6.25184,-75.56359,24.0
@@ -1054,7 +1054,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,300000,5631.0,2018-01-27,1924,1,empleado,arrendada,4.0,entre uno y cinco anos,1600000.0,750000.0,350000.0,indefinido,quincenal,union libre,secundaria,2.0,3.0,ninguno,1,0,4.60971,-74.08175,0.0
 30,200000,3754.0,2018-01-27,1924,1,empleado,familiar,4.0,entre uno y cinco anos,5335000.0,2000000.0,2000000.0,indefinido,mensual,soltero/a,postgrado,,1.0,carro,1,0,4.60971,-74.08175,22.634691195795007
 30,170000,3190.9,2018-02-01,1919,1,empleado,arrendada,2.0,menos de un ano,10112000.0,550000.0,,termino fijo,quincenal,soltero/a,secundaria,1.0,1.0,ninguno,1,0,7.53941,-72.77238,12.0
-30,200000,3754.0,2018-02-01,1919,1,empleado,arrendada,1.0,entre uno y cinco anos,1200000.0,400000.0,300000.0,termino fijo,quincenal,union libre,tecnico,2.0,4.0,ninguno,1,0,7.88299,-76.62587,24.0
+30,200000,3754.0,2018-02-01,1919,1,empleado,arrendada,1.0,entre uno y cinco anos,1200000.0,400000.0,300000.0,termino fijo,quincenal,union libre,tecnico,2.0,4.0,ninguno,1,0,4.60971,-74.08175,24.0
 30,100000,1877.0,2018-02-01,1919,1,empleado,propia,2.0,mas de 5 anos,1000000.0,250000.0,120000.0,indefinido,quincenal,union libre,secundaria,1.0,,moto,1,0,5.06889,-75.51738,3.8436268068331145
 28,150000,2627.8,2018-02-01,1919,1,empleado,familiar,1.0,entre uno y cinco anos,1050000.0,400000.0,0.0,termino fijo,mensual,soltero/a,tecnico,1.0,1.0,ninguno,1,0,4.81367,-74.35453,6.14323258869908
 30,500000,9385.0,2018-02-02,1918,1,empleado,nan,2.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,1.0,0.0,ninguno,1,0,4.60971,-74.08175,13.0
@@ -1108,7 +1108,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,200000,3754.0,2018-02-16,1904,1,empleado,familiar,2.0,mas de 5 anos,810000.0,150000.0,500000.0,indefinido,quincenal,soltero/a,tecnico,1.0,1.0,ninguno,1,0,2.50861,-78.4511,49.0473061760841
 21,120000,1576.68,2018-02-16,1904,1,empleado,familiar,2.0,mas de 5 anos,800000.0,500000.0,300000.0,indefinido,quincenal,union libre,secundaria,,,moto,1,0,6.18461,-75.59913,7.917214191852826
 30,150000,2815.5,2018-02-17,1903,1,empleado,propia,3.0,menos de un ano,1100000.0,200000.0,50000.0,indefinido,quincenal,soltero/a,no tengo,1.0,1.0,ninguno,1,0,4.60971,-74.08175,8.73850197109067
-30,300000,5631.0,2018-02-17,1903,1,independiente,propia,2.0,mas de 5 anos,1800000.0,700000.0,500000.0,nan,nan,casado/a,no tengo,2.0,1.0,ninguno,1,0,2.50861,-78.4511,
+30,300000,5631.0,2018-02-17,1903,1,independiente,propia,2.0,mas de 5 anos,1800000.0,700000.0,500000.0,nan,nan,casado/a,no tengo,2.0,1.0,ninguno,1,0,4.60971,-74.08175,
 30,150000,2815.5,2018-01-13,1903,0,empleado,arrendada,3.0,entre uno y cinco anos,1070000.0,350000.0,,indefinido,quincenal,union libre,profesional,,,ninguno,1,0,6.25184,-75.56359,324.0
 30,250000,4692.5,2018-02-17,1903,1,empleado,arrendada,5.0,entre uno y cinco anos,4000000.0,1000000.0,1000000.0,indefinido,quincenal,soltero/a,profesional,,,carro,1,0,4.60971,-74.08175,
 30,200000,3754.0,2018-02-18,1902,1,empleado,propia,3.0,mas de 5 anos,1500000.0,550000.0,500000.0,indefinido,quincenal,soltero/a,tecnologo,,,moto,2,1,3.43722,-76.5225,8.869908015768726
@@ -1129,7 +1129,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,200000,3754.0,2018-02-24,1896,1,empleado,familiar,3.0,entre uno y cinco anos,1500000.0,500000.0,,indefinido,mensual,soltero/a,secundaria,,,moto,1,0,5.53528,-73.36778,432.0
 30,200000,3754.0,2018-02-25,1895,1,empleado,familiar,2.0,mas de 5 anos,2800000.0,800000.0,300000.0,indefinido,quincenal,casado/a,secundaria,1.0,1.0,moto,1,0,4.60971,-74.08175,75.88699080157687
 30,220000,4129.4,2018-02-25,1895,1,empleado,nan,3.0,entre uno y cinco anos,,,,termino fijo,quincenal,nan,nan,1.0,1.0,ninguno,1,0,3.43722,-76.5225,7.0
-30,200000,3754.0,2018-01-17,1895,0,empleado,familiar,2.0,entre uno y cinco anos,1030000.0,500000.0,,indefinido,mensual,union libre,secundaria,,,ninguno,1,0,10.85953,-74.77386,108.0
+30,200000,3754.0,2018-01-17,1895,0,empleado,familiar,2.0,entre uno y cinco anos,1030000.0,500000.0,,indefinido,mensual,union libre,secundaria,,,ninguno,1,0,4.60971,-74.08175,108.0
 30,250000,4692.5,2017-03-16,1894,0,independiente,nan,4.0,mas de 5 anos,,,,nan,nan,nan,nan,0.0,0.0,ninguno,1,0,4.60971,-74.08175,
 30,180000,3378.6,2018-02-28,1892,1,empleado,arrendada,2.0,entre uno y cinco anos,1200000.0,400000.0,100000.0,indefinido,mensual,soltero/a,tecnico,,,ninguno,1,0,4.60971,-74.08175,17.64126149802891
 30,190000,3566.3,2018-03-01,1891,1,empleado,arrendada,2.0,entre uno y cinco anos,1200000.0,400000.0,100000.0,termino fijo,mensual,union libre,tecnico,,,ninguno,1,0,7.12539,-73.1198,15.637319316688568
@@ -1159,7 +1159,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,130000,2440.1,2018-03-11,1881,1,independiente,familiar,3.0,mas de 5 anos,1500000.0,250000.0,200000.0,nan,nan,union libre,tecnico,1.0,1.0,ninguno,1,0,3.72315,-75.48316,
 30,150000,2815.5,2018-03-11,1881,1,empleado,familiar,2.0,mas de 5 anos,842000.0,600000.0,200000.0,indefinido,quincenal,union libre,secundaria,1.0,,ninguno,1,0,4.60971,-74.08175,17.805519053876477
 30,180000,3378.6,2018-03-11,1881,1,empleado,propia,2.0,mas de 5 anos,1000000.0,450000.0,0.0,termino fijo,quincenal,soltero/a,no tengo,0.0,1.0,ninguno,1,0,6.25184,-75.56359,
-30,270000,5067.9,2018-03-11,1881,1,empleado,arrendada,2.0,menos de un ano,1350000.0,700000.0,640000.0,indefinido,quincenal,soltero/a,secundaria,1.0,2.0,ninguno,1,0,5.69188,-76.65835,72.0
+30,270000,5067.9,2018-03-11,1881,1,empleado,arrendada,2.0,menos de un ano,1350000.0,700000.0,640000.0,indefinido,quincenal,soltero/a,secundaria,1.0,2.0,ninguno,1,0,4.60971,-74.08175,72.0
 9,200000,1126.2,2015-09-13,1881,0,empleado,nan,3.0,mas de 5 anos,,,,indefinido,quincenal,nan,nan,1.0,1.0,ninguno,1,0,4.60971,-74.08175,0.0
 30,100000,1877.0,2015-07-20,1880,0,independiente,nan,2.0,mas de 5 anos,,,,nan,nan,nan,nan,0.0,0.0,ninguno,1,0,4.60971,-74.08175,
 30,200000,3754.0,2017-11-03,1879,0,empleado,propia,3.0,mas de 5 anos,1500000.0,600000.0,,indefinido,mensual,soltero/a,no tengo,,1.0,ninguno,1,0,4.60971,-74.08175,
@@ -1169,7 +1169,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,100000,1877.0,2018-03-15,1877,1,empleado,familiar,3.0,entre uno y cinco anos,1520000.0,500000.0,300000.0,indefinido,quincenal,soltero/a,profesional,,,ninguno,1,0,4.43889,-75.23222,25.032851511169515
 30,500000,9385.0,2018-03-16,1876,1,empleado,nan,3.0,menos de un ano,,,,termino fijo,quincenal,nan,nan,1.0,1.0,carro,1,0,4.60971,-74.08175,72.0
 30,500000,9385.0,2018-03-16,1876,1,empleado,propia,3.0,mas de 5 anos,4770000.0,2200000.0,,termino fijo,mensual,casado/a,tecnologo,2.0,2.0,ninguno,1,0,4.60971,-74.08175,
-30,150000,2815.5,2018-03-16,1876,1,empleado,familiar,2.0,menos de un ano,1400000.0,700000.0,150000.0,termino fijo,quincenal,soltero/a,secundaria,,,ninguno,1,0,4.17061,-76.16641,9.592641261498029
+30,150000,2815.5,2018-03-16,1876,1,empleado,familiar,2.0,menos de un ano,1400000.0,700000.0,150000.0,termino fijo,quincenal,soltero/a,secundaria,,,ninguno,1,0,4.60971,-74.08175,9.592641261498029
 30,300000,5631.0,2018-03-17,1875,1,empleado,familiar,1.0,mas de 5 anos,3741000.0,1950000.0,1850000.0,indefinido,mensual,casado/a,postgrado,4.0,4.0,carro,1,0,10.96854,-74.78132,275.7884362680683
 30,130000,2440.1,2018-03-17,1875,1,empleado,propia,2.0,mas de 5 anos,1000000.0,450000.0,0.0,termino fijo,quincenal,soltero/a,no tengo,0.0,1.0,ninguno,2,1,6.25184,-75.56359,
 30,300000,5631.0,2018-03-18,1874,1,empleado,propia,4.0,entre uno y cinco anos,24250000.0,1500000.0,,indefinido,quincenal,casado/a,tecnologo,1.0,1.0,ninguno,1,0,6.17591,-75.59174,264.0
@@ -1198,7 +1198,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,100000,1877.0,2017-07-22,1864,0,empleado,propia,1.0,mas de 5 anos,1250000.0,450000.0,300000.0,indefinido,mensual,soltero/a,secundaria,0.0,0.0,ninguno,1,0,4.60971,-74.08175,18.0
 30,270000,5067.9,2018-03-29,1863,1,independiente,familiar,3.0,entre uno y cinco anos,1200000.0,600000.0,200000.0,nan,nan,union libre,profesional,1.0,0.0,ninguno,1,0,4.60971,-74.08175,
 30,300000,5631.0,2017-04-16,1863,0,independiente,familiar,4.0,entre uno y cinco anos,2500000.0,1500000.0,1000000.0,nan,nan,soltero/a,postgrado,,,ninguno,1,0,4.60971,-74.08175,
-30,200000,3754.0,2018-02-08,1863,0,empleado,familiar,2.0,entre uno y cinco anos,1030000.0,500000.0,,indefinido,mensual,union libre,secundaria,,,ninguno,2,1,10.85953,-74.77386,108.0
+30,200000,3754.0,2018-02-08,1863,0,empleado,familiar,2.0,entre uno y cinco anos,1030000.0,500000.0,,indefinido,mensual,union libre,secundaria,,,ninguno,2,1,4.60971,-74.08175,108.0
 30,200000,3754.0,2018-03-30,1862,1,empleado,familiar,3.0,mas de 5 anos,2000000.0,1000000.0,,indefinido,mensual,soltero/a,secundaria,1.0,,ninguno,1,0,2.50861,-78.4511,20.92641261498029
 30,250000,4692.5,2018-03-30,1862,1,empleado,arrendada,3.0,menos de un ano,1400000.0,250000.0,,termino fijo,quincenal,soltero/a,tecnologo,,,ninguno,1,0,6.15639,-75.78722,18.42969776609724
 30,220000,4129.4,2018-03-30,1862,1,empleado,familiar,3.0,entre uno y cinco anos,1200000.0,350000.0,150000.0,indefinido,quincenal,soltero/a,secundaria,,,moto,1,0,6.18461,-75.59913,29.204993429697765
@@ -1312,7 +1312,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 27,230000,3885.39,2018-05-22,1809,1,empleado,arrendada,3.0,entre uno y cinco anos,1570000.0,650000.0,120000.0,indefinido,quincenal,union libre,secundaria,2.0,2.0,ninguno,1,0,4.60971,-74.08175,58.44283837056505
 30,300000,5631.0,2017-04-06,1808,0,empleado,nan,2.0,entre uno y cinco anos,,,,termino fijo,mensual,nan,nan,0.0,0.0,ninguno,1,0,4.60971,-74.08175,72.0
 30,200000,3754.0,2018-05-23,1808,1,empleado,familiar,2.0,entre uno y cinco anos,1833000.0,800000.0,264000.0,indefinido,quincenal,union libre,secundaria,2.0,1.0,moto,1,0,6.25184,-75.56359,
-29,400000,7257.733333,2018-05-23,1808,1,empleado,arrendada,2.0,mas de 5 anos,1800000.0,450000.0,120000.0,indefinido,quincenal,soltero/a,secundaria,2.0,1.0,ninguno,1,0,4.60971,-74.08175,135.5124835742444
+29,400000,7257.733333,2018-05-23,1808,1,empleado,arrendada,2.0,mas de 5 anos,1800000.0,450000.0,120000.0,indefinido,quincenal,soltero/a,secundaria,2.0,1.0,ninguno,1,0,5.85389,-76.02528,135.5124835742444
 30,200000,3754.0,2018-03-04,1807,0,empleado,propia,2.0,entre uno y cinco anos,967000.0,600000.0,2400000.0,indefinido,mensual,union libre,secundaria,1.0,,carro,1,0,3.43722,-76.5225,27.201051248357423
 30,250000,4692.5,2018-05-25,1806,1,empleado,familiar,3.0,entre uno y cinco anos,2021000.0,500000.0,,indefinido,quincenal,casado/a,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,39.5203679369251
 29,300000,5443.3,2018-05-26,1805,1,empleado,familiar,4.0,entre uno y cinco anos,1700000.0,790000.0,800000.0,indefinido,quincenal,soltero/a,profesional,,,carro,1,0,2.43823,-76.61316,15.473061760840999
@@ -1341,7 +1341,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 29,300000,5443.3,2018-06-13,1787,1,empleado,propia,3.0,mas de 5 anos,2000000.0,600000.0,500000.0,indefinido,mensual,soltero/a,no tengo,1.0,1.0,ninguno,1,0,11.24079,-74.19904,47.99605781865966
 30,250000,4692.5,2018-06-14,1786,1,empleado,arrendada,2.0,entre uno y cinco anos,2600000.0,700000.0,,indefinido,mensual,soltero/a,tecnico,,,ninguno,1,0,4.60971,-74.08175,26.31406044678055
 30,100000,1877.0,2018-06-15,1785,1,empleado,propia,2.0,mas de 5 anos,800000.0,200000.0,,termino fijo,quincenal,soltero/a,no tengo,,,ninguno,1,0,10.91843,-74.76459,39.388961892247046
-30,140000,2627.8,2018-06-15,1785,1,empleado,familiar,2.0,mas de 5 anos,1300000.0,300.0,200.0,indefinido,quincenal,soltero/a,secundaria,,,ninguno,1,0,1.56305,-77.1176,17.936925098554532
+30,140000,2627.8,2018-06-15,1785,1,empleado,familiar,2.0,mas de 5 anos,1300000.0,300.0,200.0,indefinido,quincenal,soltero/a,secundaria,,,ninguno,1,0,4.60971,-74.08175,17.936925098554532
 30,400000,7508.0,2018-06-15,1785,1,empleado,propia,3.0,mas de 5 anos,2000000.0,600000.0,500000.0,indefinido,mensual,soltero/a,no tengo,1.0,1.0,ninguno,2,1,11.24079,-74.19904,48.02890932982917
 30,320000,6006.4,2018-06-15,1785,1,empleado,propia,3.0,mas de 5 anos,4000000.0,1200000.0,500000.0,indefinido,mensual,casado/a,postgrado,1.0,1.0,ninguno,1,0,10.39972,-75.51444,40.30880420499343
 30,250000,4692.5,2018-06-15,1785,1,empleado,propia,4.0,mas de 5 anos,3000000.0,1800000.0,,indefinido,mensual,soltero/a,postgrado,1.0,1.0,ninguno,1,0,6.25184,-75.56359,68.92247043363994
@@ -1363,7 +1363,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,150000,2815.5,2018-06-22,1778,1,empleado,familiar,2.0,entre uno y cinco anos,782200.0,500000.0,,indefinido,mensual,union libre,tecnico,2.0,2.0,moto,1,0,4.60971,-74.08175,34.55978975032851
 30,350000,6569.5,2018-06-22,1778,1,independiente,arrendada,2.0,menos de un ano,2500000.0,1000000.0,500000.0,nan,nan,union libre,tecnologo,3.0,3.0,moto,1,0,4.60971,-74.08175,
 30,140000,2627.8,2018-06-22,1778,1,empleado,arrendada,3.0,entre uno y cinco anos,1200000.0,400000.0,,indefinido,quincenal,soltero/a,secundaria,,,ninguno,1,0,6.25184,-75.56359,29.23784494086728
-30,270000,5067.9,2018-06-22,1778,1,empleado,arrendada,2.0,entre uno y cinco anos,1250000.0,650000.0,20000.0,indefinido,quincenal,soltero/a,tecnico,1.0,1.0,ninguno,1,0,2.47691,-78.11049,27.628120893561103
+30,270000,5067.9,2018-06-22,1778,1,empleado,arrendada,2.0,entre uno y cinco anos,1250000.0,650000.0,20000.0,indefinido,quincenal,soltero/a,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,27.628120893561103
 30,200000,3754.0,2017-12-16,1778,0,empleado,familiar,2.0,mas de 5 anos,1200000.0,450000.0,1500000.0,indefinido,mensual,soltero/a,tecnico,1.0,1.0,carro,1,0,4.60971,-74.08175,
 30,150000,2815.5,2018-06-22,1778,1,empleado,familiar,2.0,entre uno y cinco anos,1600000.0,500000.0,480000.0,indefinido,mensual,soltero/a,profesional,2.0,2.0,moto,1,0,10.96854,-74.78132,13.370565045992116
 30,200000,3754.0,2018-06-23,1777,1,empleado,arrendada,3.0,menos de un ano,2200000.0,1200000.0,,termino fijo,mensual,soltero/a,profesional,,,ninguno,1,0,4.60971,-74.08175,8.278580814717477
@@ -1401,7 +1401,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,300000,5631.0,2017-08-24,1759,0,independiente,familiar,4.0,entre uno y cinco anos,6000000.0,2000000.0,500000.0,nan,nan,soltero/a,profesional,1.0,1.0,ninguno,1,0,7.0682,-73.16981,
 30,200000,3754.0,2018-07-12,1758,1,empleado,familiar,3.0,entre uno y cinco anos,2000000.0,500000.0,,indefinido,quincenal,soltero/a,tecnico,1.0,1.0,moto,1,0,4.60971,-74.08175,49.31011826544021
 30,150000,2815.5,2018-07-13,1757,1,empleado,familiar,1.0,mas de 5 anos,1100000.0,450000.0,,termino fijo,quincenal,soltero/a,secundaria,1.0,,ninguno,1,0,3.43722,-76.5225,9.658344283837057
-30,200000,3754.0,2018-07-13,1757,1,empleado,familiar,3.0,entre uno y cinco anos,1105000.0,300000.0,1500000.0,indefinido,quincenal,soltero/a,secundaria,1.0,,ninguno,1,0,3.26074,-76.53499,10.38107752956636
+30,200000,3754.0,2018-07-13,1757,1,empleado,familiar,3.0,entre uno y cinco anos,1105000.0,300000.0,1500000.0,indefinido,quincenal,soltero/a,secundaria,1.0,,ninguno,1,0,4.60971,-74.08175,10.38107752956636
 30,200000,3754.0,2018-07-13,1757,1,empleado,propia,1.0,entre uno y cinco anos,1358000000.0,500000.0,200000.0,indefinido,quincenal,casado/a,primaria,3.0,2.0,ninguno,1,0,6.25184,-75.56359,
 30,200000,3754.0,2018-07-13,1757,1,empleado,propia,3.0,mas de 5 anos,27650000.0,1100000.0,,termino fijo,mensual,soltero/a,profesional,,1.0,ninguno,1,0,8.23773,-73.35604,360.5124835742444
 30,150000,2815.5,2018-07-13,1757,1,empleado,familiar,1.0,mas de 5 anos,930000.0,250000.0,200000.0,termino fijo,quincenal,union libre,tecnico,,,ninguno,1,0,10.96854,-74.78132,44.2838370565046
@@ -1417,7 +1417,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,150000,2815.5,2018-07-18,1752,1,empleado,familiar,3.0,mas de 5 anos,1600000.0,450000.0,100000.0,indefinido,quincenal,soltero/a,tecnologo,,,moto,1,0,4.81333,-75.69611,16.491458607095925
 23,200000,2878.066667,2017-03-12,1751,0,empleado,familiar,2.0,menos de un ano,900000.0,400000.0,,indefinido,quincenal,union libre,tecnico,,,ninguno,1,0,4.57937,-74.21682,
 30,200000,3754.0,2018-07-19,1751,1,empleado,arrendada,2.0,mas de 5 anos,1800000.0,500000.0,300000.0,indefinido,mensual,soltero/a,profesional,,,ninguno,1,0,10.46314,-73.25322,32.88436268068331
-30,200000,3754.0,2018-07-19,1751,1,empleado,familiar,2.0,mas de 5 anos,1200000.0,700000.0,240000.0,indefinido,quincenal,casado/a,secundaria,3.0,2.0,moto,1,0,6.06276,-75.7937,111.79369250985545
+30,200000,3754.0,2018-07-19,1751,1,empleado,familiar,2.0,mas de 5 anos,1200000.0,700000.0,240000.0,indefinido,quincenal,casado/a,secundaria,3.0,2.0,moto,1,0,4.60971,-74.08175,111.79369250985545
 30,200000,3754.0,2018-07-20,1750,1,empleado,familiar,3.0,mas de 5 anos,1259600.0,500000.0,,indefinido,quincenal,soltero/a,tecnico,2.0,2.0,ninguno,1,0,4.60971,-74.08175,62.187910643889616
 30,200000,3754.0,2018-07-21,1749,1,empleado,arrendada,2.0,entre uno y cinco anos,1250000.0,450000.0,,indefinido,quincenal,soltero/a,tecnologo,,,ninguno,1,0,6.33732,-75.55795,5.289093298291721
 30,200000,3754.0,2018-07-22,1748,1,empleado,arrendada,3.0,entre uno y cinco anos,1570000.0,650000.0,120000.0,indefinido,quincenal,union libre,secundaria,2.0,2.0,ninguno,2,1,4.60971,-74.08175,60.34822601839684
@@ -1452,11 +1452,11 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,400000,7508.0,2018-08-10,1729,1,empleado,propia,1.0,mas de 5 anos,1715000.0,50000.0,100000.0,indefinido,mensual,soltero/a,no tengo,,,ninguno,1,0,3.98695,-73.75797,39.48751642575559
 30,200000,3754.0,2018-08-10,1729,1,empleado,familiar,3.0,entre uno y cinco anos,1086000.0,586000.0,,termino fijo,mensual,union libre,secundaria,,,ninguno,1,0,7.60347,-74.80951,12.385019710906702
 30,500000,9385.0,2018-08-10,1729,1,empleado,nan,3.0,mas de 5 anos,,,,indefinido,mensual,nan,nan,0.0,0.0,ninguno,1,0,4.60971,-74.08175,23.061760840998687
-30,160000,3003.2,2018-08-10,1729,1,empleado,familiar,3.0,entre uno y cinco anos,1105000.0,300000.0,1500000.0,indefinido,quincenal,soltero/a,secundaria,1.0,,ninguno,2,1,3.26074,-76.53499,11.33377135348226
+30,160000,3003.2,2018-08-10,1729,1,empleado,familiar,3.0,entre uno y cinco anos,1105000.0,300000.0,1500000.0,indefinido,quincenal,soltero/a,secundaria,1.0,,ninguno,2,1,4.60971,-74.08175,11.33377135348226
 30,150000,2815.5,2018-08-10,1729,1,empleado,familiar,3.0,mas de 5 anos,800000.0,500000.0,200000.0,indefinido,mensual,casado/a,secundaria,2.0,3.0,ninguno,1,0,4.60971,-74.08175,29.07358738501971
-30,150000,2815.5,2018-08-10,1729,1,prestador de servicios,familiar,2.0,entre uno y cinco anos,1400000.0,250000.0,,termino fijo,mensual,union libre,secundaria,1.0,1.0,ninguno,1,0,5.53528,-74.10778,40.34165571616295
+30,150000,2815.5,2018-08-10,1729,1,prestador de servicios,familiar,2.0,entre uno y cinco anos,1400000.0,250000.0,,termino fijo,mensual,union libre,secundaria,1.0,1.0,ninguno,1,0,4.60971,-74.08175,40.34165571616295
 30,150000,2815.5,2018-08-10,1729,1,empleado,familiar,1.0,entre uno y cinco anos,1700000.0,900000.0,,termino fijo,quincenal,soltero/a,profesional,1.0,1.0,ninguno,1,0,5.06889,-75.51738,94.053876478318
-30,200000,3754.0,2018-08-11,1728,1,independiente,familiar,3.0,mas de 5 anos,3500000.0,1350000.0,,nan,nan,divorciado/a,secundaria,1.0,1.0,ninguno,1,0,5.93168,-73.61507,
+30,200000,3754.0,2018-08-11,1728,1,independiente,familiar,3.0,mas de 5 anos,3500000.0,1350000.0,,nan,nan,divorciado/a,secundaria,1.0,1.0,ninguno,1,0,4.60971,-74.08175,
 30,180000,3378.6,2018-08-11,1728,1,independiente,familiar,3.0,mas de 5 anos,2000000.0,500000.0,600000.0,nan,nan,casado/a,profesional,1.0,3.0,ninguno,1,0,5.8245,-73.03408,
 30,150000,2815.5,2018-08-11,1728,1,empleado,familiar,3.0,entre uno y cinco anos,1500000.0,650000.0,150000.0,indefinido,mensual,soltero/a,tecnico,1.0,1.0,ninguno,1,0,6.25184,-75.56359,18.298291721419186
 30,350000,6569.5,2018-08-11,1728,1,empleado,familiar,2.0,entre uno y cinco anos,1580000.0,700000.0,250000.0,indefinido,mensual,union libre,tecnico,2.0,3.0,ninguno,2,1,4.60971,-74.08175,28.71222076215506
@@ -1469,11 +1469,11 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,200000,3754.0,2018-02-16,1726,0,empleado,familiar,4.0,entre uno y cinco anos,2000000.0,1500000.0,,indefinido,quincenal,casado/a,tecnico,,,moto,1,0,4.60971,-74.08175,7.09592641261498
 30,350000,6569.5,2018-08-10,1724,0,empleado,familiar,2.0,mas de 5 anos,1000000.0,500000.0,400000.0,termino fijo,quincenal,soltero/a,tecnico,,,ninguno,1,0,4.60971,-74.08175,17.67411300919842
 28,440000,7708.213333,2017-05-31,1724,0,empleado,nan,3.0,mas de 5 anos,,,,indefinido,quincenal,nan,nan,2.0,1.0,ninguno,1,0,6.25184,-75.56359,
-30,200000,3754.0,2018-08-16,1723,1,prestador de servicios,familiar,4.0,entre uno y cinco anos,4200000.0,3000000.0,,nan,nan,soltero/a,profesional,,,ninguno,1,0,6.11667,-75.98333,0.0
+30,200000,3754.0,2018-08-16,1723,1,prestador de servicios,familiar,4.0,entre uno y cinco anos,4200000.0,3000000.0,,nan,nan,soltero/a,profesional,,,ninguno,1,0,4.60971,-74.08175,0.0
 30,300000,5631.0,2018-01-11,1723,0,empleado,arrendada,3.0,mas de 5 anos,2350000.0,1000000.0,300000.0,termino fijo,mensual,soltero/a,profesional,,,moto,1,0,7.12539,-73.1198,264.0
 30,170000,3190.9,2018-08-16,1723,1,empleado,familiar,3.0,mas de 5 anos,1200000.0,400000.0,100000.0,termino fijo,quincenal,soltero/a,tecnico,1.0,,ninguno,1,0,11.24079,-74.19904,52.52956636005256
-30,500000,9385.0,2018-08-16,1723,1,empleado,propia,5.0,entre uno y cinco anos,1474000.0,700009.0,400000.0,indefinido,quincenal,soltero/a,no tengo,,,ninguno,1,0,0.66749,-76.87297,50.98554533508541
-30,180000,3378.6,2018-08-17,1722,1,empleado,arrendada,3.0,menos de un ano,800000.0,400000.0,200000.0,indefinido,quincenal,union libre,secundaria,2.0,2.0,ninguno,1,0,4.73245,-74.26419,5.847568988173456
+30,500000,9385.0,2018-08-16,1723,1,empleado,propia,5.0,entre uno y cinco anos,1474000.0,700009.0,400000.0,indefinido,quincenal,soltero/a,no tengo,,,ninguno,1,0,4.60971,-74.08175,50.98554533508541
+30,180000,3378.6,2018-08-17,1722,1,empleado,arrendada,3.0,menos de un ano,800000.0,400000.0,200000.0,indefinido,quincenal,union libre,secundaria,2.0,2.0,ninguno,1,0,4.60971,-74.08175,5.847568988173456
 30,450000,8446.5,2018-08-17,1722,1,empleado,familiar,3.0,entre uno y cinco anos,1900000.0,1000000.0,1200000.0,indefinido,mensual,union libre,tecnologo,,,moto,1,0,4.60971,-74.08175,35.873850197109064
 30,170000,3190.9,2018-08-17,1722,1,empleado,familiar,2.0,mas de 5 anos,1150000.0,500000.0,150000.0,termino fijo,quincenal,soltero/a,secundaria,1.0,1.0,ninguno,1,0,4.60971,-74.08175,4.7963206307490145
 30,200000,3754.0,2018-08-18,1721,1,empleado,familiar,3.0,mas de 5 anos,1800000.0,300000.0,,indefinido,mensual,soltero/a,profesional,,,ninguno,1,0,4.26425,-75.93085,150.16425755584757
@@ -1484,11 +1484,11 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,170000,3190.9,2017-12-22,1718,0,empleado,familiar,3.0,mas de 5 anos,1450000.0,500000.0,200000.0,indefinido,quincenal,union libre,tecnico,1.0,1.0,moto,1,0,4.60971,-74.08175,36.0
 30,120000,2252.4,2018-08-22,1717,1,empleado,familiar,2.0,mas de 5 anos,950000.0,670000.0,,termino fijo,quincenal,soltero/a,secundaria,1.0,1.0,ninguno,1,0,4.60971,-74.08175,6.2089356110381075
 30,200000,3754.0,2018-08-22,1717,1,empleado,propia,2.0,mas de 5 anos,1300000.0,650000.0,150000.0,indefinido,quincenal,union libre,secundaria,3.0,2.0,ninguno,1,0,6.25184,-75.56359,209.03416557161628
-30,250000,4692.5,2018-08-22,1717,1,empleado,familiar,3.0,entre uno y cinco anos,781242.0,600000.0,500000.0,termino fijo,quincenal,soltero/a,secundaria,1.0,3.0,ninguno,1,0,6.33732,-75.55795,13.206307490144546
+30,250000,4692.5,2018-08-22,1717,1,empleado,familiar,3.0,entre uno y cinco anos,781242.0,600000.0,500000.0,termino fijo,quincenal,soltero/a,secundaria,1.0,3.0,ninguno,1,0,4.60971,-74.08175,13.206307490144546
 28,300000,5255.6,2018-08-22,1717,1,empleado,propia,3.0,menos de un ano,4356808.0,1300000.0,2900000.0,indefinido,mensual,soltero/a,no tengo,3.0,2.0,carro,1,0,4.60971,-74.08175,156.34034165571617
 30,220000,4129.4,2018-08-23,1716,1,empleado,familiar,1.0,entre uno y cinco anos,1575000.0,200000.0,,indefinido,quincenal,soltero/a,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,27.792378449408673
 30,500000,9385.0,2018-08-23,1716,1,empleado,propia,2.0,mas de 5 anos,3800000.0,3500000.0,2400000.0,indefinido,mensual,casado/a,postgrado,2.0,3.0,ninguno,2,1,11.54444,-72.90722,251.24835742444154
-30,120000,2252.4,2017-11-25,1716,0,empleado,familiar,3.0,entre uno y cinco anos,1615000.0,900000.0,300000.0,indefinido,quincenal,soltero/a,tecnologo,0.0,0.0,ninguno,1,0,4.60971,-74.08175,56.63600525624179
+30,120000,2252.4,2017-11-25,1716,0,empleado,familiar,3.0,entre uno y cinco anos,1615000.0,900000.0,300000.0,indefinido,quincenal,soltero/a,tecnologo,0.0,0.0,ninguno,1,0,3.00945,-76.48494,56.63600525624179
 30,200000,3754.0,2018-08-24,1715,1,empleado,familiar,5.0,entre uno y cinco anos,2000000.0,600000.0,,indefinido,quincenal,soltero/a,tecnologo,,,ninguno,1,0,6.33732,-75.55795,96.74770039421813
 30,180000,3378.6,2018-08-24,1715,1,empleado,familiar,3.0,mas de 5 anos,1000000.0,650000.0,,termino fijo,quincenal,soltero/a,secundaria,1.0,1.0,ninguno,1,0,6.25184,-75.56359,
 30,200000,3754.0,2018-08-24,1715,1,empleado,familiar,3.0,mas de 5 anos,900000.0,300000.0,,termino fijo,mensual,casado/a,profesional,1.0,2.0,ninguno,1,0,4.60971,-74.08175,6.044678055190539
@@ -1500,19 +1500,19 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,200000,3754.0,2018-08-26,1713,1,empleado,familiar,3.0,entre uno y cinco anos,1400000.0,400000.0,300000.0,termino fijo,quincenal,soltero/a,tecnologo,1.0,1.0,ninguno,1,0,4.60971,-74.08175,9.099868593955321
 30,200000,3754.0,2018-08-26,1713,1,empleado,arrendada,3.0,menos de un ano,1100000.0,65000.0,,termino fijo,mensual,union libre,secundaria,4.0,2.0,ninguno,1,0,3.43722,-76.5225,8.081471747700395
 12,100000,750.8,2015-07-30,1712,0,empleado,nan,4.0,mas de 5 anos,,,,indefinido,mensual,nan,nan,0.0,0.0,ninguno,1,0,6.15639,-75.78722,16.0
-30,300000,5631.0,2017-04-07,1711,0,empleado,nan,4.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,1.0,1.0,ninguno,1,0,7.0682,-73.16981,60.0
+30,300000,5631.0,2017-04-07,1711,0,empleado,nan,4.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,1.0,1.0,ninguno,1,0,4.60971,-74.08175,60.0
 30,200000,3754.0,2017-04-07,1711,0,empleado,nan,2.0,entre uno y cinco anos,,,,indefinido,quincenal,nan,nan,0.0,0.0,ninguno,1,0,6.33732,-75.55795,60.0
 30,200000,3754.0,2018-06-29,1711,0,empleado,familiar,2.0,mas de 5 anos,980000.0,200000.0,,termino fijo,quincenal,soltero/a,secundaria,,,ninguno,1,0,6.25184,-75.56359,9.921156373193167
 30,500000,9385.0,2018-08-29,1710,1,empleado,familiar,3.0,entre uno y cinco anos,1650000.0,1000000.0,,indefinido,mensual,union libre,tecnologo,2.0,2.0,moto,1,0,4.60971,-74.08175,118.19973718791064
 30,450000,8446.5,2018-08-29,1710,1,empleado,familiar,1.0,mas de 5 anos,1490000.0,150000.0,300000.0,termino fijo,quincenal,soltero/a,secundaria,2.0,3.0,moto,1,0,9.30472,-75.39778,17.83837056504599
-30,310000,5818.7,2018-08-29,1710,1,empleado,propia,5.0,entre uno y cinco anos,1474000.0,700009.0,400000.0,indefinido,quincenal,soltero/a,no tengo,,,ninguno,2,1,0.66749,-76.87297,51.37976346911958
+30,310000,5818.7,2018-08-29,1710,1,empleado,propia,5.0,entre uno y cinco anos,1474000.0,700009.0,400000.0,indefinido,quincenal,soltero/a,no tengo,,,ninguno,2,1,4.60971,-74.08175,51.37976346911958
 30,150000,2815.5,2018-08-29,1710,1,empleado,familiar,3.0,entre uno y cinco anos,1650000.0,1000000.0,,indefinido,mensual,union libre,tecnologo,2.0,2.0,moto,2,1,4.60971,-74.08175,118.23258869908015
 30,200000,3754.0,2018-08-30,1709,1,empleado,arrendada,3.0,entre uno y cinco anos,1000000.0,200000.0,300000.0,indefinido,mensual,union libre,tecnologo,,,moto,1,0,3.43722,-76.5225,10.611038107752957
 30,140000,2627.8,2018-08-30,1709,1,empleado,familiar,3.0,mas de 5 anos,1200000.0,300000.0,,termino fijo,quincenal,soltero/a,tecnologo,,,ninguno,2,1,4.60971,-74.08175,18.363994743758212
 30,400000,7508.0,2017-04-09,1709,0,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,3.0,2.0,ninguno,1,0,4.60971,-74.08175,240.0
 30,200000,3754.0,2017-05-18,1709,0,empleado,nan,3.0,mas de 5 anos,,,,indefinido,mensual,nan,nan,1.0,1.0,moto,1,0,4.60971,-74.08175,4.0
 30,350000,6569.5,2017-06-15,1709,0,empleado,propia,3.0,mas de 5 anos,1200000.0,450000.0,350000.0,indefinido,quincenal,soltero/a,no tengo,1.0,1.0,moto,1,0,5.06889,-75.51738,
-30,150000,2815.5,2018-09-01,1707,1,prestador de servicios,familiar,2.0,entre uno y cinco anos,1400000.0,250000.0,,termino fijo,mensual,union libre,secundaria,1.0,1.0,ninguno,2,1,5.53528,-74.10778,40.96583442838371
+30,150000,2815.5,2018-09-01,1707,1,prestador de servicios,familiar,2.0,entre uno y cinco anos,1400000.0,250000.0,,termino fijo,mensual,union libre,secundaria,1.0,1.0,ninguno,2,1,4.60971,-74.08175,40.96583442838371
 30,180000,3378.6,2018-09-01,1707,1,empleado,arrendada,3.0,mas de 5 anos,1363200.0,580000.0,180000.0,indefinido,quincenal,union libre,tecnico,2.0,1.0,ninguno,1,0,4.85876,-74.05866,85.61103810775296
 30,450000,8446.5,2018-09-01,1707,1,empleado,familiar,3.0,entre uno y cinco anos,1800000.0,600000.0,250000.0,indefinido,mensual,soltero/a,tecnico,,1.0,ninguno,2,1,4.60971,-74.08175,27.135348226018397
 30,500000,9385.0,2018-09-01,1707,1,pensionado,arrendada,3.0,entre uno y cinco anos,2000000.0,600000.0,500000.0,nan,nan,casado/a,profesional,,,ninguno,1,0,3.43722,-76.5225,
@@ -1523,11 +1523,11 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,160000,3003.2,2018-09-02,1706,1,empleado,familiar,2.0,entre uno y cinco anos,1300000.0,700000.0,200000.0,indefinido,quincenal,union libre,secundaria,2.0,2.0,ninguno,1,0,4.60971,-74.08175,53.088042049934295
 30,200000,3754.0,2018-09-02,1706,1,independiente,arrendada,3.0,entre uno y cinco anos,2200000.0,750000.0,200000.0,nan,nan,union libre,profesional,1.0,1.0,carro,1,0,3.8801,-77.03116,
 30,200000,3754.0,2018-09-02,1706,1,empleado,familiar,1.0,entre uno y cinco anos,1700000.0,900000.0,,termino fijo,quincenal,soltero/a,profesional,1.0,1.0,ninguno,2,1,5.06889,-75.51738,94.7437582128778
-30,180000,3378.6,2018-09-02,1706,1,empleado,arrendada,3.0,menos de un ano,1500000.0,500000.0,200000.0,termino fijo,quincenal,union libre,secundaria,2.0,1.0,ninguno,1,0,4.57937,-74.21682,50.9526938239159
+30,180000,3378.6,2018-09-02,1706,1,empleado,arrendada,3.0,menos de un ano,1500000.0,500000.0,200000.0,termino fijo,quincenal,union libre,secundaria,2.0,1.0,ninguno,1,0,4.60971,-74.08175,50.9526938239159
 30,300000,5631.0,2018-09-02,1706,1,empleado,propia,4.0,mas de 5 anos,3000000.0,1800000.0,,indefinido,mensual,soltero/a,postgrado,1.0,1.0,ninguno,2,1,6.25184,-75.56359,71.51773981603154
 30,210000,3941.7,2018-09-02,1706,1,empleado,familiar,3.0,mas de 5 anos,1200000.0,500000.0,400000.0,indefinido,quincenal,union libre,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,66.52431011826545
 28,250000,4379.666667,2018-09-03,1705,1,empleado,arrendada,4.0,entre uno y cinco anos,1500000.0,1500000.0,,indefinido,mensual,soltero/a,tecnico,2.0,2.0,ninguno,1,0,5.06889,-75.51738,41.91852825229961
-20,150000,1877.0,2017-07-31,1704,0,prestador de servicios,familiar,4.0,entre uno y cinco anos,2900000.0,1000000.0,500000.0,nan,nan,casado/a,tecnologo,2.0,2.0,ninguno,1,0,3.53944,-76.30361,
+20,150000,1877.0,2017-07-31,1704,0,prestador de servicios,familiar,4.0,entre uno y cinco anos,2900000.0,1000000.0,500000.0,nan,nan,casado/a,tecnologo,2.0,2.0,ninguno,1,0,4.60971,-74.08175,
 30,150000,2815.5,2018-01-19,1704,0,independiente,propia,3.0,mas de 5 anos,2300000.0,600000.0,750000.0,nan,nan,union libre,tecnico,2.0,2.0,ninguno,1,0,4.60971,-74.08175,
 30,250000,4692.5,2018-09-05,1703,1,prestador de servicios,familiar,3.0,mas de 5 anos,1800000.0,400000.0,751242.0,nan,nan,divorciado/a,tecnologo,,2.0,ninguno,1,0,6.25184,-75.56359,26.675427069645202
 18,250000,2815.5,2017-04-08,1703,0,empleado,nan,3.0,mas de 5 anos,,,,indefinido,quincenal,nan,nan,1.0,1.0,ninguno,1,0,4.60971,-74.08175,72.0
@@ -1568,8 +1568,8 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,200000,3754.0,2018-09-16,1692,1,empleado,propia,3.0,mas de 5 anos,1012000.0,690000.0,,indefinido,quincenal,soltero/a,no tengo,1.0,1.0,ninguno,1,0,6.25184,-75.56359,50.45992115637319
 30,180000,3378.6,2018-09-16,1692,1,empleado,familiar,3.0,mas de 5 anos,1300000.0,550000.0,200000.0,indefinido,quincenal,soltero/a,tecnologo,1.0,1.0,moto,1,0,6.17591,-75.59174,192.47700394218134
 30,200000,3754.0,2018-05-09,1692,0,independiente,familiar,5.0,mas de 5 anos,4000000.0,2500000.0,,nan,nan,soltero/a,profesional,1.0,1.0,ninguno,1,0,10.96854,-74.78132,21.61629434954008
-30,100000,1877.0,2017-04-29,1689,0,empleado,arrendada,4.0,entre uno y cinco anos,800000.0,450000.0,100000.0,indefinido,mensual,soltero/a,tecnico,0.0,0.0,moto,1,0,5.52708,-75.4593,14.0
-29,250000,4536.083333,2018-09-19,1689,1,empleado,familiar,2.0,mas de 5 anos,2200000.0,1200000.0,500000.0,indefinido,quincenal,soltero/a,tecnologo,,1.0,ninguno,1,0,4.60971,-74.08175,55.157687253613666
+30,100000,1877.0,2017-04-29,1689,0,empleado,arrendada,4.0,entre uno y cinco anos,800000.0,450000.0,100000.0,indefinido,mensual,soltero/a,tecnico,0.0,0.0,moto,1,0,4.60971,-74.08175,14.0
+29,250000,4536.083333,2018-09-19,1689,1,empleado,familiar,2.0,mas de 5 anos,2200000.0,1200000.0,500000.0,indefinido,quincenal,soltero/a,tecnologo,,1.0,ninguno,1,0,7.08471,-70.75908,55.157687253613666
 25,200000,3128.333333,2017-01-28,1689,0,empleado,nan,3.0,mas de 5 anos,,,,indefinido,mensual,nan,nan,1.0,2.0,ninguno,1,0,4.60971,-74.08175,103.02233902759527
 30,150000,2815.5,2017-06-08,1688,0,empleado,nan,2.0,menos de un ano,,,,indefinido,quincenal,nan,nan,0.0,0.0,ninguno,1,0,4.60971,-74.08175,24.0
 30,200000,3754.0,2018-09-20,1688,1,empleado,familiar,4.0,entre uno y cinco anos,1500000.0,300000.0,,indefinido,mensual,soltero/a,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,85.18396846254927
@@ -1586,7 +1586,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,200000,3754.0,2018-09-23,1685,1,empleado,familiar,4.0,mas de 5 anos,2800000.0,1500000.0,,indefinido,mensual,soltero/a,profesional,,,ninguno,1,0,4.60971,-74.08175,29.7634691195795
 30,200000,3754.0,2017-06-03,1683,0,empleado,arrendada,2.0,entre uno y cinco anos,2460000.0,1300000.0,,indefinido,mensual,soltero/a,tecnologo,,,ninguno,1,0,4.60971,-74.08175,
 30,200000,3754.0,2018-05-12,1683,0,empleado,familiar,3.0,mas de 5 anos,1475000.0,1000000.0,400000.0,indefinido,quincenal,soltero/a,profesional,,,moto,2,1,4.60971,-74.08175,13.66622864651774
-29,200000,3628.866667,2018-09-25,1683,1,empleado,arrendada,3.0,entre uno y cinco anos,820000.0,300000.0,,indefinido,mensual,union libre,secundaria,,,ninguno,1,0,4.31667,-75.76667,11.038107752956636
+29,200000,3628.866667,2018-09-25,1683,1,empleado,arrendada,3.0,entre uno y cinco anos,820000.0,300000.0,,indefinido,mensual,union libre,secundaria,,,ninguno,1,0,4.60971,-74.08175,11.038107752956636
 30,200000,3754.0,2018-09-26,1682,1,empleado,propia,2.0,mas de 5 anos,1000000.0,500000.0,,termino fijo,quincenal,union libre,secundaria,1.0,1.0,moto,1,0,6.25184,-75.56359,126.57687253613666
 30,270000,5067.9,2018-09-26,1682,1,empleado,familiar,3.0,entre uno y cinco anos,1500000.0,400000.0,300000.0,indefinido,mensual,soltero/a,profesional,,,ninguno,1,0,4.60971,-74.08175,110.4796320630749
 30,150000,2815.5,2018-07-07,1682,0,empleado,arrendada,4.0,entre uno y cinco anos,3000000.0,1290000.0,,prestacion de servicios,mensual,soltero/a,profesional,2.0,,ninguno,1,0,4.60971,-74.08175,10.183968462549277
@@ -1633,7 +1633,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,450000,8446.5,2018-04-07,1668,0,empleado,arrendada,3.0,menos de un ano,2500000.0,1500000.0,,indefinido,quincenal,soltero/a,secundaria,2.0,2.0,ninguno,1,0,4.60971,-74.08175,43.49540078843627
 30,250000,4692.5,2018-10-11,1667,1,empleado,arrendada,2.0,menos de un ano,1350000.0,600000.0,,termino fijo,quincenal,union libre,secundaria,2.0,2.0,ninguno,1,0,4.60971,-74.08175,18.101182654402102
 30,500000,9385.0,2016-12-29,1667,0,empleado,nan,3.0,mas de 5 anos,1695000.0,600000.0,,indefinido,mensual,nan,nan,2.0,2.0,ninguno,1,0,4.60971,-74.08175,9.231274638633376
-28,110000,1927.053333,2018-10-11,1667,1,empleado,propia,2.0,mas de 5 anos,1200000.0,500000.0,300000.0,termino fijo,quincenal,casado/a,primaria,2.0,1.0,ninguno,1,0,4.60971,-74.08175,32.98291721419185
+28,110000,1927.053333,2018-10-11,1667,1,empleado,propia,2.0,mas de 5 anos,1200000.0,500000.0,300000.0,termino fijo,quincenal,casado/a,primaria,2.0,1.0,ninguno,1,0,1.28995,-77.35721,32.98291721419185
 30,150000,2815.5,2018-10-12,1666,1,empleado,propia,2.0,mas de 5 anos,800000.0,120000.0,100000.0,indefinido,quincenal,soltero/a,secundaria,,,ninguno,1,0,3.43722,-76.5225,7.78580814717477
 30,250000,4692.5,2018-10-12,1666,1,empleado,familiar,3.0,entre uno y cinco anos,3000000.0,1000000.0,500000.0,indefinido,mensual,casado/a,profesional,2.0,2.0,ninguno,2,1,4.81333,-75.69611,28.38370565045992
 30,160000,3003.2,2018-10-12,1666,1,empleado,arrendada,2.0,mas de 5 anos,1100000.0,300000.0,,indefinido,quincenal,union libre,tecnologo,1.0,1.0,ninguno,1,0,4.60971,-74.08175,19.940867279894874
@@ -1652,10 +1652,10 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,400000,7508.0,2018-10-17,1661,1,independiente,arrendada,4.0,mas de 5 anos,1500000.0,500000.0,,nan,nan,casado/a,profesional,,2.0,ninguno,1,0,4.60971,-74.08175,
 30,150000,2815.5,2018-10-17,1661,1,empleado,familiar,2.0,mas de 5 anos,861500.0,250000.0,200000.0,indefinido,quincenal,soltero/a,secundaria,1.0,1.0,ninguno,1,0,6.25184,-75.56359,24.605781865965834
 30,250000,4692.5,2018-10-18,1660,1,empleado,familiar,4.0,menos de un ano,2090000.0,1100000.0,,indefinido,mensual,union libre,tecnologo,,,ninguno,1,0,6.25184,-75.56359,36.85939553219448
-30,270000,5067.9,2018-04-15,1660,0,empleado,familiar,3.0,menos de un ano,1900000.0,300000.0,,indefinido,quincenal,union libre,profesional,1.0,1.0,ninguno,1,0,8.75924,-76.52969,25.42706964520368
+30,270000,5067.9,2018-04-15,1660,0,empleado,familiar,3.0,menos de un ano,1900000.0,300000.0,,indefinido,quincenal,union libre,profesional,1.0,1.0,ninguno,1,0,4.60971,-74.08175,25.42706964520368
 30,220000,4129.4,2018-10-19,1659,1,empleado,familiar,3.0,menos de un ano,1600000.0,900000.0,300000.0,termino fijo,quincenal,union libre,secundaria,3.0,3.0,ninguno,2,1,4.60971,-74.08175,98.12746386333771
 30,300000,5631.0,2018-10-19,1659,1,empleado,arrendada,3.0,entre uno y cinco anos,2200000.0,650000.0,1200000.0,indefinido,mensual,soltero/a,profesional,,1.0,ninguno,2,1,5.06889,-75.51738,20.07227332457293
-30,250000,4692.5,2018-10-19,1659,1,empleado,familiar,3.0,mas de 5 anos,1600000.0,700000.0,300000.0,termino fijo,quincenal,union libre,secundaria,1.0,1.0,ninguno,1,0,6.33732,-75.55795,
+30,250000,4692.5,2018-10-19,1659,1,empleado,familiar,3.0,mas de 5 anos,1600000.0,700000.0,300000.0,termino fijo,quincenal,union libre,secundaria,1.0,1.0,ninguno,1,0,4.60971,-74.08175,
 30,200000,3754.0,2017-12-24,1658,0,empleado,familiar,1.0,entre uno y cinco anos,820000.0,300000.0,300000.0,termino fijo,quincenal,union libre,secundaria,1.0,1.0,moto,1,0,10.96854,-74.78132,
 30,250000,4692.5,2018-10-21,1657,1,empleado,propia,2.0,mas de 5 anos,1550000.0,500000.0,200000.0,indefinido,mensual,soltero/a,no tengo,2.0,2.0,moto,1,0,3.23114,-76.41668,54.796320630749015
 30,190000,3566.3,2018-10-21,1657,1,empleado,familiar,2.0,mas de 5 anos,2234000.0,750000.0,,indefinido,quincenal,casado/a,tecnologo,1.0,,ninguno,1,0,4.60971,-74.08175,23.554533508541393
@@ -1679,7 +1679,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,220000,4129.4,2018-10-28,1650,1,prestador de servicios,arrendada,3.0,entre uno y cinco anos,1400000.0,300000.0,200000.0,indefinido,mensual,soltero/a,secundaria,,,ninguno,1,0,4.60971,-74.08175,12.877792378449408
 30,100000,1877.0,2018-10-28,1650,1,empleado,familiar,4.0,entre uno y cinco anos,1334067.0,200000.0,,indefinido,quincenal,union libre,tecnico,,1.0,ninguno,1,0,6.15515,-75.37371,14.388961892247043
 30,250000,4692.5,2018-10-28,1650,1,empleado,propia,3.0,mas de 5 anos,1450000.0,800000.0,150000.0,indefinido,quincenal,casado/a,tecnico,,1.0,ninguno,1,0,3.53944,-76.30361,48.88304862023653
-29,200000,3628.866667,2018-10-28,1650,1,empleado,familiar,3.0,mas de 5 anos,1200000.0,400000.0,100000.0,termino fijo,mensual,union libre,secundaria,2.0,2.0,ninguno,1,0,4.43889,-75.23222,122.96320630749014
+29,200000,3628.866667,2018-10-28,1650,1,empleado,familiar,3.0,mas de 5 anos,1200000.0,400000.0,100000.0,termino fijo,mensual,union libre,secundaria,2.0,2.0,ninguno,1,0,4.60971,-74.08175,122.96320630749014
 30,250000,4692.5,2018-10-29,1649,1,empleado,familiar,2.0,mas de 5 anos,1700000.0,600000.0,200000.0,indefinido,quincenal,soltero/a,tecnico,1.0,2.0,ninguno,1,0,10.91843,-74.76459,38.76478318002628
 29,200000,3628.866667,2018-10-29,1649,1,empleado,familiar,3.0,mas de 5 anos,1650000.0,200000.0,1000000.0,indefinido,quincenal,union libre,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,40.7030223390276
 13,200000,1626.733333,2018-10-29,1649,1,empleado,familiar,2.0,mas de 5 anos,1400000.0,350000.0,300000.0,indefinido,mensual,soltero/a,tecnologo,1.0,,moto,1,0,7.53941,-72.77238,46.1892247043364
@@ -1687,7 +1687,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,500000,9385.0,2018-10-31,1647,1,empleado,propia,3.0,mas de 5 anos,1200000.0,350000.0,100000.0,termino fijo,mensual,union libre,tecnologo,2.0,3.0,ninguno,1,0,4.60971,-74.08175,53.843626806833115
 30,250000,4692.5,2018-10-31,1647,1,empleado,familiar,2.0,entre uno y cinco anos,2500000.0,1300000.0,300000.0,indefinido,quincenal,casado/a,tecnico,,,ninguno,1,0,4.60971,-74.08175,47.601839684625496
 30,200000,3754.0,2017-11-11,1647,0,empleado,familiar,2.0,mas de 5 anos,1380000.0,400000.0,200000.0,termino fijo,mensual,soltero/a,profesional,1.0,1.0,ninguno,1,0,6.25184,-75.56359,
-30,250000,4692.5,2017-07-22,1647,0,independiente,propia,1.0,entre uno y cinco anos,3200000.0,500000.0,500000.0,termino fijo,quincenal,soltero/a,no tengo,,,ninguno,1,0,4.60971,-74.08175,
+30,250000,4692.5,2017-07-22,1647,0,independiente,propia,1.0,entre uno y cinco anos,3200000.0,500000.0,500000.0,termino fijo,quincenal,soltero/a,no tengo,,,ninguno,1,0,7.08471,-70.75908,
 30,160000,3003.2,2018-11-01,1646,1,empleado,propia,3.0,mas de 5 anos,1300.0,500.0,200.0,indefinido,quincenal,soltero/a,profesional,1.0,1.0,ninguno,1,0,3.43722,-76.5225,67.73981603153744
 30,200000,3754.0,2018-11-02,1645,1,empleado,familiar,3.0,mas de 5 anos,1400000.0,500000.0,,indefinido,quincenal,union libre,tecnologo,2.0,2.0,carro,1,0,5.06889,-75.51738,6.964520367936925
 30,200000,3754.0,2018-11-02,1645,1,empleado,arrendada,3.0,entre uno y cinco anos,1100000.0,500000.0,789000.0,termino fijo,quincenal,soltero/a,tecnologo,,,ninguno,1,0,4.60971,-74.08175,8.278580814717477
@@ -1709,14 +1709,14 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,190000,3566.3,2018-11-08,1639,1,independiente,familiar,1.0,mas de 5 anos,1800000.0,600000.0,500000.0,nan,nan,divorciado/a,profesional,,2.0,ninguno,1,0,3.43722,-76.5225,
 30,200000,3754.0,2018-11-09,1638,1,empleado,familiar,4.0,mas de 5 anos,2000000.0,1100000.0,200000.0,termino fijo,mensual,casado/a,profesional,,,ninguno,1,0,7.06528,-73.85472,44.875164257555845
 30,300000,5631.0,2018-11-10,1637,1,independiente,propia,5.0,menos de un ano,4500000.0,2000000.0,500000.0,nan,nan,soltero/a,profesional,,,ninguno,1,0,10.96854,-74.78132,
-30,170000,3190.9,2018-11-10,1637,1,empleado,familiar,4.0,entre uno y cinco anos,900000.0,350000.0,80000.0,indefinido,quincenal,soltero/a,tecnico,1.0,1.0,ninguno,1,0,7.44348,-77.11964,117.11563731931669
+30,170000,3190.9,2018-11-10,1637,1,empleado,familiar,4.0,entre uno y cinco anos,900000.0,350000.0,80000.0,indefinido,quincenal,soltero/a,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,117.11563731931669
 30,400000,7508.0,2018-11-10,1637,1,empleado,propia,3.0,entre uno y cinco anos,4800000.0,600000.0,0.0,indefinido,mensual,soltero/a,no tengo,1.0,2.0,carro,1,0,2.9273,-75.28189,137.1550591327201
 30,250000,4692.5,2018-11-10,1637,1,empleado,propia,1.0,entre uno y cinco anos,1996000.0,400000.0,138000.0,indefinido,mensual,union libre,profesional,1.0,,ninguno,1,0,10.96854,-74.78132,49.57293035479632
 30,180000,3378.6,2018-11-11,1636,1,empleado,arrendada,2.0,menos de un ano,1041000.0,550000.0,,termino fijo,mensual,divorciado/a,tecnico,,2.0,ninguno,1,0,4.60971,-74.08175,25.295663600525625
 30,200000,3754.0,2018-11-11,1636,1,empleado,familiar,2.0,entre uno y cinco anos,1200000.0,500000.0,20000.0,indefinido,mensual,soltero/a,tecnologo,,,ninguno,1,0,4.60971,-74.08175,33.47568988173456
 30,180000,3378.6,2018-08-22,1636,0,empleado,familiar,3.0,mas de 5 anos,1233000.0,400000.0,130000.0,indefinido,mensual,soltero/a,profesional,1.0,1.0,ninguno,1,0,4.60971,-74.08175,49.40867279894875
 30,160000,3003.2,2018-01-26,1635,0,empleado,familiar,2.0,mas de 5 anos,850000.0,500000.0,200000.0,indefinido,quincenal,soltero/a,secundaria,2.0,2.0,ninguno,1,0,4.60971,-74.08175,0.0
-29,300000,5443.3,2018-11-12,1635,1,empleado,familiar,2.0,mas de 5 anos,2600000.0,1200000.0,1200000.0,termino fijo,quincenal,casado/a,secundaria,,,ninguno,1,0,8.21639,-73.24139,69.5137976346912
+29,300000,5443.3,2018-11-12,1635,1,empleado,familiar,2.0,mas de 5 anos,2600000.0,1200000.0,1200000.0,termino fijo,quincenal,casado/a,secundaria,,,ninguno,1,0,4.60971,-74.08175,69.5137976346912
 22,150000,2064.7,2018-11-14,1633,1,empleado,familiar,3.0,entre uno y cinco anos,1500000.0,300000.0,,termino fijo,mensual,soltero/a,profesional,,,ninguno,1,0,8.74798,-75.88143,25.36136662286465
 30,150000,2815.5,2018-11-15,1632,1,empleado,arrendada,2.0,menos de un ano,940000.0,550000.0,100000.0,indefinido,quincenal,soltero/a,tecnico,,,ninguno,1,0,6.25184,-75.56359,5.321944809461235
 30,180000,3378.6,2018-11-15,1632,1,empleado,familiar,2.0,entre uno y cinco anos,1200000.0,500000.0,20000.0,indefinido,mensual,soltero/a,tecnologo,,,ninguno,2,1,4.60971,-74.08175,33.47568988173456
@@ -1737,7 +1737,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,150000,2815.5,2018-11-18,1629,1,empleado,arrendada,2.0,mas de 5 anos,900000.0,400000.0,250000.0,indefinido,quincenal,soltero/a,secundaria,1.0,1.0,ninguno,1,0,6.25184,-75.56359,10.611038107752957
 30,220000,4129.4,2018-11-18,1629,1,empleado,propia,1.0,mas de 5 anos,1226000.0,350000.0,100000.0,termino fijo,quincenal,soltero/a,secundaria,1.0,,ninguno,1,0,3.43722,-76.5225,
 30,200000,3754.0,2018-07-13,1627,0,independiente,familiar,3.0,mas de 5 anos,1784000.0,400000.0,150000.0,nan,nan,union libre,secundaria,,,ninguno,1,0,4.60971,-74.08175,
-30,310000,5818.7,2018-11-21,1626,1,empleado,familiar,1.0,mas de 5 anos,1680000.0,800000.0,120000.0,indefinido,quincenal,union libre,tecnico,1.0,,ninguno,1,0,7.88299,-76.62587,36.0
+30,310000,5818.7,2018-11-21,1626,1,empleado,familiar,1.0,mas de 5 anos,1680000.0,800000.0,120000.0,indefinido,quincenal,union libre,tecnico,1.0,,ninguno,1,0,4.60971,-74.08175,36.0
 30,150000,2815.5,2018-11-21,1626,1,empleado,familiar,5.0,mas de 5 anos,1800000.0,800000.0,,indefinido,mensual,soltero/a,profesional,,,carro,1,0,4.60971,-74.08175,69.2838370565046
 30,180000,3378.6,2018-11-21,1626,1,empleado,arrendada,3.0,entre uno y cinco anos,950000.0,450000.0,300000.0,termino fijo,mensual,soltero/a,tecnico,,1.0,ninguno,1,0,4.60971,-74.08175,13.272010512483574
 20,200000,2502.666667,2018-11-21,1626,1,empleado,familiar,2.0,mas de 5 anos,1100000.0,500000.0,300000.0,indefinido,quincenal,casado/a,tecnico,2.0,2.0,ninguno,1,0,10.96854,-74.78132,9.658344283837057
@@ -1760,25 +1760,25 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,250000,4692.5,2018-11-28,1619,1,empleado,familiar,2.0,mas de 5 anos,1100000.0,600000.0,500000.0,indefinido,quincenal,soltero/a,profesional,1.0,,ninguno,1,0,10.96854,-74.78132,17.969776609724047
 30,150000,2815.5,2018-04-04,1618,0,empleado,arrendada,1.0,mas de 5 anos,850000.0,300000.0,100000.0,indefinido,quincenal,soltero/a,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,25.62417871222076
 30,300000,5631.0,2018-11-29,1618,1,empleado,familiar,3.0,entre uno y cinco anos,1516000.0,650000.0,150000.0,termino fijo,mensual,casado/a,secundaria,2.0,2.0,ninguno,1,0,10.46314,-73.25322,22.798948751642577
-29,200000,3628.866667,2018-11-30,1617,1,empleado,familiar,2.0,mas de 5 anos,1800000.0,800000.0,200000.0,indefinido,quincenal,casado/a,tecnico,2.0,1.0,ninguno,1,0,3.43722,-76.5225,193.52825229960578
+29,200000,3628.866667,2018-11-30,1617,1,empleado,familiar,2.0,mas de 5 anos,1800000.0,800000.0,200000.0,indefinido,quincenal,casado/a,tecnico,2.0,1.0,ninguno,1,0,4.60971,-74.08175,193.52825229960578
 30,150000,2815.5,2017-05-03,1616,0,empleado,nan,3.0,mas de 5 anos,,,,termino fijo,quincenal,nan,nan,0.0,0.0,ninguno,1,0,6.25184,-75.56359,96.0
 30,100000,1877.0,2018-12-01,1616,1,empleado,familiar,3.0,mas de 5 anos,831200.0,450000.0,,termino fijo,quincenal,soltero/a,tecnologo,,,ninguno,1,0,10.96854,-74.78132,14.487516425755585
 30,180000,3378.6,2018-12-01,1616,1,empleado,propia,2.0,mas de 5 anos,1500000.0,600000.0,,indefinido,quincenal,casado/a,tecnico,1.0,2.0,ninguno,1,0,4.60971,-74.08175,212.74638633377134
 23,300000,4317.1,2018-12-01,1616,1,prestador de servicios,familiar,2.0,mas de 5 anos,2250000.0,1800000.0,100000.0,nan,nan,union libre,profesional,2.0,1.0,ninguno,1,0,5.33775,-72.39586,
 28,200000,3503.733333,2017-09-26,1616,0,empleado,familiar,1.0,mas de 5 anos,1000000.0,300000.0,700000.0,indefinido,quincenal,soltero/a,tecnico,0.0,0.0,ninguno,1,0,4.60971,-74.08175,8.0
 30,100000,1877.0,2018-05-17,1615,0,empleado,propia,2.0,mas de 5 anos,1200000.0,600000.0,,indefinido,mensual,soltero/a,tecnico,,,ninguno,1,0,4.60971,-74.08175,
-30,300000,5631.0,2018-12-02,1615,1,empleado,arrendada,3.0,entre uno y cinco anos,1200000.0,200000.0,,indefinido,quincenal,soltero/a,secundaria,,,ninguno,1,0,6.18461,-75.59913,13.140604467805518
+30,300000,5631.0,2018-12-02,1615,1,empleado,arrendada,3.0,entre uno y cinco anos,1200000.0,200000.0,,indefinido,quincenal,soltero/a,secundaria,,,ninguno,1,0,4.60971,-74.08175,13.140604467805518
 30,200000,3754.0,2018-12-02,1615,1,empleado,familiar,3.0,mas de 5 anos,1500000.0,200000.0,300000.0,indefinido,mensual,soltero/a,profesional,,,ninguno,1,0,4.60971,-74.08175,6.438896189224704
 9,100000,563.1,2018-12-02,1615,1,empleado,arrendada,3.0,menos de un ano,1100000.0,250000.0,150000.0,indefinido,mensual,soltero/a,tecnico,,,ninguno,1,0,4.60971,-74.08175,20.76215505913272
 30,450000,8446.5,2017-04-21,1614,0,empleado,nan,3.0,menos de un ano,2800000.0,1200000.0,,indefinido,mensual,nan,nan,0.0,0.0,ninguno,1,0,4.60971,-74.08175,
-29,250000,4536.083333,2018-03-31,1614,0,empleado,propia,3.0,mas de 5 anos,2378000.0,700000.0,560000.0,termino fijo,mensual,casado/a,profesional,2.0,2.0,carro,1,0,8.21639,-73.24139,431.93166885676743
+29,250000,4536.083333,2018-03-31,1614,0,empleado,propia,3.0,mas de 5 anos,2378000.0,700000.0,560000.0,termino fijo,mensual,casado/a,profesional,2.0,2.0,carro,1,0,4.60971,-74.08175,431.93166885676743
 30,300000,5631.0,2018-12-03,1614,1,empleado,familiar,3.0,mas de 5 anos,1800000.0,950000.0,450000.0,indefinido,mensual,casado/a,tecnologo,1.0,1.0,carro,2,1,4.60971,-74.08175,21.09067017082786
 23,180000,2590.26,2018-12-03,1614,1,empleado,arrendada,2.0,mas de 5 anos,1100000.0,580000.0,120000.0,indefinido,mensual,casado/a,tecnico,2.0,2.0,ninguno,1,0,2.68489,-75.32311,23.981603153745073
 30,300000,5631.0,2018-12-05,1612,1,prestador de servicios,arrendada,3.0,menos de un ano,3092000.0,800000.0,,termino fijo,mensual,soltero/a,tecnologo,,,ninguno,1,0,4.60971,-74.08175,0.328515111695138
 30,250000,4692.5,2018-12-05,1612,1,empleado,familiar,3.0,entre uno y cinco anos,1400000.0,500000.0,1000000.0,indefinido,quincenal,soltero/a,profesional,,,ninguno,1,0,7.53941,-72.77238,23.061760840998687
 29,300000,5443.3,2017-02-22,1612,0,empleado,nan,3.0,menos de un ano,,,,indefinido,mensual,nan,nan,0.0,0.0,ninguno,1,0,4.60971,-74.08175,30.0
 30,200000,3754.0,2018-12-06,1611,1,empleado,arrendada,3.0,entre uno y cinco anos,1500000.0,400000.0,200000.0,indefinido,quincenal,soltero/a,tecnico,,1.0,ninguno,1,0,4.60971,-74.08175,0.9526938239159002
-30,170000,3190.9,2018-12-06,1611,1,empleado,familiar,3.0,menos de un ano,1700000.0,900000.0,,termino fijo,mensual,soltero/a,tecnico,1.0,,ninguno,1,0,6.46838,-73.26022,6.800262812089356
+30,170000,3190.9,2018-12-06,1611,1,empleado,familiar,3.0,menos de un ano,1700000.0,900000.0,,termino fijo,mensual,soltero/a,tecnico,1.0,,ninguno,1,0,4.60971,-74.08175,6.800262812089356
 30,160000,3003.2,2017-08-24,1611,0,independiente,nan,3.0,entre uno y cinco anos,2586000.0,,,nan,nan,nan,nan,0.0,0.0,ninguno,1,0,4.60971,-74.08175,
 30,250000,4692.5,2018-06-03,1611,0,empleado,propia,2.0,entre uno y cinco anos,3200000.0,2000000.0,1890000.0,indefinido,mensual,soltero/a,no tengo,1.0,,ninguno,1,0,6.25184,-75.56359,
 30,380000,7132.6,2018-12-06,1611,1,empleado,arrendada,3.0,entre uno y cinco anos,1250000.0,821000.0,,indefinido,mensual,soltero/a,tecnico,,,moto,1,0,4.60971,-74.08175,24.178712220762154
@@ -1796,7 +1796,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,300000,5631.0,2016-10-16,1608,0,empleado,nan,2.0,mas de 5 anos,,,,indefinido,mensual,nan,nan,0.0,0.0,ninguno,1,0,9.19992,-73.54274,101.64257555847568
 30,400000,7508.0,2018-12-09,1608,1,empleado,propia,3.0,mas de 5 anos,2500000.0,500000.0,700000.0,termino fijo,quincenal,soltero/a,no tengo,,,carro,1,0,6.25184,-75.56359,3.219448094612352
 20,250000,3128.333333,2018-12-10,1607,1,independiente,arrendada,5.0,mas de 5 anos,3000000.0,1000000.0,200000.0,nan,nan,union libre,profesional,1.0,,moto,1,0,6.25184,-75.56359,
-20,200000,2502.666667,2018-12-10,1607,1,prestador de servicios,propia,4.0,mas de 5 anos,1300000.0,450000.0,400000.0,nan,nan,union libre,profesional,,,ninguno,1,0,3.90089,-76.29783,29.23784494086728
+20,200000,2502.666667,2018-12-10,1607,1,prestador de servicios,propia,4.0,mas de 5 anos,1300000.0,450000.0,400000.0,nan,nan,union libre,profesional,,,ninguno,1,0,4.60971,-74.08175,29.23784494086728
 30,200000,3754.0,2016-09-30,1606,0,independiente,nan,3.0,entre uno y cinco anos,3500000.0,,,nan,nan,nan,nan,0.0,0.0,ninguno,1,0,4.60971,-74.08175,
 30,150000,2815.5,2018-12-13,1604,1,empleado,arrendada,2.0,menos de un ano,800000.0,500000.0,300000.0,termino fijo,mensual,soltero/a,tecnico,,,ninguno,1,0,4.60971,-74.08175,5.650459921156373
 30,150000,2815.5,2018-12-13,1604,1,empleado,familiar,2.0,mas de 5 anos,1200000.0,300000.0,100000.0,indefinido,quincenal,soltero/a,tecnico,1.0,,moto,1,0,4.60971,-74.08175,75.98554533508542
@@ -1900,18 +1900,18 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,150000,2815.5,2017-07-15,1557,0,empleado,arrendada,2.0,menos de un ano,1097500.0,600000.0,,indefinido,mensual,casado/a,tecnologo,1.0,4.0,ninguno,1,0,4.60971,-74.08175,
 30,160000,3003.2,2017-10-27,1557,0,empleado,nan,2.0,mas de 5 anos,1700000.0,900000.0,100000.0,indefinido,mensual,nan,nan,,1.0,ninguno,1,0,4.60971,-74.08175,
 30,200000,3754.0,2017-11-24,1557,0,empleado,arrendada,3.0,entre uno y cinco anos,2800000.0,400000.0,200000.0,indefinido,mensual,soltero/a,profesional,,,moto,1,0,3.43722,-76.5225,38.797634691195796
-28,250000,4379.666667,2017-08-25,1557,0,empleado,propia,6.0,entre uno y cinco anos,2400000.0,4500000.0,1800000.0,indefinido,mensual,soltero/a,no tengo,,,ninguno,1,0,9.82767,-75.1217,44.415243101182654
+28,250000,4379.666667,2017-08-25,1557,0,empleado,propia,6.0,entre uno y cinco anos,2400000.0,4500000.0,1800000.0,indefinido,mensual,soltero/a,no tengo,,,ninguno,1,0,4.60971,-74.08175,44.415243101182654
 30,270000,5067.9,2018-06-02,1556,0,empleado,arrendada,3.0,entre uno y cinco anos,6000000.0,3000000.0,1000000.0,termino fijo,mensual,soltero/a,profesional,,,carro,1,0,5.06889,-75.51738,24.67148488830486
 30,220000,4129.4,2018-10-28,1555,0,empleado,arrendada,3.0,entre uno y cinco anos,1800000.0,900000.0,250000.0,indefinido,mensual,union libre,profesional,1.0,1.0,carro,1,0,6.53833,-75.08861,73.02890932982918
 30,300000,5631.0,2019-02-01,1554,1,independiente,familiar,4.0,mas de 5 anos,7000000.0,2500000.0,,nan,nan,soltero/a,profesional,,,ninguno,1,0,6.25184,-75.56359,
-20,200000,2502.666667,2017-04-17,1554,0,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,quincenal,nan,nan,4.0,2.0,ninguno,1,0,8.94617,-75.44275,15.0
-30,100000,1877.0,2017-12-29,1553,0,empleado,arrendada,3.0,mas de 5 anos,1325000.0,625000.0,,termino fijo,quincenal,union libre,tecnico,1.0,,ninguno,1,0,1.18112,-77.96124,
+20,200000,2502.666667,2017-04-17,1554,0,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,quincenal,nan,nan,4.0,2.0,ninguno,1,0,4.60971,-74.08175,15.0
+30,100000,1877.0,2017-12-29,1553,0,empleado,arrendada,3.0,mas de 5 anos,1325000.0,625000.0,,termino fijo,quincenal,union libre,tecnico,1.0,,ninguno,1,0,4.60971,-74.08175,
 30,230000,4317.1,2018-04-15,1553,0,empleado,familiar,2.0,entre uno y cinco anos,1200000.0,350000.0,100000.0,indefinido,mensual,soltero/a,tecnico,,,ninguno,1,0,-4.21528,-69.94056,18.988173455978973
 30,320000,6006.4,2019-02-02,1553,1,empleado,familiar,1.0,entre uno y cinco anos,1383000.0,600000.0,300000.0,indefinido,mensual,union libre,profesional,1.0,1.0,ninguno,1,0,10.96854,-74.78132,52.989487516425754
 30,250000,4692.5,2018-02-14,1552,0,empleado,familiar,2.0,mas de 5 anos,1380000.0,400000.0,200000.0,termino fijo,mensual,soltero/a,profesional,1.0,1.0,ninguno,2,1,6.25184,-75.56359,
 30,150000,2815.5,2018-09-14,1550,0,empleado,familiar,2.0,mas de 5 anos,1000000.0,700000.0,120000.0,indefinido,mensual,soltero/a,tecnologo,2.0,,ninguno,1,0,5.76978,-72.94099,41.22864651773982
 30,120000,2252.4,2017-07-23,1549,0,empleado,nan,3.0,mas de 5 anos,,,,indefinido,quincenal,nan,nan,0.0,0.0,ninguno,1,0,6.25184,-75.56359,6.0
-30,220000,4129.4,2018-06-09,1549,0,empleado,familiar,2.0,entre uno y cinco anos,1560000.0,350000.0,450000.0,indefinido,quincenal,soltero/a,tecnologo,1.0,1.0,ninguno,1,0,6.17358,-75.33621,13.436268068331144
+30,220000,4129.4,2018-06-09,1549,0,empleado,familiar,2.0,entre uno y cinco anos,1560000.0,350000.0,450000.0,indefinido,quincenal,soltero/a,tecnologo,1.0,1.0,ninguno,1,0,4.60971,-74.08175,13.436268068331144
 30,160000,3003.2,2018-10-03,1548,0,empleado,arrendada,2.0,entre uno y cinco anos,1000000.0,570000.0,100000.0,termino fijo,mensual,soltero/a,secundaria,,,ninguno,1,0,10.96854,-74.78132,4.23784494086728
 30,200000,3754.0,2019-02-07,1548,1,empleado,arrendada,2.0,menos de un ano,1150000.0,550000.0,180000.0,termino fijo,quincenal,soltero/a,profesional,,,ninguno,1,0,4.60971,-74.08175,18.692509855453352
 30,210000,3941.7,2019-02-08,1547,1,empleado,familiar,3.0,mas de 5 anos,1500000.0,380000.0,,indefinido,quincenal,soltero/a,tecnico,,,ninguno,1,0,6.25184,-75.56359,96.6491458607096
@@ -1956,7 +1956,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,105000,1970.85,2019-03-02,1525,1,empleado,familiar,2.0,mas de 5 anos,1020000.0,350000.0,,indefinido,mensual,union libre,secundaria,1.0,1.0,ninguno,1,0,4.60971,-74.08175,27.92378449408673
 30,450000,8446.5,2019-03-02,1525,1,empleado,familiar,3.0,mas de 5 anos,900000.0,350000.0,100000.0,termino fijo,quincenal,soltero/a,tecnico,,,ninguno,1,0,6.18461,-75.59913,35.97240473061761
 30,200000,3754.0,2019-03-02,1525,1,prestador de servicios,familiar,2.0,mas de 5 anos,1733000.0,700000.0,,termino fijo,mensual,union libre,tecnologo,1.0,1.0,ninguno,1,0,4.60971,-74.08175,180.78186596583444
-29,200000,3628.866667,2019-03-02,1525,1,empleado,arrendada,1.0,menos de un ano,905000.0,400000.0,100000.0,indefinido,quincenal,union libre,secundaria,,,ninguno,1,0,8.4115,-75.58508,62.516425755584756
+29,200000,3628.866667,2019-03-02,1525,1,empleado,arrendada,1.0,menos de un ano,905000.0,400000.0,100000.0,indefinido,quincenal,union libre,secundaria,,,ninguno,1,0,4.60971,-74.08175,62.516425755584756
 30,250000,4692.5,2018-05-27,1525,0,independiente,familiar,3.0,mas de 5 anos,3600000.0,1500000.0,1000000.0,nan,nan,soltero/a,profesional,,3.0,ninguno,1,0,5.71434,-72.93391,
 30,250000,4692.5,2017-04-07,1524,0,empleado,nan,3.0,mas de 5 anos,,,,indefinido,quincenal,nan,nan,3.0,3.0,ninguno,1,0,7.83389,-72.47417,60.0
 28,210000,3678.92,2019-03-05,1522,1,empleado,arrendada,3.0,mas de 5 anos,1050000.0,500000.0,360000.0,termino fijo,quincenal,union libre,secundaria,1.0,2.0,ninguno,1,0,6.25184,-75.56359,9.724047306176084
@@ -2047,7 +2047,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,150000,2815.5,2019-04-19,1477,1,independiente,familiar,2.0,menos de un ano,1500000.0,800000.0,300000.0,nan,nan,soltero/a,tecnologo,1.0,1.0,ninguno,1,0,6.25184,-75.56359,
 30,400000,7508.0,2017-08-16,1477,0,independiente,propia,3.0,entre uno y cinco anos,2500000.0,2000000.0,,nan,nan,soltero/a,no tengo,0.0,0.0,ninguno,1,0,4.60971,-74.08175,
 30,200000,3754.0,2019-04-20,1476,1,empleado,propia,3.0,mas de 5 anos,1800000.0,600000.0,240000.0,indefinido,mensual,soltero/a,no tengo,,,ninguno,1,0,4.60971,-74.08175,
-30,200000,3754.0,2019-04-20,1476,1,empleado,familiar,3.0,mas de 5 anos,1500000.0,500000.0,,termino fijo,mensual,casado/a,profesional,,,moto,1,0,4.73245,-74.26419,14.126149802890932
+30,200000,3754.0,2019-04-20,1476,1,empleado,familiar,3.0,mas de 5 anos,1500000.0,500000.0,,termino fijo,mensual,casado/a,profesional,,,moto,1,0,4.60971,-74.08175,14.126149802890932
 30,200000,3754.0,2019-04-20,1476,1,independiente,familiar,3.0,mas de 5 anos,3000000.0,500000.0,2000000.0,nan,nan,soltero/a,no tengo,,,ninguno,1,0,4.60971,-74.08175,
 30,250000,4692.5,2018-08-21,1476,0,empleado,familiar,3.0,entre uno y cinco anos,3112000.0,1800000.0,,indefinido,mensual,union libre,profesional,1.0,2.0,carro,1,0,4.60971,-74.08175,137.31931668856768
 30,150000,2815.5,2019-04-20,1476,1,empleado,arrendada,2.0,entre uno y cinco anos,970000.0,600000.0,200000.0,indefinido,quincenal,soltero/a,secundaria,,,ninguno,1,0,4.43889,-75.23222,46.320630749014455
@@ -2056,10 +2056,10 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,150000,2815.5,2019-04-21,1475,1,empleado,familiar,3.0,mas de 5 anos,1200000.0,450000.0,200000.0,indefinido,quincenal,soltero/a,tecnico,,,ninguno,1,0,4.60971,-74.08175,21.057818659658345
 30,300000,5631.0,2019-04-21,1475,1,empleado,familiar,1.0,mas de 5 anos,1636000.0,200000.0,100000.0,indefinido,mensual,soltero/a,tecnico,,,ninguno,1,0,6.25184,-75.56359,79.63206307490144
 30,200000,3754.0,2019-04-21,1475,1,empleado,arrendada,2.0,entre uno y cinco anos,1200000.0,600000.0,,termino fijo,quincenal,union libre,secundaria,1.0,1.0,ninguno,1,0,4.60971,-74.08175,11.366622864651774
-30,500000,9385.0,2018-01-21,1475,0,empleado,familiar,3.0,entre uno y cinco anos,1100000.0,650000.0,150000.0,indefinido,quincenal,soltero/a,tecnologo,,,ninguno,1,0,4.60971,-74.08175,
+30,500000,9385.0,2018-01-21,1475,0,empleado,familiar,3.0,entre uno y cinco anos,1100000.0,650000.0,150000.0,indefinido,quincenal,soltero/a,tecnologo,,,ninguno,1,0,6.09106,-75.63569,
 30,150000,2815.5,2017-08-18,1474,0,empleado,arrendada,3.0,entre uno y cinco anos,900000.0,1000000.0,400000.0,indefinido,quincenal,soltero/a,secundaria,0.0,0.0,ninguno,1,0,4.60971,-74.08175,15.0
-30,150000,2815.5,2019-04-12,1473,0,empleado,familiar,3.0,menos de un ano,1200000.0,700000.0,100000.0,termino fijo,quincenal,soltero/a,secundaria,1.0,1.0,ninguno,1,0,1.68318,-77.07331,12.943495400788436
-30,200000,3754.0,2019-04-25,1471,1,independiente,familiar,3.0,mas de 5 anos,4500000.0,1000000.0,,nan,nan,soltero/a,profesional,2.0,2.0,moto,1,0,1.87884,-76.26722,
+30,150000,2815.5,2019-04-12,1473,0,empleado,familiar,3.0,menos de un ano,1200000.0,700000.0,100000.0,termino fijo,quincenal,soltero/a,secundaria,1.0,1.0,ninguno,1,0,4.60971,-74.08175,12.943495400788436
+30,200000,3754.0,2019-04-25,1471,1,independiente,familiar,3.0,mas de 5 anos,4500000.0,1000000.0,,nan,nan,soltero/a,profesional,2.0,2.0,moto,1,0,4.60971,-74.08175,
 30,150000,2815.5,2019-04-25,1471,1,empleado,familiar,2.0,mas de 5 anos,1000000.0,200000.0,250000.0,termino fijo,mensual,union libre,secundaria,,,ninguno,1,0,6.25184,-75.56359,4.763469119579501
 29,200000,3628.866667,2019-04-25,1471,1,empleado,familiar,3.0,entre uno y cinco anos,1300000.0,500000.0,100000.0,termino fijo,mensual,soltero/a,secundaria,1.0,1.0,ninguno,1,0,4.60971,-74.08175,16.458607095926414
 29,300000,5443.3,2019-04-26,1470,1,independiente,propia,3.0,mas de 5 anos,4500000.0,1000000.0,500000.0,nan,nan,soltero/a,profesional,,,ninguno,1,0,6.84893,-75.81711,
@@ -2081,7 +2081,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,200000,3754.0,2019-04-28,1468,1,empleado,familiar,3.0,entre uno y cinco anos,1400000.0,500000.0,200000.0,indefinido,mensual,union libre,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,13.337713534822601
 30,300000,5631.0,2018-04-05,1467,0,pensionado,familiar,5.0,entre uno y cinco anos,1200000.0,800000.0,100000.0,nan,nan,viudo/a,tecnico,,2.0,ninguno,1,0,6.25184,-75.56359,
 30,220000,4129.4,2019-05-01,1465,1,empleado,propia,3.0,entre uno y cinco anos,3500000.0,1200000.0,400000.0,indefinido,mensual,union libre,tecnologo,1.0,1.0,ninguno,1,0,4.60971,-74.08175,42.21419185282523
-30,300000,5631.0,2018-01-27,1465,0,empleado,nan,2.0,mas de 5 anos,24000000.0,1500000.0,400000.0,indefinido,quincenal,nan,nan,3.0,3.0,ninguno,1,0,10.25444,-75.34389,301.51116951379765
+30,300000,5631.0,2018-01-27,1465,0,empleado,nan,2.0,mas de 5 anos,24000000.0,1500000.0,400000.0,indefinido,quincenal,nan,nan,3.0,3.0,ninguno,1,0,4.60971,-74.08175,301.51116951379765
 30,500000,9385.0,2019-05-01,1465,1,empleado,familiar,3.0,mas de 5 anos,1377000.0,300000.0,1000000.0,indefinido,mensual,soltero/a,profesional,,,moto,1,0,4.60971,-74.08175,56.6688567674113
 30,250000,4692.5,2019-05-01,1465,1,empleado,familiar,2.0,mas de 5 anos,1000000.0,200000.0,250000.0,termino fijo,mensual,union libre,secundaria,,,ninguno,2,1,6.25184,-75.56359,4.9605781865965834
 30,200000,3754.0,2019-05-02,1464,1,empleado,propia,2.0,menos de un ano,4800000.0,2800000.0,,indefinido,mensual,casado/a,tecnico,2.0,1.0,ninguno,1,0,11.54444,-72.90722,215.9986859395532
@@ -2095,11 +2095,11 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,300000,5631.0,2017-02-24,1459,0,independiente,familiar,3.0,mas de 5 anos,3000000.0,1500000.0,,nan,nan,casado/a,profesional,1.0,1.0,ninguno,1,0,4.60971,-74.08175,
 30,200000,3754.0,2018-10-31,1459,0,empleado,nan,3.0,mas de 5 anos,1300000.0,500000.0,200000.0,indefinido,mensual,nan,nan,2.0,2.0,ninguno,1,0,6.33732,-75.55795,92.44415243101183
 30,200000,3754.0,2019-05-08,1458,1,prestador de servicios,familiar,3.0,mas de 5 anos,2300000.0,1000000.0,,nan,nan,soltero/a,profesional,1.0,1.0,moto,1,0,6.15639,-75.78722,29.829172141918527
-30,200000,3754.0,2017-04-12,1458,0,empleado,familiar,2.0,entre uno y cinco anos,2259000.0,800000.0,320000.0,indefinido,quincenal,union libre,tecnologo,3.0,2.0,ninguno,1,0,4.60971,-74.08175,29.23784494086728
+30,200000,3754.0,2017-04-12,1458,0,empleado,familiar,2.0,entre uno y cinco anos,2259000.0,800000.0,320000.0,indefinido,quincenal,union libre,tecnologo,3.0,2.0,ninguno,1,0,6.09106,-75.63569,29.23784494086728
 30,180000,3378.6,2019-05-10,1456,1,empleado,familiar,3.0,entre uno y cinco anos,1200000.0,400000.0,400000.0,termino fijo,quincenal,soltero/a,tecnico,,,moto,1,0,4.60971,-74.08175,17.247043363994745
 30,250000,4692.5,2019-05-10,1456,1,empleado,familiar,4.0,entre uno y cinco anos,3500000.0,800000.0,400000.0,indefinido,quincenal,soltero/a,tecnologo,,2.0,ninguno,1,0,4.60971,-74.08175,8.73850197109067
 26,180000,2928.12,2018-10-15,1456,0,empleado,arrendada,3.0,entre uno y cinco anos,1900000.0,500000.0,300000.0,indefinido,mensual,soltero/a,tecnico,,,moto,1,0,6.55952,-73.13637,55.124835742444155
-30,150000,2815.5,2019-05-11,1455,1,empleado,arrendada,3.0,entre uno y cinco anos,1100000.0,550000.0,,indefinido,quincenal,soltero/a,secundaria,,,ninguno,1,0,5.44783,-74.66311,13.436268068331144
+30,150000,2815.5,2019-05-11,1455,1,empleado,arrendada,3.0,entre uno y cinco anos,1100000.0,550000.0,,indefinido,quincenal,soltero/a,secundaria,,,ninguno,1,0,4.60971,-74.08175,13.436268068331144
 30,500000,9385.0,2018-09-05,1455,0,empleado,nan,2.0,mas de 5 anos,2500000.0,1500000.0,,indefinido,mensual,nan,nan,1.0,1.0,ninguno,1,0,5.8245,-73.03408,72.43758212877792
 30,500000,9385.0,2018-10-17,1455,0,empleado,familiar,2.0,mas de 5 anos,1200000.0,400000.0,200000.0,indefinido,quincenal,union libre,tecnico,1.0,1.0,ninguno,1,0,4.57937,-74.21682,48.78449408672799
 30,150000,2815.5,2019-05-12,1454,1,empleado,arrendada,3.0,entre uno y cinco anos,850000.0,400000.0,200000.0,termino fijo,mensual,divorciado/a,tecnico,2.0,2.0,ninguno,1,0,4.60971,-74.08175,18.725361366622863
@@ -2127,11 +2127,11 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,200000,3754.0,2019-05-25,1441,1,empleado,familiar,3.0,mas de 5 anos,1166889.0,400000.0,,indefinido,mensual,divorciado/a,tecnologo,2.0,2.0,ninguno,1,0,4.60971,-74.08175,71.74770039421813
 30,200000,3754.0,2019-05-25,1441,1,empleado,familiar,1.0,entre uno y cinco anos,1100000.0,400000.0,300000.0,indefinido,quincenal,union libre,secundaria,,,ninguno,1,0,4.37648,-74.66995,46.94480946123522
 30,500000,9385.0,2019-05-25,1441,1,empleado,propia,3.0,entre uno y cinco anos,4800000.0,600000.0,0.0,indefinido,mensual,soltero/a,no tengo,1.0,2.0,carro,2,1,2.9273,-75.28189,143.5611038107753
-30,250000,4692.5,2019-05-25,1441,1,empleado,nan,2.0,menos de un ano,,,,indefinido,quincenal,nan,nan,1.0,1.0,ninguno,1,0,3.90089,-76.29783,6.0
+30,250000,4692.5,2019-05-25,1441,1,empleado,nan,2.0,menos de un ano,,,,indefinido,quincenal,nan,nan,1.0,1.0,ninguno,1,0,4.60971,-74.08175,6.0
 30,200000,3754.0,2017-09-09,1441,0,empleado,propia,2.0,menos de un ano,,,,indefinido,mensual,soltero/a,no tengo,1.0,1.0,ninguno,1,0,10.91843,-74.76459,
 30,250000,4692.5,2019-05-25,1441,1,empleado,arrendada,3.0,entre uno y cinco anos,1500000.0,900000.0,800000.0,indefinido,quincenal,union libre,secundaria,4.0,3.0,ninguno,1,0,5.04333,-76.01667,42.08278580814717
 30,200000,3754.0,2019-05-25,1441,1,empleado,familiar,1.0,mas de 5 anos,1600000.0,800000.0,500000.0,indefinido,mensual,casado/a,tecnico,,2.0,ninguno,1,0,10.96854,-74.78132,43.52825229960578
-29,200000,3628.866667,2019-05-25,1441,1,prestador de servicios,arrendada,1.0,menos de un ano,1160000.0,650000.0,300000.0,nan,nan,union libre,secundaria,1.0,2.0,ninguno,1,0,10.91843,-74.76459,44.15243101182654
+29,200000,3628.866667,2019-05-25,1441,1,prestador de servicios,arrendada,1.0,menos de un ano,1160000.0,650000.0,300000.0,nan,nan,union libre,secundaria,1.0,2.0,ninguno,1,0,4.60971,-74.08175,44.15243101182654
 30,500000,9385.0,2019-05-26,1440,1,empleado,nan,2.0,mas de 5 anos,,,,indefinido,mensual,nan,nan,1.0,1.0,moto,1,0,7.53941,-72.77238,204.0
 18,250000,2815.5,2018-11-20,1439,0,empleado,arrendada,3.0,entre uno y cinco anos,1825000.0,700000.0,,indefinido,mensual,soltero/a,secundaria,,,ninguno,1,0,4.60971,-74.08175,21.156373193166885
 30,150000,2815.5,2017-09-22,1439,0,empleado,familiar,4.0,mas de 5 anos,1100000.0,400000.0,300000.0,indefinido,quincenal,union libre,tecnico,0.0,0.0,ninguno,1,0,4.60971,-74.08175,84.0
@@ -2140,7 +2140,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 29,150000,2721.65,2019-05-29,1437,1,empleado,arrendada,3.0,entre uno y cinco anos,1503000.0,430000.0,120000.0,termino fijo,mensual,soltero/a,tecnologo,,,ninguno,2,1,10.79408,-74.9164,24.90144546649146
 30,250000,4692.5,2019-05-30,1436,1,empleado,familiar,1.0,entre uno y cinco anos,1200000.0,500000.0,2000000.0,indefinido,mensual,union libre,tecnico,,,moto,1,0,3.43722,-76.5225,37.943495400788436
 30,250000,4692.5,2019-05-30,1436,1,independiente,familiar,4.0,mas de 5 anos,2000000.0,800000.0,200000.0,nan,nan,soltero/a,profesional,,,ninguno,1,0,4.81333,-75.69611,
-30,250000,4692.5,2019-05-30,1436,1,empleado,propia,3.0,menos de un ano,2500000.0,1250000.0,500000.0,indefinido,mensual,soltero/a,no tengo,2.0,1.0,ninguno,1,0,7.0682,-73.16981,265.9658344283837
+30,250000,4692.5,2019-05-30,1436,1,empleado,propia,3.0,menos de un ano,2500000.0,1250000.0,500000.0,indefinido,mensual,soltero/a,no tengo,2.0,1.0,ninguno,1,0,4.60971,-74.08175,265.9658344283837
 30,400000,7508.0,2019-05-30,1436,1,independiente,arrendada,6.0,entre uno y cinco anos,6000000.0,3000000.0,1000000.0,nan,nan,soltero/a,tecnico,,,ninguno,1,0,6.25184,-75.56359,
 30,150000,2815.5,2018-10-21,1436,0,empleado,arrendada,3.0,mas de 5 anos,1600000.0,1000000.0,200000.0,indefinido,mensual,union libre,tecnologo,1.0,1.0,ninguno,1,0,4.60971,-74.08175,10.11826544021025
 28,250000,4379.666667,2019-05-31,1435,1,independiente,familiar,4.0,mas de 5 anos,2000000.0,800000.0,200000.0,nan,nan,soltero/a,profesional,,,ninguno,2,1,4.81333,-75.69611,
@@ -2153,10 +2153,10 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,300000,5631.0,2019-06-02,1433,1,empleado,familiar,3.0,mas de 5 anos,1200000.0,500000.0,200000.0,indefinido,quincenal,soltero/a,tecnico,,,ninguno,1,0,6.25184,-75.56359,8.377135348226018
 30,150000,2815.5,2019-06-02,1433,1,empleado,familiar,1.0,mas de 5 anos,1200000.0,700000.0,200000.0,indefinido,quincenal,union libre,tecnico,3.0,3.0,ninguno,1,0,9.30472,-75.39778,23.291721419185283
 30,200000,3754.0,2017-07-27,1432,0,empleado,propia,3.0,entre uno y cinco anos,2200000.0,1000000.0,700000.0,indefinido,mensual,soltero/a,no tengo,,,ninguno,1,0,4.60971,-74.08175,14.848883048620236
-30,340000,6381.8,2019-05-08,1432,0,empleado,nan,3.0,mas de 5 anos,,,,termino fijo,mensual,nan,nan,1.0,0.0,ninguno,1,0,9.30472,-75.39778,12.0
+30,340000,6381.8,2019-05-08,1432,0,empleado,nan,3.0,mas de 5 anos,,,,termino fijo,mensual,nan,nan,1.0,0.0,ninguno,1,0,4.60971,-74.08175,12.0
 30,100000,1877.0,2018-04-06,1431,0,empleado,nan,2.0,entre uno y cinco anos,1200000.0,700000.0,2000000.0,indefinido,quincenal,nan,nan,2.0,2.0,ninguno,1,0,4.60971,-74.08175,
 30,120000,2252.4,2019-02-01,1431,0,empleado,arrendada,3.0,menos de un ano,1300000.0,600000.0,,indefinido,quincenal,soltero/a,profesional,,,ninguno,1,0,4.81333,-75.69611,0.985545335085414
-30,250000,4692.5,2019-06-05,1430,1,independiente,familiar,2.0,entre uno y cinco anos,1500000.0,1100000.0,,nan,nan,union libre,tecnico,1.0,1.0,ninguno,1,0,8.45928,-73.94331,
+30,250000,4692.5,2019-06-05,1430,1,independiente,familiar,2.0,entre uno y cinco anos,1500000.0,1100000.0,,nan,nan,union libre,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,
 30,150000,2815.5,2019-06-05,1430,1,empleado,familiar,2.0,mas de 5 anos,1400000.0,600000.0,,indefinido,quincenal,soltero/a,tecnico,1.0,,ninguno,1,0,6.25184,-75.56359,44.02102496714849
 30,220000,4129.4,2019-06-05,1430,1,independiente,familiar,3.0,entre uno y cinco anos,2200000.0,800000.0,300000.0,nan,nan,soltero/a,tecnologo,,,moto,1,0,7.0682,-73.16981,
 30,250000,4692.5,2019-06-05,1430,1,empleado,nan,3.0,menos de un ano,1200000.0,890000.0,2500000.0,indefinido,quincenal,nan,nan,2.0,0.0,moto,1,0,4.60971,-74.08175,38.107752956636006
@@ -2201,13 +2201,13 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,150000,2815.5,2018-12-08,1416,0,empleado,familiar,2.0,mas de 5 anos,1400000.0,450000.0,250000.0,termino fijo,mensual,union libre,secundaria,1.0,1.0,ninguno,1,0,4.60971,-74.08175,1.6425755584756898
 28,200000,3503.733333,2018-10-15,1416,0,empleado,arrendada,2.0,entre uno y cinco anos,1800000.0,1100000.0,150000.0,indefinido,quincenal,casado/a,secundaria,3.0,2.0,ninguno,1,0,6.33732,-75.55795,90.11169513797634
 25,200000,3128.333333,2018-10-13,1416,0,empleado,familiar,2.0,mas de 5 anos,1300000.0,500000.0,,indefinido,mensual,soltero/a,secundaria,,,ninguno,1,0,4.60971,-74.08175,13.633377135348226
-30,200000,3754.0,2019-06-19,1416,1,empleado,familiar,2.0,mas de 5 anos,1500000.0,800000.0,300000.0,indefinido,mensual,soltero/a,secundaria,,,ninguno,1,0,4.60971,-74.08175,67.57555847568989
+30,200000,3754.0,2019-06-19,1416,1,empleado,familiar,2.0,mas de 5 anos,1500000.0,800000.0,300000.0,indefinido,mensual,soltero/a,secundaria,,,ninguno,1,0,4.73176,-74.34129,67.57555847568989
 30,250000,4692.5,2019-06-19,1416,1,empleado,familiar,2.0,mas de 5 anos,1500000.0,900000.0,300000.0,indefinido,mensual,union libre,profesional,2.0,2.0,moto,1,0,4.142,-73.62664,85.4796320630749
 30,320000,6006.4,2017-10-15,1416,0,empleado,propia,2.0,entre uno y cinco anos,1500000.0,800000.0,500000.0,indefinido,quincenal,soltero/a,no tengo,1.0,1.0,ninguno,1,0,4.60971,-74.08175,
 30,150000,2815.5,2019-06-20,1415,1,independiente,familiar,3.0,mas de 5 anos,3000000.0,2000000.0,,nan,nan,union libre,tecnico,,1.0,carro,1,0,4.71638,-74.21195,
 30,200000,3754.0,2019-06-20,1415,1,empleado,familiar,3.0,mas de 5 anos,1750000.0,600000.0,200000.0,indefinido,quincenal,union libre,profesional,1.0,1.0,ninguno,1,0,4.60971,-74.08175,7.752956636005257
 30,250000,4692.5,2019-06-20,1415,1,empleado,familiar,2.0,menos de un ano,1200000.0,300000.0,0.0,indefinido,mensual,union libre,tecnologo,1.0,1.0,ninguno,1,0,4.142,-73.62664,14.224704336399475
-30,150000,2815.5,2019-06-21,1414,1,empleado,familiar,3.0,entre uno y cinco anos,900000.0,700000.0,600000.0,indefinido,quincenal,casado/a,tecnico,1.0,,carro,1,0,1.68318,-77.07331,20.2365308804205
+30,150000,2815.5,2019-06-21,1414,1,empleado,familiar,3.0,entre uno y cinco anos,900000.0,700000.0,600000.0,indefinido,quincenal,casado/a,tecnico,1.0,,carro,1,0,4.60971,-74.08175,20.2365308804205
 30,210000,3941.7,2018-04-07,1414,0,empleado,arrendada,3.0,mas de 5 anos,1200000.0,700000.0,100000.0,indefinido,quincenal,soltero/a,secundaria,,,ninguno,1,0,3.43722,-76.5225,10.611038107752957
 30,250000,4692.5,2019-06-21,1414,1,empleado,familiar,2.0,mas de 5 anos,1500000.0,800000.0,150000.0,indefinido,mensual,union libre,tecnico,2.0,2.0,ninguno,1,0,10.46314,-73.25322,53.876478318002626
 30,100000,1877.0,2017-08-09,1414,0,independiente,familiar,4.0,menos de un ano,1000000.0,1000000.0,800000.0,nan,nan,soltero/a,profesional,0.0,0.0,ninguno,1,0,4.60971,-74.08175,
@@ -2226,7 +2226,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,150000,2815.5,2019-06-28,1407,1,empleado,familiar,3.0,mas de 5 anos,2500000.0,1200000.0,,indefinido,mensual,soltero/a,postgrado,2.0,1.0,ninguno,2,1,10.96854,-74.78132,108.83705650459922
 30,150000,2815.5,2018-05-24,1407,0,empleado,familiar,1.0,entre uno y cinco anos,2080000.0,1000000.0,,indefinido,quincenal,union libre,profesional,2.0,1.0,ninguno,1,0,4.60971,-74.08175,37.746386333771355
 30,200000,3754.0,2019-06-29,1406,1,empleado,arrendada,2.0,entre uno y cinco anos,1406000.0,500000.0,0.0,termino fijo,quincenal,casado/a,secundaria,1.0,1.0,ninguno,1,0,4.60971,-74.08175,15.407358738501971
-30,500000,9385.0,2019-06-29,1406,1,empleado,familiar,2.0,entre uno y cinco anos,925300.0,300000.0,150000.0,indefinido,quincenal,union libre,secundaria,2.0,1.0,ninguno,1,0,3.43722,-76.5225,71.97766097240473
+30,500000,9385.0,2019-06-29,1406,1,empleado,familiar,2.0,entre uno y cinco anos,925300.0,300000.0,150000.0,indefinido,quincenal,union libre,secundaria,2.0,1.0,ninguno,1,0,4.60971,-74.08175,71.97766097240473
 30,200000,3754.0,2019-06-29,1406,1,independiente,familiar,3.0,mas de 5 anos,2000000.0,500000.0,500000.0,nan,nan,soltero/a,tecnologo,1.0,1.0,ninguno,1,0,3.43722,-76.5225,
 30,250000,4692.5,2019-06-30,1405,1,empleado,familiar,2.0,entre uno y cinco anos,10300000.0,350000.0,20000.0,indefinido,quincenal,soltero/a,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,31.471747700394218
 30,110000,2064.7,2019-06-30,1405,1,empleado,familiar,1.0,mas de 5 anos,828116.0,294800.0,73000.0,termino fijo,quincenal,soltero/a,secundaria,2.0,,ninguno,1,0,10.96854,-74.78132,10.90670170827858
@@ -2326,7 +2326,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,250000,4692.5,2019-08-01,1373,1,empleado,familiar,2.0,mas de 5 anos,926.0,200000.0,,indefinido,quincenal,soltero/a,tecnico,1.0,,ninguno,1,0,6.25184,-75.56359,40.73587385019711
 30,130000,2440.1,2018-03-18,1373,0,empleado,familiar,2.0,mas de 5 anos,1500000.0,400000.0,200000.0,indefinido,quincenal,casado/a,tecnico,1.0,1.0,ninguno,1,0,6.25184,-75.56359,71.55059132720105
 30,350000,6569.5,2019-08-01,1373,1,empleado,familiar,3.0,mas de 5 anos,3500000.0,1800000.0,,indefinido,mensual,soltero/a,profesional,,,ninguno,1,0,4.60971,-74.08175,57.45729303547963
-30,300000,5631.0,2019-08-01,1373,1,empleado,arrendada,2.0,entre uno y cinco anos,1436000.0,800000.0,200000.0,indefinido,mensual,soltero/a,tecnico,1.0,,ninguno,1,0,5.15264,-75.03624,55.913272010512486
+30,300000,5631.0,2019-08-01,1373,1,empleado,arrendada,2.0,entre uno y cinco anos,1436000.0,800000.0,200000.0,indefinido,mensual,soltero/a,tecnico,1.0,,ninguno,1,0,4.60971,-74.08175,55.913272010512486
 30,250000,4692.5,2019-08-01,1373,1,empleado,arrendada,3.0,entre uno y cinco anos,1500000.0,700000.0,50000.0,indefinido,mensual,union libre,tecnico,2.0,2.0,ninguno,1,0,4.60971,-74.08175,12.844940867279895
 30,200000,3754.0,2019-08-01,1373,1,empleado,propia,3.0,mas de 5 anos,1688000.0,250000.0,350000.0,indefinido,quincenal,casado/a,tecnologo,1.0,1.0,moto,1,0,6.25184,-75.56359,77.92378449408673
 30,400000,7508.0,2019-08-02,1372,1,empleado,arrendada,3.0,entre uno y cinco anos,1170000.0,400000.0,,indefinido,quincenal,union libre,secundaria,1.0,1.0,ninguno,1,0,4.60971,-74.08175,15.834428383705651
@@ -2392,10 +2392,10 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,230000,4317.1,2019-08-18,1356,1,empleado,familiar,2.0,mas de 5 anos,1800000.0,1000000.0,400000.0,indefinido,mensual,soltero/a,tecnologo,1.0,1.0,ninguno,1,0,4.60971,-74.08175,94.80946123521682
 30,200000,3754.0,2017-12-24,1356,0,desempleado,familiar,6.0,mas de 5 anos,1400000.0,300000.0,250000.0,nan,nan,soltero/a,profesional,,,ninguno,1,0,7.12539,-73.1198,
 30,200000,3754.0,2018-01-18,1356,0,empleado,arrendada,5.0,entre uno y cinco anos,125000000.0,500000.0,400000.0,indefinido,quincenal,soltero/a,profesional,,,ninguno,1,0,4.60971,-74.08175,
-30,170000,3190.9,2019-01-09,1356,0,empleado,arrendada,3.0,entre uno y cinco anos,1650000.0,500000.0,150000.0,termino fijo,mensual,soltero/a,tecnologo,,,ninguno,1,0,5.06692,-74.59499,35.15111695137976
+30,170000,3190.9,2019-01-09,1356,0,empleado,arrendada,3.0,entre uno y cinco anos,1650000.0,500000.0,150000.0,termino fijo,mensual,soltero/a,tecnologo,,,ninguno,1,0,4.60971,-74.08175,35.15111695137976
 30,350000,6569.5,2019-08-18,1356,1,empleado,familiar,3.0,mas de 5 anos,2500000.0,1000000.0,300000.0,indefinido,quincenal,divorciado/a,profesional,3.0,3.0,ninguno,1,0,6.25184,-75.56359,31.406044678055192
 30,250000,4692.5,2019-08-18,1356,1,empleado,arrendada,2.0,menos de un ano,1250000.0,600000.0,250000.0,indefinido,mensual,soltero/a,tecnico,,,ninguno,1,0,4.60971,-74.08175,11.76084099868594
-30,200000,3754.0,2019-08-18,1356,1,independiente,familiar,2.0,entre uno y cinco anos,1700000.0,200000.0,150000.0,nan,nan,union libre,tecnico,1.0,,moto,1,0,8.74798,-75.88143,
+30,200000,3754.0,2019-08-18,1356,1,independiente,familiar,2.0,entre uno y cinco anos,1700000.0,200000.0,150000.0,nan,nan,union libre,tecnico,1.0,,moto,1,0,4.60971,-74.08175,
 30,200000,3754.0,2019-08-18,1356,1,prestador de servicios,arrendada,2.0,entre uno y cinco anos,2360000.0,900000.0,350000.0,nan,nan,soltero/a,tecnico,2.0,2.0,ninguno,1,0,4.60971,-74.08175,6.011826544021025
 30,250000,4692.5,2019-08-18,1356,1,empleado,propia,2.0,entre uno y cinco anos,2868813.0,1050000.0,300000.0,indefinido,quincenal,union libre,secundaria,3.0,,moto,1,0,7.06528,-73.85472,64.65177398160316
 29,200000,3628.866667,2018-12-12,1356,0,empleado,arrendada,2.0,entre uno y cinco anos,1200000.0,200000.0,300000.0,indefinido,quincenal,union libre,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,27.431011826544022
@@ -2406,9 +2406,9 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,300000,5631.0,2019-08-21,1353,1,empleado,familiar,3.0,entre uno y cinco anos,1000000.0,500000.0,800000.0,indefinido,quincenal,soltero/a,secundaria,1.0,1.0,ninguno,1,0,6.25184,-75.56359,
 30,200000,3754.0,2019-08-22,1352,1,empleado,familiar,2.0,entre uno y cinco anos,1800000.0,1200000.0,100000.0,indefinido,mensual,soltero/a,tecnologo,,,ninguno,1,0,4.60971,-74.08175,47.273324572930356
 30,200000,3754.0,2019-08-22,1352,1,empleado,familiar,4.0,entre uno y cinco anos,1200000.0,300000.0,100000.0,indefinido,mensual,union libre,tecnico,,,moto,1,0,3.43722,-76.5225,9.625492772667542
-30,250000,4692.5,2019-08-22,1352,1,independiente,arrendada,3.0,menos de un ano,1759228.0,700000.0,100000.0,nan,nan,soltero/a,tecnico,,,ninguno,1,0,9.30472,-75.39778,
+30,250000,4692.5,2019-08-22,1352,1,independiente,arrendada,3.0,menos de un ano,1759228.0,700000.0,100000.0,nan,nan,soltero/a,tecnico,,,ninguno,1,0,4.60971,-74.08175,
 30,150000,2815.5,2018-07-18,1352,0,independiente,familiar,3.0,menos de un ano,2150000.0,250000.0,150000.0,nan,nan,soltero/a,secundaria,,,ninguno,2,1,4.33646,-74.36378,
-30,300000,5631.0,2019-08-22,1352,1,empleado,familiar,2.0,entre uno y cinco anos,4000000.0,1500000.0,1000000.0,indefinido,quincenal,union libre,secundaria,2.0,2.0,moto,1,0,4.60971,-74.08175,54.632063074901446
+30,300000,5631.0,2019-08-22,1352,1,empleado,familiar,2.0,entre uno y cinco anos,4000000.0,1500000.0,1000000.0,indefinido,quincenal,union libre,secundaria,2.0,2.0,moto,1,0,4.3387,-76.18342,54.632063074901446
 30,200000,3754.0,2018-05-20,1352,0,empleado,arrendada,3.0,mas de 5 anos,1450000.0,800000.0,,indefinido,quincenal,soltero/a,profesional,,,ninguno,1,0,4.142,-73.62664,64.71747700394218
 30,250000,4692.5,2019-08-22,1352,1,empleado,arrendada,1.0,entre uno y cinco anos,828200.0,50000.0,40000.0,indefinido,quincenal,soltero/a,secundaria,1.0,1.0,ninguno,1,0,6.18461,-75.59913,47.20762155059133
 30,300000,5631.0,2019-08-22,1352,1,empleado,familiar,3.0,mas de 5 anos,3100000.0,400000.0,,indefinido,mensual,soltero/a,profesional,,,ninguno,1,0,6.25184,-75.56359,216.39290407358737
@@ -2429,7 +2429,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,250000,4692.5,2017-04-26,1349,0,empleado,nan,3.0,mas de 5 anos,,,,indefinido,mensual,nan,nan,0.0,0.0,ninguno,1,0,4.60971,-74.08175,36.0
 30,200000,3754.0,2019-08-25,1349,1,empleado,propia,1.0,mas de 5 anos,1650000.0,700000.0,200000.0,termino fijo,quincenal,casado/a,secundaria,3.0,3.0,ninguno,1,0,10.89686,-74.886,112.58212877792378
 30,200000,3754.0,2019-08-25,1349,1,empleado,arrendada,3.0,entre uno y cinco anos,3200000.0,700000.0,100000.0,prestacion de servicios,mensual,union libre,profesional,,,ninguno,1,0,7.12539,-73.1198,22.174770039421812
-30,200000,3754.0,2019-08-25,1349,1,empleado,familiar,2.0,mas de 5 anos,828000.0,350000.0,,termino fijo,mensual,casado/a,secundaria,1.0,1.0,ninguno,1,0,3.24991,-76.22814,15.407358738501971
+30,200000,3754.0,2019-08-25,1349,1,empleado,familiar,2.0,mas de 5 anos,828000.0,350000.0,,termino fijo,mensual,casado/a,secundaria,1.0,1.0,ninguno,1,0,4.60971,-74.08175,15.407358738501971
 30,250000,4692.5,2019-08-25,1349,1,independiente,familiar,3.0,mas de 5 anos,3000000.0,1500000.0,,nan,nan,union libre,tecnico,,,carro,1,0,3.43722,-76.5225,
 30,250000,4692.5,2019-08-25,1349,1,independiente,familiar,2.0,mas de 5 anos,2500000.0,1000000.0,,nan,nan,soltero/a,profesional,,,ninguno,1,0,4.60971,-74.08175,
 30,250000,4692.5,2019-08-25,1349,1,independiente,propia,2.0,mas de 5 anos,3000000.0,700000.0,,nan,nan,union libre,tecnico,,2.0,carro,1,0,4.60971,-74.08175,
@@ -2454,7 +2454,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,300000,5631.0,2019-08-30,1344,1,empleado,propia,3.0,mas de 5 anos,2000000.0,1200000.0,,indefinido,mensual,casado/a,profesional,1.0,1.0,ninguno,1,0,4.60971,-74.08175,35.90670170827858
 30,250000,4692.5,2019-08-30,1344,1,prestador de servicios,arrendada,3.0,entre uno y cinco anos,2250000.0,700000.0,,nan,nan,soltero/a,tecnico,,,ninguno,1,0,3.43722,-76.5225,6.701708278580814
 30,200000,3754.0,2019-08-30,1344,1,independiente,familiar,2.0,mas de 5 anos,2150000.0,400000.0,100000.0,nan,nan,soltero/a,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,52.69382391590013
-30,200000,3754.0,2019-08-30,1344,1,empleado,arrendada,2.0,entre uno y cinco anos,930000.0,400000.0,100000.0,termino fijo,mensual,soltero/a,tecnico,,,moto,1,0,2.9273,-75.28189,11.957950065703022
+30,200000,3754.0,2019-08-30,1344,1,empleado,arrendada,2.0,entre uno y cinco anos,930000.0,400000.0,100000.0,termino fijo,mensual,soltero/a,tecnico,,,moto,1,0,4.60971,-74.08175,11.957950065703022
 30,250000,4692.5,2019-08-30,1344,1,empleado,arrendada,2.0,entre uno y cinco anos,1400000.0,450000.0,200000.0,indefinido,quincenal,casado/a,secundaria,2.0,1.0,ninguno,1,0,7.97917,-75.4202,12.352168199737187
 30,400000,7508.0,2019-08-31,1343,1,empleado,familiar,3.0,entre uno y cinco anos,1500000.0,500000.0,1200000.0,indefinido,quincenal,soltero/a,tecnologo,1.0,,moto,1,0,4.83916,-75.66727,21.419185282522996
 30,300000,5631.0,2018-01-17,1343,0,empleado,familiar,3.0,mas de 5 anos,1800000.0,600000.0,200000.0,indefinido,quincenal,casado/a,tecnico,3.0,2.0,moto,1,0,4.43889,-75.23222,144.0
@@ -2463,7 +2463,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,200000,3754.0,2019-08-31,1343,1,empleado,familiar,3.0,mas de 5 anos,1300000.0,700000.0,,indefinido,mensual,union libre,profesional,1.0,,ninguno,1,0,10.96854,-74.78132,29.007884362680684
 30,200000,3754.0,2019-08-31,1343,1,empleado,arrendada,2.0,menos de un ano,850000.0,250000.0,450000.0,indefinido,quincenal,soltero/a,tecnologo,,,moto,1,0,5.44783,-74.66311,15.703022339027596
 29,300000,5443.3,2019-08-31,1343,1,empleado,familiar,2.0,mas de 5 anos,1888000.0,300000.0,20000.0,indefinido,mensual,soltero/a,tecnico,,,moto,1,0,4.60971,-74.08175,41.03153745072273
-30,250000,4692.5,2019-08-31,1343,1,empleado,arrendada,2.0,mas de 5 anos,2400000.0,1000000.0,100000.0,indefinido,mensual,casado/a,secundaria,2.0,2.0,moto,1,0,3.79936,-75.19467,179.9605781865966
+30,250000,4692.5,2019-08-31,1343,1,empleado,arrendada,2.0,mas de 5 anos,2400000.0,1000000.0,100000.0,indefinido,mensual,casado/a,secundaria,2.0,2.0,moto,1,0,4.60971,-74.08175,179.9605781865966
 30,350000,6569.5,2019-09-01,1342,1,empleado,arrendada,3.0,menos de un ano,1500000.0,200000.0,150000.0,indefinido,mensual,soltero/a,profesional,,,ninguno,1,0,10.39972,-75.51444,20.56504599211564
 30,270000,5067.9,2019-09-01,1342,1,empleado,familiar,2.0,entre uno y cinco anos,1297000.0,100000.0,100000.0,indefinido,mensual,soltero/a,profesional,,,ninguno,1,0,4.43889,-75.23222,72.01051248357425
 30,300000,5631.0,2019-09-01,1342,1,empleado,familiar,2.0,mas de 5 anos,1389000.0,1000000.0,385000.0,indefinido,quincenal,casado/a,secundaria,3.0,2.0,ninguno,1,0,6.25184,-75.56359,42.64126149802891
@@ -2495,11 +2495,11 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,200000,3754.0,2019-09-08,1335,1,independiente,arrendada,2.0,entre uno y cinco anos,1400000.0,500000.0,200000.0,nan,nan,soltero/a,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,
 28,250000,4379.666667,2018-02-08,1335,0,empleado,arrendada,1.0,mas de 5 anos,1800000.0,700000.0,600000.0,termino fijo,quincenal,casado/a,tecnico,2.0,,ninguno,1,0,10.39972,-75.51444,144.0
 30,160000,3003.2,2018-03-01,1334,0,empleado,familiar,3.0,mas de 5 anos,2154000.0,600000.0,,indefinido,quincenal,soltero/a,tecnologo,1.0,1.0,ninguno,1,0,4.60971,-74.08175,111.72798948751642
-30,230000,4317.1,2019-09-11,1332,1,empleado,arrendada,3.0,entre uno y cinco anos,1250000.0,650000.0,120000.0,indefinido,quincenal,soltero/a,secundaria,,,ninguno,1,0,2.5142,-76.84939,7.293035479632063
+30,230000,4317.1,2019-09-11,1332,1,empleado,arrendada,3.0,entre uno y cinco anos,1250000.0,650000.0,120000.0,indefinido,quincenal,soltero/a,secundaria,,,ninguno,1,0,4.60971,-74.08175,7.293035479632063
 30,200000,3754.0,2019-09-11,1332,1,empleado,familiar,2.0,mas de 5 anos,1782112.0,300000.0,,indefinido,quincenal,soltero/a,tecnologo,2.0,2.0,ninguno,2,1,3.8801,-77.03116,60.2496714848883
 30,150000,2815.5,2018-12-29,1332,0,empleado,arrendada,3.0,entre uno y cinco anos,1952000.0,682000.0,,indefinido,mensual,soltero/a,profesional,,,ninguno,1,0,4.60971,-74.08175,51.74113009198423
 30,200000,3754.0,2019-09-12,1331,1,empleado,familiar,4.0,mas de 5 anos,1700000.0,200000.0,1100000.0,indefinido,mensual,soltero/a,secundaria,1.0,1.0,ninguno,1,0,4.60971,-74.08175,59.7568988173456
-30,300000,5631.0,2019-09-13,1330,1,empleado,propia,2.0,entre uno y cinco anos,1687140.0,360000.0,380000.0,termino fijo,quincenal,soltero/a,no tengo,1.0,1.0,ninguno,1,0,8.09263,-76.72822,68.26544021024966
+30,300000,5631.0,2019-09-13,1330,1,empleado,propia,2.0,entre uno y cinco anos,1687140.0,360000.0,380000.0,termino fijo,quincenal,soltero/a,no tengo,1.0,1.0,ninguno,1,0,4.60971,-74.08175,68.26544021024966
 30,450000,8446.5,2019-09-13,1330,1,empleado,familiar,3.0,entre uno y cinco anos,2000000.0,1200000.0,500000.0,indefinido,quincenal,soltero/a,profesional,,,carro,1,0,3.43722,-76.5225,75.26281208935612
 30,200000,3754.0,2019-09-13,1330,1,empleado,familiar,2.0,menos de un ano,1500000.0,500000.0,500000.0,indefinido,mensual,casado/a,secundaria,,,ninguno,1,0,4.60971,-74.08175,26.938239159001313
 30,250000,4692.5,2019-09-13,1330,1,empleado,arrendada,1.0,entre uno y cinco anos,1660000.0,500000.0,,termino fijo,mensual,union libre,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,6.504599211563732
@@ -2523,7 +2523,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,300000,5631.0,2019-09-26,1317,1,empleado,arrendada,3.0,menos de un ano,1300000.0,450000.0,380000.0,termino fijo,quincenal,soltero/a,tecnico,2.0,2.0,ninguno,1,0,4.60971,-74.08175,17.83837056504599
 30,300000,5631.0,2019-09-26,1317,1,empleado,familiar,2.0,mas de 5 anos,1800000.0,400000.0,600000.0,indefinido,mensual,soltero/a,tecnico,,,ninguno,1,0,4.60971,-74.08175,149.01445466491458
 30,250000,4692.5,2018-03-18,1317,0,empleado,arrendada,3.0,entre uno y cinco anos,2500000.0,1500000.0,,indefinido,quincenal,soltero/a,tecnologo,,,ninguno,1,0,5.06889,-75.51738,49.08015768725361
-29,250000,4536.083333,2019-09-28,1315,1,empleado,familiar,2.0,entre uno y cinco anos,828116.0,500000.0,300000.0,indefinido,mensual,casado/a,tecnologo,,1.0,moto,1,0,1.6045,-77.13152,168.00262812089355
+29,250000,4536.083333,2019-09-28,1315,1,empleado,familiar,2.0,entre uno y cinco anos,828116.0,500000.0,300000.0,indefinido,mensual,casado/a,tecnologo,,1.0,moto,1,0,4.60971,-74.08175,168.00262812089355
 30,500000,9385.0,2019-09-29,1314,1,empleado,propia,4.0,mas de 5 anos,3000000.0,500000.0,,indefinido,mensual,soltero/a,profesional,1.0,1.0,ninguno,1,0,4.60971,-74.08175,352.0696452036794
 30,200000,3754.0,2019-09-29,1314,1,empleado,arrendada,2.0,mas de 5 anos,1020000.0,200000.0,,indefinido,mensual,soltero/a,tecnologo,,,ninguno,1,0,4.43889,-75.23222,19.64520367936925
 30,200000,3754.0,2019-09-29,1314,1,empleado,arrendada,3.0,entre uno y cinco anos,907000.0,300000.0,,indefinido,mensual,casado/a,tecnologo,1.0,,ninguno,1,0,6.25184,-75.56359,14.816031537450723
@@ -2583,7 +2583,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,200000,3754.0,2019-10-17,1296,1,empleado,familiar,4.0,entre uno y cinco anos,2500000.0,1000000.0,1200000.0,indefinido,mensual,casado/a,profesional,1.0,1.0,ninguno,1,0,4.60971,-74.08175,36.00525624178712
 30,200000,3754.0,2019-10-17,1296,1,empleado,arrendada,3.0,entre uno y cinco anos,1200000.0,400000.0,300000.0,indefinido,quincenal,soltero/a,tecnico,1.0,1.0,ninguno,1,0,7.53941,-72.77238,15.440210249671486
 30,200000,3754.0,2019-10-18,1295,1,independiente,propia,3.0,mas de 5 anos,2500000.0,800000.0,1000000.0,nan,nan,soltero/a,profesional,1.0,1.0,carro,1,0,2.9273,-75.28189,
-30,220000,4129.4,2019-10-18,1295,1,empleado,arrendada,2.0,entre uno y cinco anos,1518000.0,750000.0,,indefinido,mensual,union libre,secundaria,2.0,2.0,ninguno,1,0,4.57937,-74.21682,8.47568988173456
+30,220000,4129.4,2019-10-18,1295,1,empleado,arrendada,2.0,entre uno y cinco anos,1518000.0,750000.0,,indefinido,mensual,union libre,secundaria,2.0,2.0,ninguno,1,0,4.60971,-74.08175,8.47568988173456
 30,150000,2815.5,2016-01-22,1295,0,empleado,nan,2.0,mas de 5 anos,,,,termino fijo,quincenal,nan,nan,1.0,1.0,ninguno,1,0,6.25184,-75.56359,60.0
 30,450000,8446.5,2019-02-14,1294,0,empleado,nan,2.0,mas de 5 anos,3979000.0,2000000.0,650000.0,indefinido,mensual,nan,nan,2.0,2.0,carro,1,0,11.24079,-74.19904,98.68593955321944
 30,500000,9385.0,2019-10-19,1294,1,empleado,arrendada,2.0,entre uno y cinco anos,1400000.0,500000.0,200000.0,indefinido,quincenal,soltero/a,secundaria,,1.0,ninguno,1,0,6.25184,-75.56359,30.321944809461236
@@ -2673,7 +2673,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,200000,3754.0,2019-08-24,1255,0,independiente,familiar,5.0,mas de 5 anos,4000000.0,2500000.0,300000.0,nan,nan,soltero/a,tecnico,,,ninguno,1,0,3.43722,-76.5225,
 30,500000,9385.0,2016-05-18,1255,0,empleado,nan,1.0,mas de 5 anos,,,,termino fijo,mensual,nan,nan,2.0,2.0,moto,1,0,11.54444,-72.90722,48.0
 30,400000,7508.0,2019-11-28,1254,1,empleado,familiar,2.0,mas de 5 anos,1506000.0,800000.0,8000000.0,termino fijo,mensual,soltero/a,tecnico,,,moto,1,0,10.46314,-73.25322,91.29434954007884
-29,370000,6713.403333,2019-11-28,1254,1,empleado,familiar,5.0,entre uno y cinco anos,4500000.0,3200000.0,1000000.0,indefinido,mensual,union libre,tecnologo,,2.0,carro,1,0,4.60971,-74.08175,
+29,370000,6713.403333,2019-11-28,1254,1,empleado,familiar,5.0,entre uno y cinco anos,4500000.0,3200000.0,1000000.0,indefinido,mensual,union libre,tecnologo,,2.0,carro,1,0,6.55687,-75.82806,
 23,320000,4604.906667,2017-03-05,1254,0,empleado,propia,3.0,mas de 5 anos,,,,indefinido,mensual,soltero/a,no tengo,,,ninguno,1,0,4.60971,-74.08175,108.0
 30,500000,9385.0,2019-11-30,1252,1,pensionado,arrendada,3.0,entre uno y cinco anos,1800000.0,1000000.0,,nan,nan,viudo/a,tecnologo,1.0,4.0,ninguno,1,0,4.60971,-74.08175,
 30,350000,6569.5,2019-11-30,1252,1,empleado,familiar,3.0,mas de 5 anos,1300000.0,600000.0,,indefinido,mensual,soltero/a,tecnico,,,carro,1,0,4.60971,-74.08175,43.75821287779238
@@ -2695,14 +2695,14 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,250000,4692.5,2019-12-15,1237,1,empleado,arrendada,3.0,mas de 5 anos,2100000.0,1400000.0,,indefinido,mensual,union libre,profesional,2.0,2.0,carro,1,0,6.25184,-75.56359,15.473061760840999
 30,200000,3754.0,2017-10-08,1237,0,empleado,arrendada,2.0,entre uno y cinco anos,1800000.0,1200000.0,100000.0,indefinido,mensual,union libre,tecnologo,1.0,1.0,ninguno,1,0,4.83916,-75.66727,8.0
 29,220000,3991.753333,2017-06-16,1236,0,empleado,familiar,4.0,mas de 5 anos,2155733.0,400000.0,200000.0,indefinido,quincenal,soltero/a,postgrado,,,ninguno,1,0,6.25184,-75.56359,99.21156373193166
-30,200000,3754.0,2019-08-08,1236,0,independiente,arrendada,2.0,menos de un ano,2000000.0,400000.0,200000.0,nan,nan,soltero/a,tecnico,1.0,1.0,carro,1,0,6.67169,-73.17421,
+30,200000,3754.0,2019-08-08,1236,0,independiente,arrendada,2.0,menos de un ano,2000000.0,400000.0,200000.0,nan,nan,soltero/a,tecnico,1.0,1.0,carro,1,0,4.60971,-74.08175,
 30,200000,3754.0,2018-08-12,1236,0,empleado,familiar,3.0,entre uno y cinco anos,1350000.0,300000.0,,indefinido,mensual,soltero/a,tecnologo,,,ninguno,1,0,5.05,-73.88333,18.363994743758212
 30,200000,3754.0,2018-06-22,1235,0,empleado,familiar,3.0,mas de 5 anos,3700000.0,400000.0,300000.0,indefinido,quincenal,union libre,tecnico,1.0,1.0,moto,1,0,4.60971,-74.08175,48.0
 30,100000,1877.0,2018-11-23,1235,0,empleado,familiar,2.0,entre uno y cinco anos,2024000.0,500000.0,620000.0,indefinido,mensual,soltero/a,profesional,,,ninguno,1,0,4.142,-73.62664,50.68988173455979
 30,350000,6569.5,2019-12-18,1234,1,independiente,familiar,3.0,entre uno y cinco anos,3300000.0,3500000.0,1500000.0,nan,nan,soltero/a,secundaria,1.0,1.0,moto,1,0,4.09912,-72.95647,
 30,230000,4317.1,2019-12-18,1234,1,empleado,familiar,3.0,mas de 5 anos,1300000.0,600000.0,,indefinido,mensual,soltero/a,tecnico,,,carro,2,1,4.60971,-74.08175,44.349540078843624
 30,250000,4692.5,2019-12-18,1234,1,empleado,propia,3.0,entre uno y cinco anos,1300000.0,200000.0,,termino fijo,quincenal,soltero/a,tecnico,2.0,,ninguno,1,0,3.58234,-76.49146,42.8712220762155
-30,300000,5631.0,2019-10-30,1234,0,empleado,nan,2.0,entre uno y cinco anos,2780000.0,980000.0,100000.0,indefinido,quincenal,nan,nan,2.0,2.0,ninguno,1,0,7.58078,-75.34842,64.81603153745073
+30,300000,5631.0,2019-10-30,1234,0,empleado,nan,2.0,entre uno y cinco anos,2780000.0,980000.0,100000.0,indefinido,quincenal,nan,nan,2.0,2.0,ninguno,1,0,4.60971,-74.08175,64.81603153745073
 30,300000,5631.0,2019-12-18,1234,1,empleado,familiar,2.0,mas de 5 anos,1640000.0,680000.0,1050000.0,indefinido,mensual,casado/a,secundaria,1.0,2.0,ninguno,1,0,4.60971,-74.08175,146.8791064388962
 30,170000,3190.9,2018-11-16,1231,0,empleado,familiar,2.0,mas de 5 anos,1850000.0,750000.0,250000.0,indefinido,mensual,union libre,tecnico,1.0,1.0,ninguno,1,0,4.33646,-74.36378,259.526938239159
 30,200000,3754.0,2018-06-07,1230,0,empleado,arrendada,3.0,entre uno y cinco anos,1800000.0,1100000.0,200000.0,indefinido,quincenal,soltero/a,secundaria,3.0,3.0,ninguno,1,0,7.53941,-72.77238,
@@ -2725,7 +2725,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,110000,2064.7,2018-03-03,1222,0,empleado,familiar,2.0,mas de 5 anos,2300000.0,500000.0,500000.0,indefinido,quincenal,casado/a,tecnologo,,,carro,1,0,10.91843,-74.76459,275.9855453350854
 30,200000,3754.0,2018-11-13,1222,0,empleado,propia,2.0,mas de 5 anos,900000.0,500000.0,300000.0,indefinido,mensual,soltero/a,tecnologo,,,ninguno,1,0,4.60971,-74.08175,14.71747700394218
 30,400000,7508.0,2020-01-01,1220,1,empleado,familiar,3.0,menos de un ano,2056477.0,800000.0,,termino fijo,quincenal,soltero/a,tecnico,,,ninguno,1,0,6.25184,-75.56359,
-30,300000,5631.0,2020-01-01,1220,1,empleado,familiar,2.0,mas de 5 anos,1200000.0,600000.0,400000.0,indefinido,quincenal,casado/a,tecnico,2.0,2.0,ninguno,1,0,10.91843,-74.76459,48.06176084099869
+30,300000,5631.0,2020-01-01,1220,1,empleado,familiar,2.0,mas de 5 anos,1200000.0,600000.0,400000.0,indefinido,quincenal,casado/a,tecnico,2.0,2.0,ninguno,1,0,4.60971,-74.08175,48.06176084099869
 30,250000,4692.5,2020-01-01,1220,1,empleado,familiar,3.0,mas de 5 anos,3832000.0,1600000.0,800000.0,indefinido,mensual,casado/a,tecnologo,3.0,2.0,ninguno,1,0,5.53528,-73.36778,17.871222076215506
 28,200000,3503.733333,2020-01-02,1219,1,empleado,arrendada,3.0,entre uno y cinco anos,1750000.0,550000.0,300000.0,indefinido,mensual,soltero/a,profesional,,,ninguno,1,0,4.60971,-74.08175,45.269382391590014
 30,200000,3754.0,2017-10-22,1219,0,empleado,arrendada,3.0,entre uno y cinco anos,2800000.0,1200000.0,100000.0,indefinido,quincenal,casado/a,secundaria,3.0,2.0,moto,1,0,3.53944,-76.30361,
@@ -2784,11 +2784,11 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,250000,4692.5,2019-08-11,1192,0,empleado,familiar,2.0,mas de 5 anos,1890000.0,1400000.0,,indefinido,mensual,union libre,tecnico,1.0,1.0,ninguno,1,0,5.8245,-73.03408,109.16557161629434
 30,250000,4692.5,2017-03-01,1192,0,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,quincenal,nan,nan,0.0,1.0,ninguno,1,0,4.81333,-75.69611,36.0
 29,200000,3628.866667,2017-11-22,1192,0,empleado,propia,2.0,entre uno y cinco anos,3058000.0,600000.0,,indefinido,quincenal,soltero/a,no tengo,,,ninguno,1,0,4.81333,-75.69611,342.904073587385
-30,250000,4692.5,2019-09-22,1191,0,empleado,familiar,3.0,mas de 5 anos,2600000.0,900000.0,1000000.0,termino fijo,mensual,union libre,profesional,2.0,1.0,ninguno,1,0,10.74846,-75.10776,40.01314060446781
+30,250000,4692.5,2019-09-22,1191,0,empleado,familiar,3.0,mas de 5 anos,2600000.0,900000.0,1000000.0,termino fijo,mensual,union libre,profesional,2.0,1.0,ninguno,1,0,4.60971,-74.08175,40.01314060446781
 30,200000,3754.0,2018-01-26,1190,0,empleado,arrendada,3.0,menos de un ano,2700000.0,1700000.0,,indefinido,mensual,soltero/a,profesional,1.0,1.0,moto,1,0,7.53941,-72.77238,20.0
 30,300000,5631.0,2017-03-10,1190,0,independiente,nan,3.0,mas de 5 anos,,,,nan,nan,nan,nan,3.0,2.0,ninguno,1,0,4.60971,-74.08175,
 30,230000,4317.1,2020-02-01,1189,1,empleado,familiar,3.0,entre uno y cinco anos,2845090.0,1500000.0,55000.0,indefinido,quincenal,union libre,profesional,2.0,2.0,ninguno,1,0,6.33732,-75.55795,16.62286465177398
-30,300000,5631.0,2018-02-03,1189,0,empleado,propia,2.0,entre uno y cinco anos,3140000.0,800000.0,1000000.0,indefinido,mensual,casado/a,secundaria,1.0,1.0,ninguno,1,0,8.21639,-73.24139,
+30,300000,5631.0,2018-02-03,1189,0,empleado,propia,2.0,entre uno y cinco anos,3140000.0,800000.0,1000000.0,indefinido,mensual,casado/a,secundaria,1.0,1.0,ninguno,1,0,4.60971,-74.08175,
 30,400000,7508.0,2020-02-02,1188,1,independiente,familiar,3.0,entre uno y cinco anos,8440000.0,2195000.0,300000.0,nan,nan,soltero/a,profesional,,,moto,1,0,1.85371,-76.05071,
 30,200000,3754.0,2020-02-02,1188,1,empleado,nan,3.0,mas de 5 anos,,,,termino fijo,quincenal,nan,nan,1.0,1.0,ninguno,1,0,6.25184,-75.56359,136.6622864651774
 30,500000,9385.0,2020-02-02,1188,1,empleado,propia,1.0,mas de 5 anos,2400000.0,600000.0,900000.0,indefinido,mensual,union libre,tecnico,,2.0,ninguno,1,0,4.142,-73.62664,59.36268068331143
@@ -2876,7 +2876,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,490000,9197.3,2020-03-07,1154,1,empleado,familiar,4.0,mas de 5 anos,1200000.0,900000.0,200000.0,indefinido,quincenal,casado/a,tecnologo,1.0,1.0,ninguno,1,0,7.12539,-73.1198,95.43363994743758
 27,120000,2027.16,2018-08-06,1152,0,empleado,familiar,4.0,entre uno y cinco anos,1500000.0,1200000.0,200000.0,indefinido,mensual,soltero/a,tecnico,1.0,1.0,ninguno,1,0,10.96854,-74.78132,8.0
 29,220000,3991.753333,2020-03-10,1151,1,empleado,familiar,2.0,mas de 5 anos,1718000.0,500000.0,100000.0,indefinido,quincenal,soltero/a,tecnologo,1.0,1.0,ninguno,1,0,6.25184,-75.56359,45.433639947437584
-30,300000,5631.0,2020-03-12,1149,1,empleado,familiar,2.0,mas de 5 anos,2800000.0,800000.0,200000.0,termino fijo,mensual,union libre,tecnico,1.0,1.0,ninguno,1,0,8.30844,-73.6166,20.170827858081473
+30,300000,5631.0,2020-03-12,1149,1,empleado,familiar,2.0,mas de 5 anos,2800000.0,800000.0,200000.0,termino fijo,mensual,union libre,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,20.170827858081473
 30,250000,4692.5,2020-03-13,1148,1,empleado,familiar,3.0,mas de 5 anos,1600000.0,300000.0,100000.0,indefinido,quincenal,soltero/a,secundaria,1.0,2.0,ninguno,1,0,4.60971,-74.08175,
 24,280000,4204.48,2016-05-16,1148,0,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,quincenal,nan,nan,0.0,0.0,ninguno,1,0,6.25184,-75.56359,9.0
 30,120000,2252.4,2017-10-06,1148,0,empleado,arrendada,2.0,entre uno y cinco anos,1500000.0,750000.0,,indefinido,quincenal,soltero/a,tecnologo,1.0,1.0,ninguno,1,0,6.25184,-75.56359,
@@ -2892,7 +2892,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,250000,4692.5,2018-01-21,1142,0,empleado,propia,2.0,mas de 5 anos,1500000.0,400000.0,480000.0,termino fijo,mensual,divorciado/a,tecnico,1.0,2.0,ninguno,1,0,6.33732,-75.55795,
 30,500000,9385.0,2020-03-20,1141,1,empleado,propia,3.0,mas de 5 anos,1716000.0,950000.0,1220000.0,indefinido,quincenal,soltero/a,no tengo,,3.0,ninguno,1,0,4.60971,-74.08175,187.8449408672799
 30,350000,6569.5,2020-03-20,1141,1,empleado,familiar,3.0,mas de 5 anos,1960000.0,1100000.0,600000.0,indefinido,quincenal,divorciado/a,postgrado,1.0,,carro,1,0,6.25184,-75.56359,0.0
-30,500000,9385.0,2020-03-20,1141,1,empleado,familiar,3.0,mas de 5 anos,920000.0,290000.0,100000.0,indefinido,quincenal,soltero/a,secundaria,1.0,,ninguno,1,0,1.56305,-77.1176,81.53745072273324
+30,500000,9385.0,2020-03-20,1141,1,empleado,familiar,3.0,mas de 5 anos,920000.0,290000.0,100000.0,indefinido,quincenal,soltero/a,secundaria,1.0,,ninguno,1,0,4.60971,-74.08175,81.53745072273324
 30,170000,3190.9,2017-11-03,1141,0,empleado,propia,2.0,mas de 5 anos,1800000.0,1400000.0,150000.0,termino fijo,quincenal,soltero/a,tecnico,2.0,,ninguno,1,0,10.96854,-74.78132,19.80946123521682
 30,200000,3754.0,2019-05-16,1141,0,empleado,familiar,2.0,mas de 5 anos,1200000.0,900000.0,,indefinido,quincenal,divorciado/a,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,142.96977660972405
 30,360000,6757.2,2020-03-21,1140,1,empleado,arrendada,3.0,entre uno y cinco anos,2500000.0,1700000.0,170000.0,termino fijo,quincenal,union libre,tecnico,3.0,2.0,ninguno,1,0,6.25184,-75.56359,36.892247043363994
@@ -2908,14 +2908,14 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,350000,6569.5,2020-03-26,1135,1,empleado,propia,3.0,mas de 5 anos,3600000.0,600000.0,450000.0,indefinido,quincenal,soltero/a,no tengo,,,ninguno,2,1,4.60971,-74.08175,132.45729303547964
 30,500000,9385.0,2020-03-26,1135,1,pensionado,familiar,4.0,entre uno y cinco anos,3500000.0,1800000.0,1000000.0,nan,nan,union libre,postgrado,1.0,,ninguno,1,0,4.60971,-74.08175,
 28,200000,3503.733333,2017-12-28,1135,0,empleado,familiar,3.0,entre uno y cinco anos,1700000.0,500000.0,300000.0,indefinido,quincenal,soltero/a,secundaria,,,ninguno,1,0,4.60971,-74.08175,9.0
-30,300000,5631.0,2020-03-27,1134,1,independiente,familiar,1.0,mas de 5 anos,2500000.0,1100000.0,900000.0,nan,nan,casado/a,tecnico,3.0,3.0,moto,1,0,4.73245,-74.26419,
+30,300000,5631.0,2020-03-27,1134,1,independiente,familiar,1.0,mas de 5 anos,2500000.0,1100000.0,900000.0,nan,nan,casado/a,tecnico,3.0,3.0,moto,1,0,4.60971,-74.08175,
 30,300000,5631.0,2017-07-21,1134,0,empleado,nan,2.0,entre uno y cinco anos,,,,termino fijo,mensual,nan,nan,0.0,0.0,ninguno,2,1,4.60971,-74.08175,9.0
 30,200000,3754.0,2018-01-19,1134,0,empleado,familiar,3.0,mas de 5 anos,1200000.0,700000.0,800000.0,indefinido,quincenal,soltero/a,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,20.0
 30,220000,4129.4,2019-09-21,1134,0,prestador de servicios,familiar,2.0,mas de 5 anos,6500000.0,1000000.0,850000.0,nan,nan,soltero/a,profesional,1.0,1.0,carro,1,0,4.60971,-74.08175,52.23390275952694
 30,250000,4692.5,2020-03-28,1133,1,empleado,familiar,3.0,mas de 5 anos,1600000.0,700000.0,100000.0,indefinido,quincenal,union libre,secundaria,,,ninguno,1,0,4.60971,-74.08175,32.16162943495401
 30,300000,5631.0,2020-03-28,1133,1,empleado,familiar,4.0,mas de 5 anos,2000000.0,430000.0,200000.0,indefinido,quincenal,soltero/a,profesional,,,ninguno,1,0,4.60971,-74.08175,42.04993429697766
 30,500000,9385.0,2020-03-28,1133,1,empleado,familiar,3.0,mas de 5 anos,2500000.0,900000.0,500000.0,indefinido,mensual,casado/a,tecnico,,,ninguno,1,0,4.60971,-74.08175,18.134034165571617
-30,400000,7508.0,2020-03-29,1132,1,empleado,familiar,3.0,mas de 5 anos,920000.0,290000.0,100000.0,indefinido,quincenal,soltero/a,secundaria,1.0,,ninguno,2,1,1.56305,-77.1176,81.83311432325887
+30,400000,7508.0,2020-03-29,1132,1,empleado,familiar,3.0,mas de 5 anos,920000.0,290000.0,100000.0,indefinido,quincenal,soltero/a,secundaria,1.0,,ninguno,2,1,4.60971,-74.08175,81.83311432325887
 30,300000,5631.0,2020-03-29,1132,1,empleado,propia,1.0,mas de 5 anos,1405000.0,350000.0,200000.0,indefinido,quincenal,casado/a,secundaria,1.0,1.0,ninguno,1,0,3.43722,-76.5225,150.98554533508542
 30,150000,2815.5,2017-05-28,1132,0,empleado,propia,1.0,entre uno y cinco anos,1148000.0,,,indefinido,quincenal,soltero/a,no tengo,0.0,0.0,moto,1,0,4.60971,-74.08175,48.0
 30,300000,5631.0,2018-09-27,1132,0,empleado,familiar,2.0,entre uno y cinco anos,2085000.0,800000.0,,termino fijo,quincenal,casado/a,tecnologo,,,ninguno,1,0,6.25184,-75.56359,43.03547963206307
@@ -2983,7 +2983,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,250000,4692.5,2018-10-26,1109,0,prestador de servicios,familiar,2.0,entre uno y cinco anos,1500000.0,600000.0,800000.0,indefinido,mensual,union libre,postgrado,1.0,1.0,ninguno,2,1,4.4425,-74.04417,
 30,350000,6569.5,2020-04-23,1107,1,empleado,propia,1.0,menos de un ano,2698000.0,1200000.0,,prestacion de servicios,quincenal,soltero/a,secundaria,1.0,1.0,ninguno,1,0,4.142,-73.62664,11.892247043363994
 30,300000,5631.0,2020-04-25,1105,1,empleado,arrendada,4.0,entre uno y cinco anos,1500000.0,600000.0,100000.0,indefinido,mensual,soltero/a,tecnico,,,ninguno,1,0,4.142,-73.62664,9.067017082785808
-30,250000,4692.5,2020-04-25,1105,1,desempleado,familiar,2.0,mas de 5 anos,1500000.0,800000.0,200000.0,nan,nan,casado/a,profesional,2.0,1.0,ninguno,1,0,2.9273,-75.28189,
+30,250000,4692.5,2020-04-25,1105,1,desempleado,familiar,2.0,mas de 5 anos,1500000.0,800000.0,200000.0,nan,nan,casado/a,profesional,2.0,1.0,ninguno,1,0,4.60971,-74.08175,
 30,300000,5631.0,2019-08-28,1104,0,empleado,familiar,3.0,mas de 5 anos,3043000.0,560000.0,400000.0,indefinido,quincenal,soltero/a,profesional,,,ninguno,1,0,3.43722,-76.5225,78.8107752956636
 30,220000,4129.4,2017-07-30,1103,0,empleado,nan,2.0,entre uno y cinco anos,,,,termino fijo,mensual,nan,nan,,,ninguno,1,0,4.60971,-74.08175,198.91590013140603
 29,250000,4536.083333,2019-02-07,1103,0,empleado,arrendada,2.0,menos de un ano,2126000.0,1000000.0,,indefinido,mensual,casado/a,profesional,2.0,2.0,moto,1,0,6.33732,-75.55795,236.3666228646518
@@ -3030,7 +3030,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,250000,4692.5,2017-05-20,1074,0,empleado,familiar,3.0,mas de 5 anos,3500000.0,2000000.0,,indefinido,mensual,soltero/a,profesional,1.0,1.0,ninguno,1,0,4.60971,-74.08175,
 30,200000,3754.0,2017-12-27,1073,0,empleado,familiar,3.0,mas de 5 anos,1800000.0,100000.0,300000.0,indefinido,mensual,soltero/a,profesional,,,moto,1,0,6.33732,-75.55795,432.0
 30,300000,5631.0,2017-06-04,1072,0,empleado,nan,2.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,0.0,0.0,carro,1,0,3.43722,-76.5225,
-30,160000,3003.2,2018-09-13,1072,0,empleado,familiar,1.0,mas de 5 anos,930000.0,100000.0,500000.0,indefinido,quincenal,soltero/a,tecnico,1.0,1.0,ninguno,1,0,10.77107,-73.00314,64.02759526938239
+30,160000,3003.2,2018-09-13,1072,0,empleado,familiar,1.0,mas de 5 anos,930000.0,100000.0,500000.0,indefinido,quincenal,soltero/a,tecnico,1.0,1.0,ninguno,1,0,3.36985,-73.87267,64.02759526938239
 29,350000,6350.516667,2019-11-23,1071,0,empleado,propia,2.0,entre uno y cinco anos,3000000.0,2000000.0,,indefinido,mensual,soltero/a,profesional,,,ninguno,1,0,4.60971,-74.08175,75.29566360052563
 30,450000,8446.5,2020-05-30,1070,1,empleado,arrendada,2.0,menos de un ano,1000000.0,550000.0,300000.0,indefinido,mensual,union libre,tecnologo,,,ninguno,1,0,4.60971,-74.08175,56.8988173455979
 30,450000,8446.5,2020-05-30,1070,1,empleado,familiar,3.0,mas de 5 anos,1200000.0,450000.0,500000.0,indefinido,mensual,soltero/a,secundaria,2.0,2.0,ninguno,1,0,4.2708,-73.48669,25.9526938239159
@@ -3075,7 +3075,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,250000,4692.5,2020-07-02,1037,1,empleado,familiar,3.0,menos de un ano,2300000.0,450000.0,100000.0,termino fijo,quincenal,soltero/a,tecnologo,,,ninguno,1,0,6.33732,-75.55795,9.42838370565046
 29,500000,9072.166667,2020-07-02,1037,1,empleado,propia,3.0,mas de 5 anos,3800000.0,1200000.0,,indefinido,mensual,divorciado/a,secundaria,3.0,3.0,ninguno,1,0,3.72315,-75.48316,243.00262812089355
 30,180000,3378.6,2018-02-02,1036,0,empleado,propia,3.0,mas de 5 anos,1300000.0,250000.0,,termino fijo,quincenal,casado/a,tecnico,1.0,2.0,moto,1,0,6.15639,-75.78722,46.156373193166885
-30,100000,1877.0,2018-09-26,1036,0,empleado,arrendada,2.0,entre uno y cinco anos,1050000.0,800000.0,,indefinido,mensual,soltero/a,secundaria,1.0,1.0,ninguno,1,0,2.9273,-75.28189,14.651773981603153
+30,100000,1877.0,2018-09-26,1036,0,empleado,arrendada,2.0,entre uno y cinco anos,1050000.0,800000.0,,indefinido,mensual,soltero/a,secundaria,1.0,1.0,ninguno,1,0,4.60971,-74.08175,14.651773981603153
 30,500000,9385.0,2019-04-17,1034,0,empleado,arrendada,3.0,entre uno y cinco anos,4200000.0,2800000.0,500000.0,indefinido,quincenal,casado/a,profesional,2.0,2.0,ninguno,1,0,5.8245,-73.03408,34.39553219448094
 30,270000,5067.9,2019-11-07,1033,0,independiente,familiar,3.0,mas de 5 anos,4000000.0,1000000.0,1000000.0,nan,nan,soltero/a,profesional,,1.0,ninguno,1,0,4.60971,-74.08175,
 29,320000,5806.186667,2019-08-03,1032,0,empleado,arrendada,2.0,entre uno y cinco anos,1500000.0,1000000.0,560000.0,indefinido,quincenal,casado/a,tecnologo,2.0,2.0,ninguno,1,0,3.53944,-76.30361,81.50459921156373
@@ -3104,7 +3104,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 29,500000,9072.166667,2020-07-25,1014,1,empleado,arrendada,2.0,menos de un ano,1600000.0,1000000.0,,indefinido,mensual,soltero/a,tecnologo,,,ninguno,1,0,4.60971,-74.08175,23.751642575558474
 30,200000,3754.0,2020-07-25,1014,1,empleado,familiar,3.0,mas de 5 anos,1350000.0,450000.0,200000.0,indefinido,quincenal,soltero/a,secundaria,1.0,,moto,1,0,6.25184,-75.56359,29.369250985545335
 30,500000,9385.0,2020-07-26,1013,1,empleado,propia,3.0,mas de 5 anos,3050000.0,1700000.0,,indefinido,quincenal,divorciado/a,profesional,1.0,1.0,ninguno,1,0,4.60971,-74.08175,5.4204993429697765
-30,150000,2815.5,2019-10-02,1013,0,empleado,familiar,1.0,entre uno y cinco anos,1100000.0,100000.0,50000.0,indefinido,quincenal,union libre,tecnologo,,,moto,1,0,10.25444,-75.34389,38.5676741130092
+30,150000,2815.5,2019-10-02,1013,0,empleado,familiar,1.0,entre uno y cinco anos,1100000.0,100000.0,50000.0,indefinido,quincenal,union libre,tecnologo,,,moto,1,0,4.60971,-74.08175,38.5676741130092
 25,500000,7820.833333,2016-11-28,1010,0,empleado,propia,2.0,mas de 5 anos,3500000.0,1000000.0,550000.0,indefinido,mensual,casado/a,tecnico,2.0,2.0,ninguno,1,0,4.60971,-74.08175,
 30,150000,2815.5,2019-04-27,1010,0,prestador de servicios,familiar,2.0,mas de 5 anos,1200000.0,300000.0,,nan,nan,soltero/a,secundaria,2.0,1.0,ninguno,2,1,4.60971,-74.08175,51.6754270696452
 30,500000,9385.0,2020-07-30,1009,1,empleado,propia,3.0,mas de 5 anos,3050000.0,1700000.0,,indefinido,quincenal,divorciado/a,profesional,1.0,1.0,ninguno,2,1,4.60971,-74.08175,5.551905387647832
@@ -3128,7 +3128,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,250000,4692.5,2019-09-01,995,0,empleado,familiar,2.0,entre uno y cinco anos,2073000.0,500000.0,,indefinido,quincenal,casado/a,profesional,1.0,2.0,ninguno,1,0,4.60971,-74.08175,56.8988173455979
 30,450000,8446.5,2018-02-15,995,0,empleado,propia,3.0,mas de 5 anos,2160000.0,1500000.0,2000000.0,indefinido,quincenal,soltero/a,tecnologo,2.0,2.0,ninguno,1,0,4.60971,-74.08175,59.98685939553219
 30,200000,3754.0,2017-10-11,993,0,empleado,familiar,2.0,mas de 5 anos,1769297.0,700000.0,190000.0,indefinido,mensual,union libre,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,195.2365308804205
-25,150000,2346.25,2017-09-02,993,0,empleado,familiar,3.0,entre uno y cinco anos,1600000.0,800000.0,200000.0,indefinido,mensual,soltero/a,tecnico,0.0,0.0,moto,1,0,5.08583,-75.78833,8.21287779237845
+25,150000,2346.25,2017-09-02,993,0,empleado,familiar,3.0,entre uno y cinco anos,1600000.0,800000.0,200000.0,indefinido,mensual,soltero/a,tecnico,0.0,0.0,moto,1,0,2.57286,-72.64591,8.21287779237845
 30,100000,1877.0,2017-09-17,992,0,empleado,nan,3.0,entre uno y cinco anos,1500000.0,400000.0,200000.0,termino fijo,quincenal,nan,nan,0.0,1.0,ninguno,1,0,4.60971,-74.08175,
 30,150000,2815.5,2018-03-14,992,0,empleado,familiar,3.0,mas de 5 anos,824000.0,550000.0,250000.0,indefinido,quincenal,divorciado/a,tecnico,,1.0,ninguno,1,0,5.06889,-75.51738,7.0
 30,200000,3754.0,2019-05-15,992,0,empleado,familiar,2.0,mas de 5 anos,1200000.0,450000.0,150000.0,indefinido,quincenal,soltero/a,tecnologo,,,ninguno,1,0,10.39972,-75.51444,14.257555847568987
@@ -3138,7 +3138,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,250000,4692.5,2017-12-27,989,0,empleado,familiar,2.0,mas de 5 anos,3082000.0,1800000.0,,termino fijo,mensual,soltero/a,profesional,,,ninguno,1,0,5.69188,-76.65835,
 26,250000,4066.833333,2019-08-31,989,0,empleado,familiar,2.0,entre uno y cinco anos,1900000.0,600000.0,900000.0,indefinido,mensual,soltero/a,profesional,,,ninguno,1,0,6.25184,-75.56359,71.97766097240473
 30,120000,2252.4,2017-10-05,988,0,empleado,familiar,3.0,mas de 5 anos,1000000.0,500000.0,100000.0,indefinido,quincenal,soltero/a,secundaria,2.0,1.0,ninguno,1,0,6.25184,-75.56359,216.0
-30,240000,4504.8,2019-05-23,988,0,empleado,propia,2.0,mas de 5 anos,4500000.0,2500000.0,1000000.0,termino fijo,quincenal,casado/a,profesional,3.0,2.0,ninguno,1,0,6.33732,-75.55795,9.099868593955321
+30,240000,4504.8,2019-05-23,988,0,empleado,propia,2.0,mas de 5 anos,4500000.0,2500000.0,1000000.0,termino fijo,quincenal,casado/a,profesional,3.0,2.0,ninguno,1,0,4.60971,-74.08175,9.099868593955321
 30,500000,9385.0,2020-08-21,987,1,empleado,familiar,2.0,entre uno y cinco anos,1800000.0,750000.0,500000.0,termino fijo,quincenal,casado/a,secundaria,3.0,3.0,moto,1,0,7.34828,-73.89601,65.93298291721419
 30,120000,2252.4,2017-09-29,987,0,empleado,propia,3.0,mas de 5 anos,2500000.0,1000000.0,,indefinido,quincenal,soltero/a,nan,,3.0,ninguno,1,0,6.18461,-75.59913,55.42049934296978
 30,200000,3754.0,2019-06-13,987,0,independiente,familiar,3.0,mas de 5 anos,1900000.0,890000.0,200000.0,nan,nan,soltero/a,profesional,,,moto,1,0,3.90089,-76.29783,
@@ -3153,12 +3153,12 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,250000,4692.5,2017-12-10,982,0,empleado,familiar,3.0,mas de 5 anos,1800000.0,350000.0,300000.0,indefinido,mensual,casado/a,tecnico,1.0,0.0,ninguno,1,0,5.87401,-72.98217,84.0
 30,400000,7508.0,2018-04-08,981,0,empleado,familiar,2.0,mas de 5 anos,1800000.0,1000000.0,1500000.0,indefinido,mensual,soltero/a,profesional,2.0,2.0,ninguno,1,0,3.43722,-76.5225,169.57950065703022
 30,500000,9385.0,2019-11-09,980,0,empleado,familiar,3.0,mas de 5 anos,4824647.0,2000000.0,,indefinido,mensual,casado/a,postgrado,,,ninguno,1,0,5.69188,-76.65835,53.186596583442835
-30,300000,5631.0,2017-09-08,976,0,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,,,moto,1,0,4.60971,-74.08175,8.245729303547963
+30,300000,5631.0,2017-09-08,976,0,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,,,moto,1,0,6.55687,-75.82806,8.245729303547963
 30,250000,4692.5,2018-01-05,976,0,empleado,familiar,3.0,entre uno y cinco anos,2500000.0,2000000.0,200000.0,indefinido,quincenal,divorciado/a,secundaria,1.0,1.0,ninguno,1,0,4.60971,-74.08175,
-29,350000,6350.516667,2019-06-06,974,0,empleado,propia,2.0,mas de 5 anos,4500000.0,2500000.0,1000000.0,termino fijo,quincenal,casado/a,profesional,3.0,2.0,ninguno,2,1,6.33732,-75.55795,9.592641261498029
+29,350000,6350.516667,2019-06-06,974,0,empleado,propia,2.0,mas de 5 anos,4500000.0,2500000.0,1000000.0,termino fijo,quincenal,casado/a,profesional,3.0,2.0,ninguno,2,1,4.60971,-74.08175,9.592641261498029
 30,170000,3190.9,2017-10-20,973,0,empleado,arrendada,2.0,entre uno y cinco anos,935000.0,540000.0,,indefinido,quincenal,soltero/a,secundaria,1.0,,moto,1,0,1.21361,-77.28111,8.114323258869907
 29,180000,3265.98,2016-01-19,972,0,empleado,nan,3.0,mas de 5 anos,,,,indefinido,quincenal,nan,nan,1.0,1.0,ninguno,1,0,4.60971,-74.08175,3.0
-21,200000,2627.8,2019-06-05,971,0,empleado,arrendada,2.0,entre uno y cinco anos,1500000.0,350000.0,300000.0,indefinido,mensual,soltero/a,profesional,1.0,1.0,ninguno,1,0,5.33775,-72.39586,10.446780551905388
+21,200000,2627.8,2019-06-05,971,0,empleado,arrendada,2.0,entre uno y cinco anos,1500000.0,350000.0,300000.0,indefinido,mensual,soltero/a,profesional,1.0,1.0,ninguno,1,0,4.60971,-74.08175,10.446780551905388
 30,300000,5631.0,2019-10-04,970,0,empleado,familiar,2.0,mas de 5 anos,3500000.0,400000.0,500000.0,indefinido,mensual,casado/a,postgrado,2.0,1.0,carro,1,0,10.91843,-74.76459,97.04336399474376
 30,500000,9385.0,2019-10-24,968,0,empleado,nan,2.0,mas de 5 anos,1500000.0,900000.0,,indefinido,mensual,nan,nan,2.0,2.0,ninguno,1,0,4.60971,-74.08175,142.5755584756899
 13,130000,1057.376667,2017-11-08,968,0,empleado,arrendada,3.0,mas de 5 anos,1862506.0,900000.0,,indefinido,quincenal,soltero/a,tecnico,1.0,1.0,ninguno,1,0,6.25184,-75.56359,
@@ -3180,7 +3180,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,270000,5067.9,2019-01-02,958,0,empleado,arrendada,3.0,entre uno y cinco anos,1300000.0,650000.0,400000.0,termino fijo,quincenal,union libre,tecnico,,,ninguno,1,0,4.14924,-74.88429,19.086727989487517
 30,250000,4692.5,2020-01-17,957,0,empleado,familiar,4.0,mas de 5 anos,1900000.0,800000.0,300000.0,indefinido,mensual,soltero/a,tecnico,1.0,1.0,moto,1,0,6.25184,-75.56359,13.074901445466491
 30,200000,3754.0,2019-07-17,957,0,empleado,familiar,2.0,mas de 5 anos,1500000.0,600000.0,200000.0,indefinido,quincenal,soltero/a,tecnologo,1.0,1.0,ninguno,1,0,8.74798,-75.88143,24.11300919842313
-30,200000,3754.0,2019-06-20,956,0,empleado,propia,2.0,mas de 5 anos,2600000.0,1500000.0,350000.0,indefinido,quincenal,soltero/a,tecnologo,,,ninguno,1,0,4.60971,-74.08175,71.32063074901446
+30,200000,3754.0,2019-06-20,956,0,empleado,propia,2.0,mas de 5 anos,2600000.0,1500000.0,350000.0,indefinido,quincenal,soltero/a,tecnologo,,,ninguno,1,0,6.09106,-75.63569,71.32063074901446
 30,200000,3754.0,2020-09-23,954,1,empleado,familiar,3.0,mas de 5 anos,990000.0,400000.0,90000.0,indefinido,quincenal,casado/a,tecnico,3.0,3.0,ninguno,1,0,6.25184,-75.56359,69.44809461235216
 30,440000,8258.8,2017-09-17,954,0,desempleado,nan,3.0,mas de 5 anos,,,,nan,nan,nan,nan,0.0,0.0,ninguno,1,0,7.06222,-73.08644,
 30,180000,3378.6,2018-01-10,954,0,empleado,arrendada,3.0,menos de un ano,1500000.0,650000.0,,indefinido,mensual,soltero/a,profesional,,,ninguno,1,0,4.60971,-74.08175,36.0
@@ -3203,7 +3203,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,200000,3754.0,2019-08-01,942,0,empleado,familiar,2.0,entre uno y cinco anos,1200000.0,400000.0,400000.0,termino fijo,quincenal,soltero/a,tecnologo,2.0,,ninguno,1,0,6.33732,-75.55795,16.78712220762155
 30,220000,4129.4,2017-11-22,940,0,empleado,propia,2.0,entre uno y cinco anos,1700000.0,350000.0,,indefinido,quincenal,union libre,profesional,,,moto,1,0,4.60971,-74.08175,24.0
 30,150000,2815.5,2020-10-08,939,1,empleado,propia,2.0,mas de 5 anos,3000000.0,2000000.0,,indefinido,mensual,casado/a,profesional,2.0,2.0,ninguno,1,0,5.06889,-75.51738,59.49408672798949
-30,500000,9385.0,2020-10-08,939,1,empleado,familiar,1.0,entre uno y cinco anos,2060000.0,750000.0,250000.0,indefinido,mensual,union libre,profesional,3.0,3.0,moto,1,0,1.68318,-77.07331,0.0
+30,500000,9385.0,2020-10-08,939,1,empleado,familiar,1.0,entre uno y cinco anos,2060000.0,750000.0,250000.0,indefinido,mensual,union libre,profesional,3.0,3.0,moto,1,0,4.60971,-74.08175,0.0
 30,300000,5631.0,2018-09-15,937,0,pensionado,propia,2.0,mas de 5 anos,781200.0,400000.0,700000.0,nan,mensual,viudo/a,profesional,,2.0,ninguno,1,0,4.60971,-74.08175,
 30,250000,4692.5,2019-04-10,937,0,empleado,arrendada,4.0,entre uno y cinco anos,1800000.0,800000.0,200000.0,indefinido,quincenal,soltero/a,tecnico,2.0,2.0,ninguno,1,0,3.43722,-76.5225,26.544021024967147
 30,370000,6944.9,2019-06-06,935,0,empleado,familiar,3.0,mas de 5 anos,2100000.0,600000.0,,indefinido,mensual,soltero/a,profesional,,,ninguno,1,0,6.25184,-75.56359,104.89487516425756
@@ -3236,7 +3236,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,300000,5631.0,2017-12-10,922,0,empleado,arrendada,3.0,entre uno y cinco anos,1700000.0,700000.0,500000.0,termino fijo,mensual,soltero/a,profesional,1.0,1.0,ninguno,1,0,4.60971,-74.08175,24.0
 30,270000,5067.9,2019-04-11,922,0,empleado,familiar,2.0,mas de 5 anos,1300000.0,800000.0,0.0,indefinido,quincenal,casado/a,tecnologo,3.0,3.0,moto,1,0,5.71062,-75.31069,
 30,450000,8446.5,2020-08-26,922,0,empleado,familiar,2.0,mas de 5 anos,1000000.0,350000.0,,indefinido,quincenal,soltero/a,tecnico,,,ninguno,1,0,6.25184,-75.56359,20.2365308804205
-30,100000,1877.0,2015-08-13,922,0,empleado,nan,2.0,entre uno y cinco anos,1200000.0,400000.0,,indefinido,quincenal,nan,nan,0.0,0.0,ninguno,1,0,6.96321,-75.41738,
+30,100000,1877.0,2015-08-13,922,0,empleado,nan,2.0,entre uno y cinco anos,1200000.0,400000.0,,indefinido,quincenal,nan,nan,0.0,0.0,ninguno,1,0,4.60971,-74.08175,
 30,430000,8071.1,2019-06-19,922,0,empleado,familiar,4.0,mas de 5 anos,2420000.0,1000000.0,,indefinido,mensual,union libre,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,70.56504599211564
 30,200000,3754.0,2019-09-19,921,0,empleado,familiar,4.0,entre uno y cinco anos,4500000.0,2000000.0,500000.0,indefinido,mensual,casado/a,postgrado,1.0,2.0,ninguno,1,0,4.60971,-74.08175,20.959264126149804
 30,100000,1877.0,2019-06-21,920,0,empleado,arrendada,3.0,entre uno y cinco anos,4500000.0,3000000.0,600000.0,indefinido,mensual,union libre,tecnologo,1.0,1.0,ninguno,1,0,10.39972,-75.51444,27.890932982917214
@@ -3343,7 +3343,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,300000,5631.0,2020-12-30,856,1,empleado,arrendada,2.0,mas de 5 anos,1000000.0,300000.0,50000.0,indefinido,mensual,soltero/a,secundaria,,,ninguno,1,0,4.91857,-74.02799,41.52431011826544
 30,100000,1877.0,2020-12-31,855,1,empleado,arrendada,2.0,entre uno y cinco anos,2200000.0,1800000.0,,indefinido,mensual,soltero/a,tecnologo,1.0,1.0,ninguno,1,0,4.60971,-74.08175,0.492772667542707
 30,250000,4692.5,2020-12-31,855,1,empleado,arrendada,3.0,entre uno y cinco anos,1400000.0,800000.0,200000.0,indefinido,quincenal,union libre,tecnico,2.0,1.0,ninguno,1,0,4.33646,-74.36378,37.187910643889616
-30,230000,4317.1,2021-01-01,854,1,independiente,familiar,3.0,entre uno y cinco anos,2500000.0,500000.0,,nan,nan,union libre,profesional,,2.0,ninguno,1,0,4.60971,-74.08175,
+30,230000,4317.1,2021-01-01,854,1,independiente,familiar,3.0,entre uno y cinco anos,2500000.0,500000.0,,nan,nan,union libre,profesional,,2.0,ninguno,1,0,7.08471,-70.75908,
 30,200000,3754.0,2021-01-01,854,1,empleado,familiar,3.0,mas de 5 anos,1900000.0,400000.0,300000.0,indefinido,quincenal,soltero/a,profesional,,,moto,1,0,4.60971,-74.08175,66.91852825229961
 30,500000,9385.0,2021-01-01,854,1,empleado,familiar,2.0,mas de 5 anos,1800000.0,300000.0,,indefinido,quincenal,soltero/a,secundaria,2.0,2.0,moto,1,0,4.03078,-74.9701,45.992115637319316
 30,120000,2252.4,2018-03-09,854,0,empleado,arrendada,1.0,mas de 5 anos,1800000.0,700000.0,600000.0,termino fijo,quincenal,casado/a,tecnico,2.0,,ninguno,2,1,10.39972,-75.51444,144.0
@@ -3404,7 +3404,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,300000,5631.0,2019-06-02,821,0,empleado,propia,1.0,mas de 5 anos,1928000.0,600000.0,300000.0,indefinido,quincenal,union libre,tecnologo,1.0,3.0,moto,1,0,6.25184,-75.56359,23.554533508541393
 30,200000,3754.0,2019-01-11,819,0,empleado,familiar,3.0,mas de 5 anos,1400000.0,300000.0,,indefinido,mensual,soltero/a,profesional,,,ninguno,1,0,4.60971,-74.08175,18.42969776609724
 30,350000,6569.5,2021-02-06,818,1,empleado,familiar,4.0,entre uno y cinco anos,2500000.0,1500000.0,500000.0,indefinido,mensual,soltero/a,tecnico,,,moto,1,0,5.06889,-75.51738,176.149802890933
-30,210000,3941.7,2021-02-07,817,1,empleado,familiar,1.0,mas de 5 anos,810000.0,330000.0,50000.0,indefinido,mensual,casado/a,tecnico,4.0,2.0,ninguno,1,0,4.51005,-73.34982,73.25886990801577
+30,210000,3941.7,2021-02-07,817,1,empleado,familiar,1.0,mas de 5 anos,810000.0,330000.0,50000.0,indefinido,mensual,casado/a,tecnico,4.0,2.0,ninguno,1,0,4.60971,-74.08175,73.25886990801577
 30,250000,4692.5,2021-02-07,817,1,empleado,arrendada,3.0,mas de 5 anos,2000000.0,600000.0,300000.0,indefinido,quincenal,soltero/a,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,32.09592641261498
 30,250000,4692.5,2017-04-15,817,0,empleado,nan,3.0,menos de un ano,,,,indefinido,mensual,nan,nan,1.0,1.0,ninguno,1,0,4.60971,-74.08175,6.0
 30,200000,3754.0,2018-10-03,817,0,empleado,propia,2.0,mas de 5 anos,1279000.0,300000.0,,indefinido,quincenal,soltero/a,tecnologo,,,ninguno,1,0,6.33732,-75.55795,22.503285151116952
@@ -3538,7 +3538,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,250000,4692.5,2016-02-26,740,0,empleado,propia,4.0,entre uno y cinco anos,2624000.0,1000000.0,,indefinido,mensual,soltero/a,no tengo,1.0,1.0,moto,1,0,3.26074,-76.53499,
 30,430000,8071.1,2017-06-24,740,0,empleado,propia,4.0,mas de 5 anos,1367000.0,600.0,300.0,indefinido,quincenal,soltero/a,no tengo,1.0,1.0,ninguno,1,0,10.39972,-75.51444,42.0
 30,170000,3190.9,2018-11-23,738,0,empleado,arrendada,3.0,entre uno y cinco anos,1500000.0,700000.0,2000000.0,indefinido,mensual,soltero/a,profesional,,,ninguno,1,0,4.60971,-74.08175,17.805519053876477
-30,300000,5631.0,2019-08-23,738,0,empleado,arrendada,2.0,entre uno y cinco anos,2400000.0,1200000.0,800000.0,indefinido,mensual,casado/a,tecnologo,2.0,1.0,moto,1,0,6.48511,-75.0196,168.39684625492774
+30,300000,5631.0,2019-08-23,738,0,empleado,arrendada,2.0,entre uno y cinco anos,2400000.0,1200000.0,800000.0,indefinido,mensual,casado/a,tecnologo,2.0,1.0,moto,1,0,4.60971,-74.08175,168.39684625492774
 30,500000,9385.0,2021-04-28,737,1,independiente,arrendada,3.0,entre uno y cinco anos,5000000.0,33556000.0,,nan,nan,union libre,secundaria,4.0,4.0,ninguno,1,0,5.44783,-74.66311,
 30,350000,6569.5,2021-04-28,737,1,empleado,arrendada,1.0,mas de 5 anos,2800000.0,800000.0,,indefinido,mensual,soltero/a,tecnico,2.0,2.0,ninguno,1,0,3.53944,-76.30361,142.80551905387648
 30,250000,4692.5,2021-04-28,737,1,empleado,familiar,2.0,mas de 5 anos,1400000.0,560000.0,,indefinido,quincenal,soltero/a,tecnologo,1.0,1.0,ninguno,1,0,6.25184,-75.56359,119.80946123521682
@@ -3645,7 +3645,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,450000,8446.5,2019-10-18,683,0,empleado,propia,4.0,mas de 5 anos,1600000.0,500000.0,200000.0,indefinido,mensual,soltero/a,no tengo,,,carro,1,0,4.81333,-75.69611,48.55453350854139
 30,500000,9385.0,2020-01-18,682,0,prestador de servicios,familiar,3.0,mas de 5 anos,1800000.0,300000.0,,indefinido,mensual,soltero/a,tecnico,,,ninguno,1,0,4.60971,-74.08175,33.37713534822602
 30,250000,4692.5,2021-03-19,682,0,independiente,familiar,3.0,mas de 5 anos,4500000.0,600000.0,,nan,nan,union libre,profesional,,2.0,ninguno,1,0,4.60971,-74.08175,
-30,350000,6569.5,2021-06-23,681,1,prestador de servicios,arrendada,3.0,entre uno y cinco anos,4350000.0,2300000.0,1500000.0,nan,nan,soltero/a,postgrado,1.0,0.0,ninguno,1,0,7.44348,-77.11964,50.29566360052562
+30,350000,6569.5,2021-06-23,681,1,prestador de servicios,arrendada,3.0,entre uno y cinco anos,4350000.0,2300000.0,1500000.0,nan,nan,soltero/a,postgrado,1.0,0.0,ninguno,1,0,4.60971,-74.08175,50.29566360052562
 30,350000,6569.5,2021-06-23,681,1,empleado,familiar,4.0,entre uno y cinco anos,1619000.0,600000.0,100000.0,indefinido,quincenal,soltero/a,tecnologo,,,ninguno,1,0,6.25184,-75.56359,82.09592641261499
 30,250000,4692.5,2019-08-10,681,0,empleado,familiar,3.0,entre uno y cinco anos,2250000.0,1000000.0,300000.0,termino fijo,mensual,union libre,profesional,1.0,1.0,ninguno,1,0,5.8245,-73.03408,38.14060446780552
 30,500000,9385.0,2021-06-24,680,1,empleado,familiar,3.0,mas de 5 anos,2000000.0,1300000.0,200000.0,indefinido,quincenal,divorciado/a,tecnologo,,2.0,ninguno,1,0,4.60971,-74.08175,124.67148488830486
@@ -3672,7 +3672,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,230000,4317.1,2020-08-21,666,0,empleado,nan,3.0,mas de 5 anos,,,,indefinido,quincenal,nan,nan,,,ninguno,1,0,4.43889,-75.23222,16.721419185282524
 30,200000,3754.0,2019-04-19,665,0,empleado,familiar,4.0,entre uno y cinco anos,1300000.0,500000.0,600000.0,indefinido,quincenal,union libre,profesional,1.0,,ninguno,1,0,4.81333,-75.69611,27.75952693823916
 30,200000,3754.0,2018-10-15,665,0,empleado,familiar,5.0,entre uno y cinco anos,2500000.0,800000.0,,indefinido,quincenal,union libre,profesional,,,ninguno,1,0,6.15639,-75.78722,
-30,200000,3754.0,2018-12-28,665,0,empleado,arrendada,2.0,entre uno y cinco anos,960000.0,450000.0,300000.0,termino fijo,quincenal,union libre,secundaria,1.0,1.0,moto,1,0,8.30844,-73.6166,10.676741130091985
+30,200000,3754.0,2018-12-28,665,0,empleado,arrendada,2.0,entre uno y cinco anos,960000.0,450000.0,300000.0,termino fijo,quincenal,union libre,secundaria,1.0,1.0,moto,1,0,4.60971,-74.08175,10.676741130091985
 30,200000,3754.0,2020-08-05,664,0,empleado,arrendada,2.0,entre uno y cinco anos,1200000.0,800000.0,200000.0,indefinido,quincenal,soltero/a,profesional,1.0,1.0,ninguno,1,0,4.43889,-75.23222,16.195795006570304
 30,200000,3754.0,2019-10-06,664,0,independiente,propia,1.0,mas de 5 anos,1500000.0,600000.0,800000.0,nan,nan,union libre,tecnico,3.0,3.0,ninguno,1,0,10.39972,-75.51444,
 30,500000,9385.0,2021-07-11,663,1,empleado,familiar,3.0,mas de 5 anos,1200000.0,400000.0,500000.0,indefinido,mensual,casado/a,tecnico,1.0,2.0,ninguno,1,0,4.82052,-73.16851,262.31931668856765
@@ -3681,7 +3681,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,190000,3566.3,2017-09-30,660,0,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,2.0,1.0,ninguno,1,0,4.60971,-74.08175,23.455978975032853
 28,450000,7883.4,2019-02-13,660,0,empleado,familiar,3.0,mas de 5 anos,1432000.0,800000.0,160000.0,indefinido,quincenal,soltero/a,tecnico,2.0,2.0,moto,1,0,6.33732,-75.55795,68.42969776609723
 30,500000,9385.0,2021-07-15,659,1,empleado,arrendada,3.0,entre uno y cinco anos,2700000.0,1800000.0,,indefinido,mensual,soltero/a,profesional,,,ninguno,1,0,4.60971,-74.08175,33.14717477003942
-30,350000,6569.5,2021-07-15,659,1,empleado,familiar,2.0,mas de 5 anos,1765000.0,400000.0,800000.0,indefinido,mensual,soltero/a,tecnologo,1.0,1.0,moto,1,0,4.60971,-74.08175,43.00262812089356
+30,350000,6569.5,2021-07-15,659,1,empleado,familiar,2.0,mas de 5 anos,1765000.0,400000.0,800000.0,indefinido,mensual,soltero/a,tecnologo,1.0,1.0,moto,1,0,2.93833,-73.20833,43.00262812089356
 30,300000,5631.0,2021-07-15,659,1,nan,arrendada,2.0,menos de un ano,,,,nan,nan,soltero/a,nan,,,nan,1,0,4.60971,-74.08175,
 30,200000,3754.0,2017-09-14,658,0,empleado,propia,3.0,entre uno y cinco anos,1300000.0,800000.0,200000.0,termino fijo,quincenal,union libre,tecnologo,3.0,2.0,ninguno,1,0,4.60971,-74.08175,120.0
 30,200000,3754.0,2019-01-05,657,0,empleado,familiar,3.0,entre uno y cinco anos,1100000.0,400000.0,200000.0,termino fijo,quincenal,union libre,tecnico,1.0,1.0,ninguno,1,0,6.25184,-75.56359,12.155059132720105
@@ -3776,7 +3776,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,300000,5631.0,2021-09-05,607,1,empleado,familiar,3.0,entre uno y cinco anos,1250000.0,400000.0,,termino fijo,quincenal,soltero/a,tecnico,,,ninguno,1,0,1.32866,-75.87824,25.09855453350854
 30,200000,3754.0,2017-12-17,607,0,empleado,familiar,2.0,entre uno y cinco anos,3000000.0,1600000.0,150000.0,indefinido,mensual,soltero/a,secundaria,1.0,2.0,carro,1,0,4.60971,-74.08175,
 24,200000,3003.2,2017-08-11,606,0,empleado,familiar,4.0,mas de 5 anos,1500000.0,700000.0,200000.0,indefinido,mensual,soltero/a,profesional,1.0,1.0,ninguno,1,0,4.60971,-74.08175,72.0
-20,160000,2002.133333,2018-10-16,605,0,independiente,familiar,2.0,mas de 5 anos,2800000.0,950000.0,350000.0,nan,nan,union libre,secundaria,1.0,1.0,moto,1,0,3.9361,-75.22169,
+20,160000,2002.133333,2018-10-16,605,0,independiente,familiar,2.0,mas de 5 anos,2800000.0,950000.0,350000.0,nan,nan,union libre,secundaria,1.0,1.0,moto,1,0,4.60971,-74.08175,
 30,400000,7508.0,2021-09-08,604,1,empleado,familiar,3.0,mas de 5 anos,1500000.0,55000.0,350000.0,indefinido,quincenal,soltero/a,profesional,,,ninguno,1,0,3.68549,-76.31372,58.37713534822602
 30,300000,5631.0,2021-09-08,604,1,empleado,familiar,2.0,entre uno y cinco anos,1300000.0,500000.0,200000.0,indefinido,mensual,union libre,secundaria,2.0,1.0,moto,1,0,3.43722,-76.5225,32.1287779237845
 30,170000,3190.9,2017-05-07,604,0,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,quincenal,nan,nan,4.0,3.0,ninguno,1,0,4.60971,-74.08175,
@@ -3819,10 +3819,10 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,450000,8446.5,2019-12-21,588,0,empleado,familiar,3.0,mas de 5 anos,6500000.0,2500000.0,,indefinido,nan,union libre,postgrado,,,carro,1,0,4.60971,-74.08175,4.204993429697766
 30,200000,3754.0,2019-09-20,588,0,prestador de servicios,familiar,2.0,mas de 5 anos,1000000.0,350000.0,,nan,nan,soltero/a,tecnologo,1.0,2.0,ninguno,1,0,2.43823,-76.61316,19.612352168199738
 30,180000,3378.6,2019-10-31,587,0,empleado,familiar,2.0,entre uno y cinco anos,1000000.0,700000.0,,termino fijo,quincenal,soltero/a,tecnologo,,,ninguno,1,0,6.25184,-75.56359,22.470433639947437
-30,250000,4692.5,2019-06-08,587,0,independiente,familiar,3.0,mas de 5 anos,2500000.0,900000.0,500000.0,nan,nan,casado/a,secundaria,3.0,2.0,ninguno,1,0,5.40867,-73.29572,
+30,250000,4692.5,2019-06-08,587,0,independiente,familiar,3.0,mas de 5 anos,2500000.0,900000.0,500000.0,nan,nan,casado/a,secundaria,3.0,2.0,ninguno,1,0,4.60971,-74.08175,
 30,300000,5631.0,2021-09-26,586,1,nan,familiar,3.0,mas de 5 anos,,,,nan,nan,casado/a,tecnico,2.0,3.0,ninguno,1,0,4.60971,-74.08175,
 30,250000,4692.5,2020-01-29,586,0,desempleado,familiar,3.0,entre uno y cinco anos,,,,termino fijo,quincenal,soltero/a,tecnologo,,,moto,1,0,6.15639,-75.78722,54.139290407358736
-30,500000,9385.0,2019-11-02,585,0,empleado,arrendada,4.0,menos de un ano,9500000.0,3500000.0,,indefinido,mensual,soltero/a,postgrado,2.0,,carro,1,0,5.44783,-74.66311,
+30,500000,9385.0,2019-11-02,585,0,empleado,arrendada,4.0,menos de un ano,9500000.0,3500000.0,,indefinido,mensual,soltero/a,postgrado,2.0,,carro,1,0,4.60971,-74.08175,
 30,250000,4692.5,2018-10-05,584,0,empleado,propia,3.0,mas de 5 anos,1800000.0,500000.0,300000.0,indefinido,mensual,union libre,tecnico,,,ninguno,1,0,4.71638,-74.21195,13.140604467805518
 30,300000,5631.0,2021-09-29,583,1,independiente,familiar,2.0,mas de 5 anos,3200000.0,480000.0,125000.0,nan,nan,soltero/a,profesional,,,ninguno,1,0,10.38439,-73.17332,
 30,180000,3378.6,2018-01-10,583,0,independiente,arrendada,3.0,entre uno y cinco anos,3000000.0,1300000.0,1000000.0,nan,nan,casado/a,secundaria,1.0,2.0,carro,1,0,4.60971,-74.08175,432.0
@@ -3868,7 +3868,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 20,150000,1877.0,2018-09-16,568,0,empleado,familiar,2.0,entre uno y cinco anos,6851000.0,1000000.0,8000000.0,indefinido,quincenal,soltero/a,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,
 30,200000,3754.0,2019-01-20,568,0,empleado,familiar,4.0,mas de 5 anos,2150000.0,550000.0,,indefinido,quincenal,soltero/a,profesional,,,carro,2,1,6.25184,-75.56359,61.629434954007884
 20,200000,2502.666667,2019-05-16,568,0,empleado,arrendada,3.0,entre uno y cinco anos,4000000.0,2000000.0,1000000.0,indefinido,mensual,soltero/a,profesional,,,ninguno,1,0,10.46314,-73.25322,10.183968462549277
-30,350000,6569.5,2019-07-11,568,0,empleado,arrendada,3.0,entre uno y cinco anos,4000000.0,1000000.0,1000000.0,indefinido,mensual,soltero/a,profesional,,,ninguno,1,0,4.60971,-74.08175,17.444152431011826
+30,350000,6569.5,2019-07-11,568,0,empleado,arrendada,3.0,entre uno y cinco anos,4000000.0,1000000.0,1000000.0,indefinido,mensual,soltero/a,profesional,,,ninguno,1,0,7.08471,-70.75908,17.444152431011826
 30,250000,4692.5,2019-09-19,568,0,empleado,arrendada,2.0,entre uno y cinco anos,1700000.0,750000.0,,indefinido,quincenal,union libre,tecnico,2.0,2.0,ninguno,1,0,4.60971,-74.08175,41.06438896189225
 30,500000,9385.0,2021-10-15,567,1,empleado,familiar,6.0,mas de 5 anos,2633040.0,1200000.0,400000.0,indefinido,mensual,soltero/a,postgrado,,,ninguno,1,0,4.60971,-74.08175,55.026281208935615
 30,180000,3378.6,2018-11-16,567,0,empleado,propia,3.0,entre uno y cinco anos,3000000.0,2000000.0,,indefinido,mensual,union libre,profesional,1.0,1.0,ninguno,2,1,4.60971,-74.08175,76.51116951379764
@@ -3878,11 +3878,11 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,500000,9385.0,2018-10-27,566,0,empleado,familiar,3.0,entre uno y cinco anos,4500000.0,2900000.0,,indefinido,mensual,casado/a,profesional,1.0,1.0,carro,1,0,4.60971,-74.08175,18.495400788436267
 30,450000,8446.5,2021-05-06,565,0,empleado,familiar,3.0,mas de 5 anos,2420000.0,1500000.0,,indefinido,mensual,soltero/a,tecnico,1.0,1.0,ninguno,1,0,2.50861,-78.4511,
 30,500000,9385.0,2019-12-21,564,0,empleado,familiar,3.0,mas de 5 anos,6500000.0,2500000.0,,indefinido,nan,union libre,postgrado,,,carro,2,1,4.60971,-74.08175,4.204993429697766
-30,300000,5631.0,2020-08-13,564,0,empleado,familiar,2.0,entre uno y cinco anos,3096000.0,500000.0,,indefinido,quincenal,union libre,tecnologo,2.0,2.0,ninguno,1,0,5.00886,-74.47226,84.69119579500656
+30,300000,5631.0,2020-08-13,564,0,empleado,familiar,2.0,entre uno y cinco anos,3096000.0,500000.0,,indefinido,quincenal,union libre,tecnologo,2.0,2.0,ninguno,1,0,4.60971,-74.08175,84.69119579500656
 9,180000,1013.58,2016-05-01,564,0,empleado,nan,3.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,1.0,1.0,ninguno,2,1,4.60971,-74.08175,12.0
 25,300000,4692.5,2019-12-27,563,0,empleado,propia,3.0,entre uno y cinco anos,2200000.0,1500000.0,400000.0,termino fijo,quincenal,casado/a,profesional,1.0,1.0,ninguno,2,1,6.25184,-75.56359,190.76872536136662
 30,500000,9385.0,2021-10-20,562,1,pensionado,propia,3.0,mas de 5 anos,6900000.0,2500000.0,3000000.0,nan,nan,casado/a,profesional,2.0,5.0,carro,1,0,4.60971,-74.08175,
-30,200000,3754.0,2017-05-28,562,0,empleado,nan,2.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,0.0,0.0,ninguno,1,0,2.00628,-76.78028,12.0
+30,200000,3754.0,2017-05-28,562,0,empleado,nan,2.0,entre uno y cinco anos,,,,indefinido,mensual,nan,nan,0.0,0.0,ninguno,1,0,4.60971,-74.08175,12.0
 30,250000,4692.5,2017-03-23,559,0,independiente,propia,3.0,menos de un ano,,,,nan,nan,soltero/a,no tengo,,,ninguno,1,0,3.90089,-76.29783,
 12,300000,2252.4,2017-01-01,558,0,empleado,nan,2.0,entre uno y cinco anos,1400000.0,500000.0,,termino fijo,quincenal,nan,nan,1.0,0.0,ninguno,1,0,4.60971,-74.08175,64.55321944809461
 30,200000,3754.0,2017-06-11,558,0,empleado,nan,5.0,mas de 5 anos,1250000.0,650000.0,150000.0,indefinido,mensual,nan,nan,1.0,1.0,moto,1,0,6.25184,-75.56359,
@@ -3899,7 +3899,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,250000,4692.5,2020-04-09,552,0,empleado,familiar,2.0,mas de 5 anos,1180000.0,680000.0,450000.0,termino fijo,mensual,union libre,tecnico,1.0,2.0,ninguno,1,0,4.60971,-74.08175,14.750328515111695
 30,500000,9385.0,2020-11-25,552,0,prestador de servicios,propia,1.0,entre uno y cinco anos,2530000.0,1200000.0,,nan,nan,union libre,tecnico,1.0,1.0,ninguno,1,0,4.60971,-74.08175,33.44283837056505
 30,500000,9385.0,2021-10-31,551,1,empleado,familiar,3.0,mas de 5 anos,1670000.0,1200000.0,877000.0,indefinido,quincenal,union libre,profesional,2.0,2.0,ninguno,1,0,11.24079,-74.19904,94.34954007884363
-30,200000,3754.0,2021-10-31,551,1,empleado,familiar,1.0,mas de 5 anos,1200000.0,600000.0,300000.0,termino fijo,mensual,soltero/a,secundaria,1.0,,ninguno,1,0,6.04167,-74.99278,80.6833114323259
+30,200000,3754.0,2021-10-31,551,1,empleado,familiar,1.0,mas de 5 anos,1200000.0,600000.0,300000.0,termino fijo,mensual,soltero/a,secundaria,1.0,,ninguno,1,0,4.60971,-74.08175,80.6833114323259
 30,160000,3003.2,2017-11-03,551,0,empleado,familiar,2.0,mas de 5 anos,1350000.0,400000.0,850000.0,indefinido,mensual,casado/a,tecnologo,1.0,1.0,moto,1,0,3.43722,-76.5225,34.09986859395532
 30,250000,4692.5,2020-01-19,551,0,empleado,familiar,3.0,mas de 5 anos,5200000.0,2000000.0,,indefinido,mensual,soltero/a,profesional,1.0,1.0,ninguno,1,0,3.53944,-76.30361,50.49277266754271
 14,300000,2627.8,2019-10-29,549,0,empleado,arrendada,3.0,entre uno y cinco anos,4553571.0,2000000.0,,indefinido,mensual,casado/a,profesional,3.0,2.0,ninguno,1,0,10.46314,-73.25322,62.352168199737186
@@ -3920,7 +3920,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,170000,3190.9,2019-08-28,544,0,empleado,familiar,2.0,mas de 5 anos,1112000.0,600000.0,,indefinido,mensual,soltero/a,tecnico,1.0,1.0,ninguno,1,0,3.43722,-76.5225,40.7030223390276
 30,250000,4692.5,2021-09-01,544,0,empleado,arrendada,2.0,entre uno y cinco anos,1250000.0,950000.0,230000.0,indefinido,mensual,soltero/a,tecnico,,2.0,ninguno,1,0,6.25184,-75.56359,138.96189224704335
 30,300000,5631.0,2017-04-06,543,0,empleado,arrendada,3.0,mas de 5 anos,1500000.0,360000.0,,indefinido,mensual,soltero/a,profesional,,,ninguno,1,0,6.25184,-75.56359,48.0
-30,280000,5255.6,2019-06-06,543,0,empleado,arrendada,3.0,entre uno y cinco anos,4000000.0,1000000.0,1000000.0,indefinido,mensual,soltero/a,profesional,,,ninguno,2,1,4.60971,-74.08175,16.294349540078844
+30,280000,5255.6,2019-06-06,543,0,empleado,arrendada,3.0,entre uno y cinco anos,4000000.0,1000000.0,1000000.0,indefinido,mensual,soltero/a,profesional,,,ninguno,2,1,7.08471,-70.75908,16.294349540078844
 30,200000,3754.0,2021-02-06,543,0,empleado,propia,3.0,mas de 5 anos,1500000.0,300000.0,,indefinido,mensual,casado/a,postgrado,1.0,1.0,moto,1,0,4.60971,-74.08175,287.7792378449409
 30,370000,6944.9,2019-04-12,542,0,prestador de servicios,familiar,3.0,entre uno y cinco anos,3000000.0,1500000.0,,nan,nan,soltero/a,profesional,1.0,1.0,ninguno,1,0,4.60971,-74.08175,109.42838370565046
 30,200000,3754.0,2020-10-02,542,0,empleado,familiar,2.0,mas de 5 anos,1500000.0,800000.0,,indefinido,quincenal,soltero/a,profesional,,,moto,1,0,4.60971,-74.08175,36.957950065703024
@@ -4017,7 +4017,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,400000,7508.0,2019-10-31,509,0,empleado,arrendada,2.0,entre uno y cinco anos,1600000.0,400000.0,,termino fijo,quincenal,soltero/a,tecnico,,,ninguno,1,0,6.25184,-75.56359,16.36005256241787
 30,200000,3754.0,2019-05-16,508,0,empleado,familiar,3.0,mas de 5 anos,2850000.0,1100000.0,,indefinido,mensual,divorciado/a,profesional,1.0,1.0,carro,1,0,5.38425,-73.68617,92.41130091984232
 30,300000,5631.0,2020-08-06,508,0,empleado,arrendada,4.0,entre uno y cinco anos,3200000.0,800000.0,,termino fijo,quincenal,divorciado/a,profesional,1.0,1.0,ninguno,1,0,6.15639,-75.78722,161.13666228646517
-30,150000,2815.5,2017-11-05,508,0,empleado,arrendada,4.0,menos de un ano,2300000.0,500000.0,,termino fijo,quincenal,soltero/a,profesional,,,ninguno,1,0,4.9218,-75.06232,
+30,150000,2815.5,2017-11-05,508,0,empleado,arrendada,4.0,menos de un ano,2300000.0,500000.0,,termino fijo,quincenal,soltero/a,profesional,,,ninguno,1,0,4.60971,-74.08175,
 9,200000,1126.2,2019-05-16,508,0,empleado,propia,2.0,mas de 5 anos,1166000.0,300000.0,700000.0,indefinido,mensual,casado/a,tecnico,2.0,2.0,ninguno,1,0,10.39972,-75.51444,133.1471747700394
 30,150000,2815.5,2018-02-12,507,0,independiente,propia,3.0,mas de 5 anos,2000000.0,6000000.0,1000000.0,nan,nan,divorciado/a,tecnologo,,,ninguno,1,0,6.25184,-75.56359,
 30,300000,5631.0,2018-01-20,506,0,empleado,propia,3.0,mas de 5 anos,1304000.0,417000.0,200000.0,termino fijo,mensual,divorciado/a,postgrado,1.0,1.0,moto,1,0,1.21361,-77.28111,22.601839684625492
@@ -4057,7 +4057,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,390000,7320.3,2021-12-29,492,1,nan,familiar,,mas de 5 anos,,,,nan,nan,soltero/a,nan,,,nan,1,0,4.60971,-74.08175,
 30,500000,9385.0,2021-12-29,492,1,empleado,familiar,3.0,mas de 5 anos,1150000.0,120000.0,150000.0,termino fijo,mensual,casado/a,profesional,1.0,1.0,ninguno,1,0,4.60971,-74.08175,133.8042049934297
 30,250000,4692.5,2019-10-20,491,0,empleado,arrendada,3.0,menos de un ano,2200000.0,1100000.0,430000.0,termino fijo,quincenal,union libre,profesional,,,ninguno,1,0,4.60971,-74.08175,6.800262812089356
-30,150000,2815.5,2018-07-26,491,0,empleado,arrendada,2.0,mas de 5 anos,978211.0,400000.0,,indefinido,quincenal,soltero/a,tecnologo,,,ninguno,1,0,5.87458,-75.56706,37.746386333771355
+30,150000,2815.5,2018-07-26,491,0,empleado,arrendada,2.0,mas de 5 anos,978211.0,400000.0,,indefinido,quincenal,soltero/a,tecnologo,,,ninguno,1,0,4.60971,-74.08175,37.746386333771355
 30,400000,7508.0,2021-12-31,490,1,independiente,familiar,1.0,mas de 5 anos,1350000.0,800000.0,200000.0,nan,nan,union libre,profesional,1.0,1.0,ninguno,1,0,10.91843,-74.76459,
 30,150000,2815.5,2018-03-01,490,0,prestador de servicios,familiar,2.0,entre uno y cinco anos,4250000.0,1800000.0,500000.0,nan,nan,union libre,profesional,1.0,1.0,moto,1,0,4.93722,-75.73778,
 30,400000,7508.0,2018-01-04,489,0,empleado,propia,3.0,mas de 5 anos,2566000.0,800.0,,indefinido,quincenal,soltero/a,no tengo,0.0,0.0,ninguno,1,0,6.25184,-75.56359,21.0
@@ -4065,7 +4065,7 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,250000,4692.5,2022-01-02,488,1,empleado,familiar,3.0,mas de 5 anos,2800000.0,500000.0,1600000.0,indefinido,mensual,soltero/a,profesional,,,ninguno,2,1,6.25184,-75.56359,27.036793692509857
 30,500000,9385.0,2022-01-02,488,1,empleado,familiar,3.0,mas de 5 anos,1500000.0,1200000.0,300000.0,termino fijo,quincenal,soltero/a,profesional,,,moto,1,0,3.43722,-76.5225,81.99737187910644
 30,162000,3040.74,2017-10-28,488,0,empleado,familiar,4.0,menos de un ano,1800000.0,700000.0,200000.0,indefinido,quincenal,soltero/a,tecnologo,,,ninguno,1,0,4.60971,-74.08175,
-30,320000,6006.4,2019-06-09,488,0,empleado,propia,3.0,mas de 5 anos,2048000.0,700000.0,,indefinido,quincenal,union libre,profesional,,,ninguno,1,0,4.60971,-74.08175,47.700394218134036
+30,320000,6006.4,2019-06-09,488,0,empleado,propia,3.0,mas de 5 anos,2048000.0,700000.0,,indefinido,quincenal,union libre,profesional,,,ninguno,1,0,6.09106,-75.63569,47.700394218134036
 30,200000,3754.0,2019-09-22,488,0,empleado,arrendada,2.0,entre uno y cinco anos,1000000.0,800000.0,200000.0,termino fijo,quincenal,union libre,tecnologo,,,ninguno,1,0,6.25184,-75.56359,10.216819973718792
 30,200000,3754.0,2017-09-24,487,0,empleado,arrendada,3.0,menos de un ano,2500000.0,700000.0,400000.0,indefinido,mensual,soltero/a,profesional,0.0,0.0,carro,1,0,5.33775,-72.39586,14.0
 30,250000,4692.5,2019-11-23,486,0,empleado,familiar,2.0,entre uno y cinco anos,3350000.0,1500000.0,250000.0,indefinido,mensual,casado/a,profesional,1.0,1.0,ninguno,1,0,10.96854,-74.78132,33.08147174770039
@@ -4117,14 +4117,14 @@ PLAZO,CAPITAL,INT CORRIENTE,PRÓXIMA FECHA PAGO,DÍAS MORA,Cuotas en mora,TIPO E
 30,300000,5631.0,2022-01-23,467,1,empleado,familiar,3.0,mas de 5 anos,1563000.0,800000.0,,indefinido,quincenal,union libre,secundaria,,1.0,ninguno,2,1,7.53941,-72.77238,189.61892247043363
 30,150000,2815.5,2019-02-10,467,0,empleado,arrendada,4.0,entre uno y cinco anos,1200000.0,500000.0,1400000.0,indefinido,quincenal,soltero/a,tecnico,,,ninguno,1,0,4.60971,-74.08175,12.0
 30,300000,5631.0,2017-02-18,466,0,empleado,familiar,2.0,mas de 5 anos,3757408.0,2000000.0,700000.0,indefinido,mensual,casado/a,postgrado,2.0,2.0,carro,1,0,4.57937,-74.21682,120.0065703022339
-30,250000,4692.5,2018-01-06,466,0,empleado,familiar,3.0,menos de un ano,1450000.0,390000.0,,nan,nan,soltero/a,secundaria,,,ninguno,1,0,2.9273,-75.28189,
+30,250000,4692.5,2018-01-06,466,0,empleado,familiar,3.0,menos de un ano,1450000.0,390000.0,,nan,nan,soltero/a,secundaria,,,ninguno,1,0,4.60971,-74.08175,
 18,300000,3378.6,2019-03-22,466,0,empleado,propia,2.0,mas de 5 anos,1622000.0,1200000.0,,termino fijo,mensual,soltero/a,postgrado,,,ninguno,2,1,4.60971,-74.08175,52.660972404730614
 30,250000,4692.5,2020-04-17,465,0,independiente,familiar,3.0,mas de 5 anos,2000000.0,1000000.0,,nan,nan,soltero/a,secundaria,,,ninguno,1,0,4.60971,-74.08175,
 30,150000,2815.5,2018-01-21,464,0,empleado,arrendada,2.0,menos de un ano,1316000.0,250000.0,,indefinido,mensual,union libre,profesional,1.0,1.0,ninguno,1,0,4.60971,-74.08175,32.72010512483574
 30,250000,4692.5,2018-05-02,464,0,empleado,nan,2.0,entre uno y cinco anos,,,,indefinido,quincenal,nan,nan,2.0,3.0,moto,1,0,4.60971,-74.08175,12.0
 30,500000,9385.0,2022-01-27,463,1,empleado,familiar,4.0,entre uno y cinco anos,3950000.0,1300000.0,1200000.0,indefinido,mensual,union libre,postgrado,,,ninguno,1,0,4.60971,-74.08175,338.14060446780553
 30,160000,3003.2,2017-10-11,463,0,empleado,propia,2.0,entre uno y cinco anos,2630000.0,1200000.0,800000.0,termino fijo,quincenal,union libre,tecnico,2.0,2.0,moto,1,0,10.46314,-73.25322,52.52956636005256
-30,280000,5255.6,2019-11-17,463,0,empleado,arrendada,4.0,menos de un ano,9500000.0,3500000.0,,indefinido,mensual,soltero/a,postgrado,2.0,,carro,2,1,5.44783,-74.66311,
+30,280000,5255.6,2019-11-17,463,0,empleado,arrendada,4.0,menos de un ano,9500000.0,3500000.0,,indefinido,mensual,soltero/a,postgrado,2.0,,carro,2,1,4.60971,-74.08175,
 30,200000,3754.0,2019-12-01,463,0,empleado,arrendada,4.0,menos de un ano,830000.0,300000.0,,indefinido,quincenal,soltero/a,secundaria,1.0,1.0,ninguno,1,0,6.25184,-75.56359,3.942181340341656
 30,500000,9385.0,2022-01-28,462,1,independiente,familiar,3.0,mas de 5 anos,5000000.0,5000000.0,1000000.0,nan,nan,divorciado/a,tecnologo,,2.0,carro,1,0,10.39972,-75.51444,
 29,150000,2721.65,2017-08-17,462,0,independiente,propia,5.0,mas de 5 anos,1800000.0,700000.0,,nan,nan,casado/a,profesional,,,ninguno,1,0,6.25184,-75.56359,
