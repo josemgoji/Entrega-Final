@@ -16,6 +16,7 @@ from sklearn.metrics import ConfusionMatrixDisplay , precision_recall_curve , Ro
 from sklearn.metrics import accuracy_score,roc_auc_score, precision_score, recall_score, f1_score, average_precision_score
 from sklearn.model_selection import StratifiedKFold
 from imblearn.over_sampling import RandomOverSampler
+import joblib
 
 
 current_dir = os.getcwd() # Obtener la ruta del directorio actual del notebook
@@ -243,16 +244,24 @@ Modelo2 = modelo(df_credit_info,'mora',logistic_regression)
 df_final_2, fig1_2, fig2_2 = graficas(test_credit_info, 'mora', model = Modelo1)
 
 
+## guardar graficas, modelos y df final
 df_final_path = root.DIR_DATA_ANALYTICS + 'df_final_infousers.csv'
 cm_path = root.DIR_DATA_ANALYTICS + 'confusion_matrix_infousers.png'
 plots_path = root.DIR_DATA_ANALYTICS + 'graficas_infousers.png'
+model1_path = root.DIR_DATA_ANALYTICS + 'model1_infousers.pkl'
 fig1_1.savefig(cm_path)
 fig2_1.savefig(plots_path)
 df_final.to_csv(df_final_path, index=False)
+joblib.dump(Modelo1, model1_path)
 
 df_final2_path = root.DIR_DATA_ANALYTICS + 'df_final_creditinfo.csv'
 cm2_path = root.DIR_DATA_ANALYTICS + 'confusion_matrix_creditinfo.png'
 plots2_path = root.DIR_DATA_ANALYTICS + 'graficas_creditinfo.png'
+model2_path = root.DIR_DATA_ANALYTICS + 'model2_creditinfo.pkl'
 fig1_2.savefig(cm2_path)
 fig2_2.savefig(plots2_path)
 df_final_2.to_csv(df_final2_path, index=False)
+joblib.dump(Modelo2, model2_path)
+
+
+
