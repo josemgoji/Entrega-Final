@@ -235,8 +235,6 @@ python 5_model_training_CV_evaluacion.py
 
 ## Requerimientos
 
-**Nota:** Obligatorio: Minimo debe escribir los requerimientos por cada lenguaje de programacion usado tanto en el back-end (Ej: Python, R) como en el front-end, si aplica. Tambien, es importante que ponga las versiones correspondientes 
-
 ### Librerias Empleadas 
 
 fuzzywuzzy<br>
