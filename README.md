@@ -221,22 +221,30 @@ python 3_outliers_imputacion_codificacion.py
 - Seleccion de caracteristicas 2 y Train-test split , para esto debe ejecutar el siguiente archivo
   
 ```
-python 4_FS2_train_test_split.py
+python 4_feature_selection_2.py
 
 ```
 
 ### Paso 8: 
+- Seleccion de caracteristicas 2 y Train-test split , para esto debe ejecutar el siguiente archivo
+  
+```
+python 5_train_test_split.py
+
+```
+
+### Paso 9: 
 - Entrenamiento del modelo y seleccion con cross validation, para esto debe ejecutar el siguiente archivo
   
 ```
-python 5_model_training_CV.py
+python 6_model_training_CV.py
 
 ```
-### Paso 9: 
+### Paso 10: 
 - Evaluacion del modelo seleccionado , para esto debe ejecutar el siguiente archivo
   
 ```
-python 6_model_evaluation.py
+python 7_model_evaluation.py
 
 ```
 
