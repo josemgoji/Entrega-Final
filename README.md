@@ -180,10 +180,67 @@ Utilizando los conjuntos de test se procede a evaluar los modelos y se generar l
 
 
 ## Proceso de ejecucion y despliegue 
-**Nota:** Para llenar
+### Paso 1:
+- Ingresar a la carpeta deseada
+
+### Paso 2:
+- crear el ambiente e instalar el archivo requirements.txt 
+  
+```
+conda create --name <NombreAmbiente> python = 3.12
+conda activate <NombreAmbiente>
+conda instal pip
+pip install -r requirements.txt
+
+```
+### Paso 3:
+-eliminar todos los archivos que se encuentren en las carpetas data/raw, /stage y /analytics a excepcion de el dataset de ciudades.cvs de la carpeta data/raw
+- Ubicar en la carpeta data/raw la base de datos de con con la que se vaya a trabajar
+
+### Paso 4: 
+- Seleccion de caracteristicas inicial, para esto debe ejecutar el siguiente archivo
+  
+```
+python 1_feture_selection_1.py
+
+```
+
+
+### Paso 5: 
+- Procesamiento de variables categoricas , para esto debe ejecutar el siguiente archivo
+  
+```
+python 2_cat_var_proc.py
+
+```
+
+### Paso 6: 
+- Manejo de outliers, imputación y codificación , para esto debe ejecutar el siguiente archivo
+  
+```
+python 3_outliers_imputacion_codificacion.py
+
+```
+### Paso 7: 
+- Seleccion de caracteristicas 2 y Train-test split , para esto debe ejecutar el siguiente archivo
+  
+```
+python 4_FS2_train_test_split.py
+
+```
+
+### Paso 8: 
+- Entenamiento del modelo, seleccion con cross validation y evaluacion del modelo seleccionado , para esto debe ejecutar el siguiente archivo
+  
+```
+python 5_model_training_CV_evaluacion.py
+
+```
 
 ## Requerimientos
+
 **Nota:** Obligatorio: Minimo debe escribir los requerimientos por cada lenguaje de programacion usado tanto en el back-end (Ej: Python, R) como en el front-end, si aplica. Tambien, es importante que ponga las versiones correspondientes 
+
 ### Librerias Empleadas 
 
 fuzzywuzzy==0.18.0 <br>
@@ -208,39 +265,6 @@ Para llenar
 ## Instalación: 
 **Nota:** Obligatorio: Minimo debe haber en el proyecto el archivo que permita instalar el ambiente necesario para el despliegue de la solución y los comandos ejecutados para la instalacion. Por ejemplo, si es Python un requeriments.txt o un archivo de DESCRIPTION en R. 
 
-## Configuracion
-**Nota:** Para llenar
-
-## Ejemplos de Codigo 
-**Nota:** Para llenar
-
-## Errores conocidos 
-**Nota:** Para llenar
-
-## Pruebas Automatizadas 
-**Nota:** Si aplica puede poner como correr las pruebas
-
-## Imagenes
-**Nota:** Si aplica puede poner cuales fueron las imagenes usadas (Ejemplo: Docker)
-
-## Usage 
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
-## Contributing 
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## License 
-For open source projects, say how it is licensed.
 
 ## Autores
 
