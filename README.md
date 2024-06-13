@@ -7,9 +7,6 @@ Tambien, en los siguientes links se encuentra la informacion documental asociada
 
 [Informe Proyecto:](https://livejaverianaedu.sharepoint.com/:w:/r/sites/PruebasdeconceptoacadmicasCAOBA-poc-069-lumon-riesgo-crediticio-fase1/Shared%20Documents/poc-069-lumon-riesgo-crediticio-fase1/1_Proyecto%20y%20seguimiento/Informe%20proyecto/1_Propuesta%20de%20proyecto.docx?d=w7026f59589424f289fa3cc23861e7881&csf=1&web=1&e=FYgOyc)
 
-Manual de Usuario: (**Pendiente**)
-
-Video Demo: (**Pediente**)
 
 [Plantilla de Comunicaciones:](https://livejaverianaedu.sharepoint.com/:w:/r/sites/PruebasdeconceptoacadmicasCAOBA-poc-069-lumon-riesgo-crediticio-fase1/Shared%20Documents/poc-069-lumon-riesgo-crediticio-fase1/1_Proyecto%20y%20seguimiento/Plantillas%20Caoba/PLANTILLA%20DE%20INSUMOS%20_CAOBA_PoC%20069.docx?d=w7c1b8ef32d9f480f996d6934cf14d5ea&csf=1&web=1&e=DNyObh)
 
@@ -257,12 +254,14 @@ Unidecode<br>
 ### Requerimientos Hardware
 
 | Requerimiento   |  |
+|----------|-----------|
 | Python   | 3.12.2|
 |Aplicativo   | Visual Studio Code |
 
 ### Requerimientos Software
 
 | Requerimiento   |  |
+|----------|-----------|
 | RAM del sistema   | 8 GB|
 | Procesador | intel i5 |
 
