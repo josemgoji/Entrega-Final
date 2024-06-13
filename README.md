@@ -187,7 +187,7 @@ Utilizando los conjuntos de test se procede a evaluar los modelos y se generar l
 - crear el ambiente e instalar el archivo requirements.txt 
   
 ```
-conda create --name <NombreAmbiente> python = 3.12
+conda create --name <NombreAmbiente> python = 3.12.2
 conda activate <NombreAmbiente>
 conda instal pip
 pip install -r requirements.txt
@@ -204,7 +204,6 @@ pip install -r requirements.txt
 python 1_feture_selection_1.py
 
 ```
-
 
 ### Paso 5: 
 - Procesamiento de variables categoricas , para esto debe ejecutar el siguiente archivo
@@ -258,12 +257,16 @@ statsmodels==0.14.2<br>
 Unidecode==1.3.8<br>
 
 ### Requerimientos Hardware
-Para llenar
-### Requerimientos Software
-Para llenar
 
-## Instalación: 
-**Nota:** Obligatorio: Minimo debe haber en el proyecto el archivo que permita instalar el ambiente necesario para el despliegue de la solución y los comandos ejecutados para la instalacion. Por ejemplo, si es Python un requeriments.txt o un archivo de DESCRIPTION en R. 
+| Requerimiento   |  |
+| Python   | 3.12.2|
+|Aplicativo   | Visual Studio Code |
+
+### Requerimientos Software
+
+| Requerimiento   |  |
+| RAM del sistema   | 8 GB|
+| Procesador | intel i5 |
 
 
 ## Autores
