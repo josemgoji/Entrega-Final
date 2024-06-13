@@ -99,47 +99,83 @@ Utilizando los conjuntos de test se procede a evaluar los modelos y se generar l
 
 ```
 .
-├── README.md
-├── .gitignore
-├── root.py
-├── requirements.txt
-├── data/
-│   ├── raw/
-│   │   ├── ciudades.csv
-│   │   ├── db_raw_infousers.csv
-│   │   ├── db_raw_reducida.csv
-│   │   ├── db_v0.xlsx
-│   └── stage/
-│   |   └── df_pross_info_users.csv
-│   |   └── df_categorico_imputado.csv
-│   |   └── df_imputado_final.csv
-│   |   └── df_imputado.csv
-│   |   └── df_numerico_imputado.csv
-│   |   └── df_numerico1_imputado.csv
-│   |   └── train_creditinfo.csv
-│   |   └── train_infousers.csv
-│   |   └── test_creditinfo.csv
-│   |   └── test_infousers.csv
-│   ├── analytics/
-├── datalab/
-|    ├──basicdescriptives_mod.py
-|    ├──EDA.ipynb
-|    ├──Cleannig.ipynb
-|    ├──Imputacion.ipynb
-|    ├──Ingenieria_de_caracteristicas.ipynb
-|    ├──Modelos_LogReg_VSC.ipynb
-|    ├──Modelos_NB_LDA.ipynb
-|    ├──NLP.ipynb
-|    ├──pross_variables_categoricas.ipynb
-├── src/
-├── conf/
-├── docs/
-│   └── readme/
-│       ├── docs_DiagramaArquitectura.png
-├── dashboard/
-├── deploy/
-└── temp/
-    ├──basicdescriptives.py
+│   .gitignore
+│   README.md
+│   repo_structure.txt
+│   requirements.txt
+│   root.py
+│
+├───.vscode
+│       settings.json
+│
+├───conf
+│       temp.txt
+│
+├───dashboard
+│       temp.txt
+│
+├───data
+│   ├───analytics
+│   │       confusion_matrix_creditinfo.png
+│   │       confusion_matrix_infousers.png
+│   │       df_final_creditinfo.csv
+│   │       df_final_infousers.csv
+│   │       graficas_creditinfo.png
+│   │       graficas_infousers.png
+│   │       model1_infousers.pkl
+│   │       model2_creditinfo.pkl
+│   │       todo.txt
+│   │
+│   ├───raw
+│   │       ciudades.csv
+│   │       db_raw_creditinfo.csv
+│   │       db_raw_infousers.csv
+│   │       db_raw_reducida.csv
+│   │       db_v0.xlsx
+│   │
+│   └───stage
+│           db_pross_info_users.csv
+│           df_imputado.csv
+│           test_creditinfo.csv
+│           test_infousers.csv
+│           train_creditinfo.csv
+│           train_infousers.csv
+│
+├───datalab
+│   │   1_EDA.ipynb
+│   │   2_Cleaning.ipynb
+│   │   3_pross_variables_categoricas.ipynb
+│   │   4_Imputacion.ipynb
+│   │   5_seleccion_caracteristicas.ipynb
+│   │   6_Modelos_NB_LDA.ipynb
+│   │   7_feature_backward_selection.ipynb
+│   │   basicdescriptives_mod.py
+│   │   NLP.ipynb
+│   │
+│   └─── basicdescriptives_mod.py
+│       
+│
+├───deploy
+│       temp.txt
+│
+├───docs
+│   └───readme
+│           docs_DiagramaArquitectura.png
+│
+├───src
+│       1_feture_selection_1.py
+│       2_cat_var_proc.py
+│       3_outliers_imputacion_codificacion.py
+│       4_FS2_train_test_split.py
+│       5_model_training_CV_evaluacion.py
+│       temp.txt
+│
+├───temp
+│       basicdescriptives.py
+│       temp.txt
+│
+└─── root.py
+        
 ```
 
 
