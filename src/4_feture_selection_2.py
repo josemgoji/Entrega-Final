@@ -46,7 +46,7 @@ df_final.to_csv(file_path, index=False)
 
 # info creditos
 
-path_infocreditos = root.DIR_DATA_RAW + 'db_raw_reducida.csv'
+path_infocreditos = root.DIR_DATA_RAW + 'db_raw_creditinfo.csv'
 
 df_infocreditos = pd.read_csv(path_infocreditos)
 
